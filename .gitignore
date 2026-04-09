@@ -1,0 +1,10 @@
+node_modules
+dist
+.slidev
+rag.aux
+rag.bbl
+rag.bcf
+rag.blg
+rag.log
+rag.run.xml
+rag.pdf
