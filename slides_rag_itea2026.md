@@ -49,10 +49,10 @@ Welcome everyone. We're Sam Bright and Michael Soltys from GBL Systems, and toda
 
 ### <span style="color: #6b21a8;">Fine-Tuning Is Not the Answer</span>
 
-- High retraining compute costs
+- High retraining compute costs, must repeat with new data
 - Degrades performance outside the fine-tuned domain
-- Still cannot access post-training information
 - No source attribution for auditability
+- Increased vendor lock-in with a single LLM
 
 </div>
 
@@ -533,16 +533,12 @@ For document ingestion, we use Docling — an open-source library that uses OCR 
 <strong>2. Right-size your vector DB</strong> — Milvus Lite (Python library, t3.small) scales to millions of vectors; Standalone (t3.xlarge) scales to 100M+ for enterprise workloads
 </div>
 
-<div class="border-l-4 border-green-500 pl-3 py-2 mb-3">
-<strong>3. GovCloud IAM requires explicit credentials</strong> — role-based implicit credentials behave unreliably; use explicit IAM users with minimal Bedrock permissions
-</div>
-
 <div class="border-l-4 border-purple-500 pl-3 py-2 mb-3">
-<strong>4. TLS everywhere, even internal</strong> — GovCloud environments block unencrypted traffic and non-standard ports
+<strong>3. TLS everywhere, even internal</strong> — GovCloud environments block unencrypted traffic and non-standard ports
 </div>
 
 <div class="border-l-4 border-red-500 pl-3 py-2 mb-3">
-<strong>5. Modular frameworks pay off</strong> — Haystack's component architecture allowed individual pipeline stages to be replaced without affecting the overall system
+<strong>4. Modular frameworks pay off</strong> — Haystack's component architecture allowed individual pipeline stages to be replaced without affecting the overall system
 </div>
 
 </div>
