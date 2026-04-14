@@ -26,7 +26,7 @@ GBL Systems Corporation
 ITEA Test Instrumentation Workshop · April 28–30, 2026 · Las Vegas, NV
 
 <!--
-Welcome everyone. We're Sam Bright and Michael Soltys from GBL Systems, and today we're going to talk about how Retrieval-Augmented Generation — RAG — can be deployed as a production AI capability for Department of War Test and Evaluation programs. We'll cover what RAG is and why it matters for T&E, the architecture you need for production deployment, the security controls required for CUI and classified data, a real-world case study from a Navy warfare center, and how few-shot prompting transforms RAG from a Q&A chatbot into an automated report generator.
+Michael opens. Welcome everyone. We're Michael Soltys and Sam Bright from GBL Systems. This talk is about Retrieval-Augmented Generation — RAG — as a production AI capability for Department of War Test and Evaluation programs. Michael will cover the why and the how: what RAG is, how it works, the architecture for production deployment, and the security controls required for CUI and classified data. Then Sam will walk through a real Navy case study — RustyAI — and show how few-shot prompting turns RAG from a Q&A chatbot into an automated report generator.
 -->
 
 ---
@@ -61,6 +61,8 @@ Welcome everyone. We're Sam Bright and Michael Soltys from GBL Systems, and toda
 <div class="text-2xl italic text-left mt-6" style="color: #2E7D32; border-left: 4px solid #2E7D32; padding-left: 16px;">
 RAG combines a librarian with a language model: the librarian searches, the model writes.
 </div>
+
+<div class="abs-br m-6 text-sm opacity-50 font-bold">MS</div>
 
 <!--
 Let's start with why we need RAG at all. Large Language Models are powerful, but they have three critical failure modes for T&E work. First, knowledge staleness — your test procedures, system specs, and MIL-STDs are constantly updating, but the model's weights are frozen. Second, hallucination — in safety-critical reporting, a plausible-sounding but wrong answer can be dangerous. Third, non-traceability — DoW documentation standards require cited, auditable evidence, and a standalone LLM can't tell you where its answer came from.
@@ -104,6 +106,8 @@ RAG accuracy: <strong>107–177% improvement</strong> over zero-shot LLM baselin
 
 </div>
 
+<div class="abs-br m-6 text-sm opacity-50 font-bold">MS</div>
+
 <!--
 Here's how RAG works at a high level. It's a four-stage pipeline. First, you ingest your documents — test plans, MIL-STDs, specifications, previous reports — and chunk them into manageable pieces. Second, you embed each chunk into a dense vector representation and store it in a vector database with metadata. Third, when a user asks a question, you embed the query and find the most semantically similar chunks. Fourth, you inject those chunks into the LLM's context window and generate a response grounded in that evidence.
 
@@ -114,9 +118,9 @@ The key insight is that embeddings capture meaning, not just keywords. Two sente
 
 # Naive vs. Advanced RAG
 
-<div class="grid grid-cols-3 gap-4 mt-6">
+<div class="grid grid-cols-3 gap-3 mt-3">
 
-<div class="border-2 border-blue-500 p-4 rounded">
+<div class="border-2 border-blue-500 p-3 rounded">
 
 ### <span style="color: #6b21a8;">Naive RAG</span>
 
@@ -128,7 +132,7 @@ Single-pass retrieve-then-generate
 
 </div>
 
-<div class="border-2 border-yellow-500 p-4 rounded">
+<div class="border-2 border-yellow-500 p-3 rounded">
 
 ### <span style="color: #6b21a8;">Advanced RAG</span>
 
@@ -141,7 +145,7 @@ Multi-stage processing pipeline
 
 </div>
 
-<div class="border-2 border-green-500 p-4 rounded">
+<div class="border-2 border-green-500 p-3 rounded">
 
 ### <span style="color: #6b21a8;">Agentic RAG</span>
 
@@ -156,9 +160,11 @@ LLM orchestrator decides autonomously
 
 </div>
 
-<div class="bg-blue-100 dark:bg-blue-900 p-4 rounded mt-4 text-center text-xl">
+<div class="bg-blue-100 dark:bg-blue-900 p-2 rounded mt-3 text-center text-base">
 Production T&E deployments require <strong>Advanced RAG</strong> at minimum — naive RAG is not sufficient
 </div>
+
+<div class="abs-br m-6 text-sm opacity-50 font-bold">MS</div>
 
 <!--
 RAG implementations have evolved through several generations. Naive RAG does a simple single-pass retrieve-then-generate, but it's prone to retrieving the wrong chunks and misaligning context. Advanced RAG adds query rewriting, re-ranking, and relevance filtering. Re-ranking alone provides a 3.4x improvement in retrieval precision. Agentic RAG is the emerging frontier where the LLM autonomously decides when to retrieve, formulates sub-queries, and integrates multiple retrieval rounds. For production T&E, you need Advanced RAG at minimum.
@@ -202,6 +208,8 @@ Essential for T&E terminology: MIL-STD designators, system nomenclature, test pr
 </div>
 
 </div>
+
+<div class="abs-br m-6 text-sm opacity-50 font-bold">MS</div>
 
 <!--
 Two critical retrieval engineering decisions. First, chunking strategy: 512-token chunks achieve the highest faithfulness at 97.59%, while 2048-token chunks drop to just 80%. The sliding window approach with overlap prevents boundary information loss.
@@ -287,9 +295,11 @@ Human-in-the-loop review
 
 </div>
 
-<div class="bg-blue-100 dark:bg-blue-900 p-4 rounded mt-4 text-center text-xl">
+<div class="bg-blue-100 dark:bg-blue-900 p-3 rounded mt-3 text-center text-lg">
 A production DoW RAG system is a <strong>multi-layer data platform</strong> — not an ad hoc chatbot
 </div>
+
+<div class="abs-br m-6 text-sm opacity-50 font-bold">MS</div>
 
 <!--
 A production RAG system is not a chatbot — it's a multi-layer data and AI platform. Layer 1 handles document ingestion from SharePoint, file shares, PDFs, and technical data packages, with OCR and metadata enrichment. Layer 2 handles embedding and indexing in a vector database — Milvus is the most comprehensive option, satisfying all four key criteria including billion-scale support. Layer 3 orchestrates retrieval with query expansion, re-ranking, and classification-aware metadata filtering. Layer 4 handles LLM generation, with model selection varying by impact level — IL4 through IL6. Layer 5 provides observability, CI/CD, and governance, including mandatory audit trails and human-in-the-loop review. Treating RAG as an ad hoc feature is the primary cause of failed deployments.
@@ -299,9 +309,9 @@ A production RAG system is not a chatbot — it's a multi-layer data and AI plat
 
 # Deployment Across Classification Levels
 
-<div class="grid grid-cols-2 gap-6 mt-4">
+<div class="grid grid-cols-2 gap-6 mt-2">
 
-<div>
+<div class="text-sm">
 
 ### <span style="color: #6b21a8;">JWCC Cloud On-Ramps</span>
 
@@ -316,17 +326,17 @@ Four enterprise providers — AWS, Azure, Google, Oracle — supporting IL2 thro
 
 </div>
 
-<div>
+<div class="text-sm">
 
 ### <span style="color: #6b21a8;">GenAI.mil: The Mandate</span>
 
-- **January 2026:** DON designated GenAI.mil as the mandated CUI/IL5 generative AI platform
-- **Deadline:** All commands transition by **April 30, 2026**
-- Built on Google Cloud with Anthropic, OpenAI, and xAI contracts (up to $200M each)
-- RAG with uploaded documents, web grounding, and deep research
-- **3 million DoW employees** served
+- **Dec 2025:** CDAO launches GenAI.mil — Pentagon-wide generative AI platform
+- **Jan 2026:** DoN mandates transition for all commands; **deadline April 30, 2026**
+- July 2025 CDAO frontier-AI contracts, up to $200M each: **Google, OpenAI, xAI** (*Anthropic excluded since March 2026*)
+- Gemini for Government first; RAG with uploaded docs, web grounding, deep research
+- **3 million** warfighters, civilians, and contractors served
 
-<div class="bg-blue-100 dark:bg-blue-900 p-3 rounded mt-4 text-center">
+<div class="bg-blue-100 dark:bg-blue-900 p-2 rounded mt-2 text-center">
 RAG is now an <strong>institutional requirement</strong>, not an optional capability
 </div>
 
@@ -334,19 +344,21 @@ RAG is now an <strong>institutional requirement</strong>, not an optional capabi
 
 </div>
 
+<div class="abs-br m-6 text-sm opacity-50 font-bold">MS</div>
+
 <!--
 The Joint Warfighting Cloud Capability provides four enterprise cloud on-ramps supporting deployment from IL2 through IL6. Containerized RAG stacks can even be deployed on tactical edge environments — naval vessels and forward operating bases.
 
-And here's the mandate: in January 2026, the Department of the Navy formally designated GenAI.mil as the mandated CUI and IL5 generative AI platform for all DON users, with a transition deadline of April 30, 2026. GenAI.mil provides RAG for sourcing answers from uploaded documents. This means RAG-enabled AI is now an institutional requirement, not an optional capability.
+And here's the mandate. In December 2025, the Pentagon's CDAO launched GenAI.mil — a Department-wide generative AI platform built on CDAO's July 2025 frontier-AI contracts of up to $200 million each. In January 2026 the Department of the Navy mandated transition for all commands by April 30, 2026. Google's Gemini for Government is the first model available on the platform, with OpenAI and xAI also on contract. Anthropic was also awarded a contract last July, but since the March 2026 supply chain risk designation — which we'll come back to in a moment — Anthropic is excluded from DoW use. GenAI.mil is serving roughly 3 million warfighters, civilians, and contractors. The point: RAG-enabled AI is now an institutional requirement, not an optional capability.
 -->
 
 ---
 
 # Security Controls for CUI and Classified RAG
 
-<div class="grid grid-cols-2 gap-6 mt-4">
+<div class="grid grid-cols-2 gap-6 mt-2">
 
-<div>
+<div class="text-sm">
 
 ### <span style="color: #6b21a8;">Regulatory Framework</span>
 
@@ -358,7 +370,7 @@ And here's the mandate: in January 2026, the Department of the Navy formally des
 
 </div>
 
-<div>
+<div class="text-sm">
 
 ### <span style="color: #6b21a8;">RAG-Specific Controls</span>
 
@@ -372,9 +384,11 @@ And here's the mandate: in January 2026, the Department of the Navy formally des
 
 </div>
 
-<div class="text-2xl italic text-left mt-6" style="color: #2E7D32; border-left: 4px solid #2E7D32; padding-left: 16px;">
+<div class="text-lg italic text-left mt-3" style="color: #2E7D32; border-left: 4px solid #2E7D32; padding-left: 16px;">
 Zero Trust: every identity continuously verified, no implicit trust for in-network components
 </div>
+
+<div class="abs-br m-6 text-sm opacity-50 font-bold">MS</div>
 
 <!--
 Security is not optional. RAG systems handling CUI and classified data must comply with a comprehensive regulatory framework — RMF, NIST 800-53, CMMC, Zero Trust, and the new AI-specific guidance. RAG introduces specific security requirements: classification-aware ingestion with markings stored as vector metadata, attribute-based access control at query time so users only retrieve documents at their clearance level, FIPS-validated encryption at rest and in transit, and embedding vector confidentiality since similarity attacks can leak information. Every endpoint must be behind CAC authentication.
@@ -384,19 +398,22 @@ Security is not optional. RAG systems handling CUI and classified data must comp
 
 # AI-Specific Threats to RAG Systems
 
-<div class="grid grid-cols-3 gap-4 mt-2">
+<div class="grid grid-cols-3 gap-3 mt-2 text-sm">
 
-<div class="border-2 border-red-500 p-3 rounded">
+<div class="border-2 border-red-500 p-2 rounded">
 
 ### <span style="color: #6b21a8;">Knowledge Base Poisoning</span>
 
-PoisonedRAG attack: **5 malicious texts** injected into a corpus of **2.68 million** documents achieved **97% attack success rate**
+PoisonedRAG attack: **5 malicious texts** in a **2.68M**-document corpus achieved a **97% attack success rate** — paraphrasing and perplexity detection proved **insufficient**
 
-Existing defenses (paraphrasing, perplexity detection) proved **insufficient**
+**Mitigations:**
+- Provenance verification
+- Integrity hashing
+- Access-controlled ingest
 
 </div>
 
-<div class="border-2 border-yellow-500 p-3 rounded">
+<div class="border-2 border-yellow-500 p-2 rounded">
 
 ### <span style="color: #6b21a8;">Prompt Injection</span>
 
@@ -409,7 +426,7 @@ Adversarial content in retrieved documents instructs the LLM to override system 
 
 </div>
 
-<div class="border-2 border-blue-500 p-3 rounded">
+<div class="border-2 border-blue-500 p-2 rounded">
 
 ### <span style="color: #6b21a8;">Model Inversion & Hallucination</span>
 
@@ -425,9 +442,11 @@ Adversarial content in retrieved documents instructs the LLM to override system 
 
 </div>
 
-<div class="bg-red-100 dark:bg-red-900 p-3 rounded mt-3 text-center text-lg">
+<div class="bg-red-100 dark:bg-red-900 p-2 rounded mt-2 text-center text-base">
 Defenses must be <strong>layered</strong>: provenance verification, integrity hashing, access-controlled ingest, adversarial audits
 </div>
+
+<div class="abs-br m-6 text-sm opacity-50 font-bold">MS</div>
 
 <!--
 RAG introduces AI-specific threats that traditional security frameworks don't fully address. The most alarming: PoisonedRAG demonstrated that injecting just five malicious texts into a knowledge base of 2.68 million documents achieved a 97% attack success rate. That's not a typo — five documents out of nearly three million. Existing defenses like paraphrasing and perplexity detection proved insufficient. This means defenses must be layered: document provenance verification, integrity hashing, access-controlled ingest pipelines, and periodic adversarial audits.
@@ -467,9 +486,11 @@ Treat the LLM as a <strong>replaceable component</strong> behind a standardized 
 
 </div>
 
-<div class="text-2xl italic text-left mt-6" style="color: #2E7D32; border-left: 4px solid #2E7D32; padding-left: 16px;">
+<div class="text-xl italic text-left mt-4" style="color: #2E7D32; border-left: 4px solid #2E7D32; padding-left: 16px;">
 Frameworks like LangChain and Haystack enable vendor-agnostic design: swap a model identifier, not the pipeline
 </div>
+
+<div class="abs-br m-6 text-sm opacity-50 font-bold">MS</div>
 
 <!--
 The Anthropic supply chain risk designation in early 2026 is a real-world proof point. In July 2025, Claude was the first frontier model approved for classified networks. By March 2026, the DoW formally designated Anthropic a supply chain risk and Navy commands were removing Claude models. Organizations that had built their RAG pipelines around a single LLM provider faced immediate disruption. But organizations that designed with abstraction layers — using frameworks like LangChain or Haystack — could swap to alternative models by changing a model identifier, not rewriting the pipeline. The lesson: treat the LLM as a replaceable component behind a standardized interface.
@@ -477,86 +498,61 @@ The Anthropic supply chain risk designation in early 2026 is a real-world proof 
 
 ---
 
-# Case Study: Navy Corrosion Engineer "Brain Clone"
+# Case Study: RustyAI — Cloning Navy's Corrosion SME
 
 <div class="grid grid-cols-2 gap-6 mt-4">
 
 <div>
 
-### <span style="color: #6b21a8;">Challenge</span>
+### <span style="color: #6b21a8;">The Mission</span>
 
-Critical SME expertise at risk as War Department engineers approach retirement — decades of specialized knowledge with no succession plan
+A senior Navy corrosion engineer is approaching retirement — decades of specialized knowledge with no succession plan.
 
-### <span style="color: #6b21a8;">Solution</span>
+**Goal:** capture and replicate that expertise before it walks out the door.
 
-Developed an AI application to **capture and replicate the knowledge** of a Navy corrosion engineer before that expertise walks out the door
-
-</div>
-
-<div>
-
-### <span style="color: #6b21a8;">Data Ingested</span>
-
-<div class="bg-blue-100 dark:bg-blue-900 p-4 rounded text-center text-2xl font-bold mt-2 mb-4">
+<div class="bg-blue-100 dark:bg-blue-900 p-3 rounded text-center text-xl font-bold mt-4">
 ~30 GB &nbsp;|&nbsp; ~20,000 Files
 </div>
 
-Emails, technical handbooks, presentations & engineering reports
+Emails · technical handbooks · presentations · engineering reports
 
-### <span style="color: #6b21a8;">Outcome</span>
-
-An AI-powered assistant that responds to technical questions **in the SME's own style** and with their depth of expertise
+**Outcome:** AI assistant that answers in the SME's **own style**, with their depth of expertise.
 
 </div>
 
-</div>
+<div class="text-sm">
 
-<!--
-Let's take a look at a very practical use case for RAG. The War Department faces a quiet crisis: a generation of specialized engineers is approaching retirement, and their knowledge — built up over decades of hands-on work — is not written down anywhere. It lives in email threads, annotated handbooks, and decades of experience. This project was about cloning that expertise into an AI system before it was lost. We ingested roughly 30 gigabytes of material across 20,000 files — emails, technical handbooks, presentations, engineering reports. The result is an assistant that doesn't just answer corrosion questions; it answers them the way that specific engineer would, with the same reasoning patterns and depth.
--->
+### <span style="color: #6b21a8;">The Platform: RustyAI</span>
 
----
+Four-tier deployment on AWS GovCloud (us-gov-west-1):
 
-# Case Study: RustyAI — RAG on AWS GovCloud
+<div class="text-xs">
 
-<div class="grid grid-cols-2 gap-6 mt-4">
-
-<div>
-
-### <span style="color: #6b21a8;">Architecture</span>
-
-Four-tier deployment on AWS GovCloud (us-gov-west-1) for a Navy warfare center:
-
-| Tier | Stack |
+| | |
 |------|-------|
 | **Frontend** | Streamlit + Nginx (TLS 1.3) |
 | **Application** | Haystack RAG framework |
-| **Data** | Milvus (Docker Compose) + MinIO + Etcd |
-| **Inference** | Amazon Bedrock (Titan embeddings + Claude) |
+| **Data** | Milvus + MinIO + Etcd |
+| **Inference** | Amazon Bedrock (Titan + Claude) |
 
 </div>
 
-<div>
+**Ingestion:** Docling (OCR + VLMs) on NVIDIA L4 — **2 hr → 20 min**; Markdown chunks → Titan embeddings → Milvus
 
-### <span style="color: #6b21a8;">Ingestion Pipeline</span>
-
-- **Docling** (open-source) converts unstructured docs to Markdown via OCR + vision-language models
-- GPU acceleration (NVIDIA L4): **2 hours &rarr; 20 minutes**
-- Haystack pipeline: Markdown &rarr; 5,000-char chunks &rarr; Titan embeddings &rarr; Milvus
-- S3-staged Markdown enables **full corpus rebuilds**
-
-<div class="bg-blue-100 dark:bg-blue-900 p-3 rounded mt-4 text-center">
-Prompt uses <strong>XML-delimited sections</strong> with citation requirements for DoW traceability
+<div class="bg-blue-100 dark:bg-blue-900 p-2 rounded mt-3 text-center">
+XML-delimited prompts w citation require. for DoW traceability
 </div>
 
 </div>
 
 </div>
+
+<div class="abs-br m-6 text-sm opacity-50 font-bold">SB</div>
 
 <!--
-Let me walk you through a real deployment. RustyAI is a production RAG system we built on AWS GovCloud for a Navy warfare center, providing AI-assisted corrosion engineering analysis. The architecture is four tiers: Streamlit frontend behind Nginx with TLS 1.3, Haystack for RAG orchestration, Milvus as the vector database in Docker Compose, and Amazon Bedrock for embeddings and generation.
+Let me take you through a real deployment that makes all of this concrete. The War Department faces a quiet crisis: a generation of specialized engineers is approaching retirement, and their knowledge — built up over decades of hands-on work — isn't written down anywhere. It lives in email threads, annotated handbooks, and experience. Our mission was to clone that expertise into an AI system before it was lost. We ingested roughly 30 gigabytes of material across 20,000 files — emails, technical handbooks, presentations, engineering reports. The result is an assistant that doesn't just answer corrosion questions; it answers them the way that specific engineer would.
 
-For document ingestion, we use Docling — an open-source library that uses OCR and vision-language models to convert unstructured documents to structured Markdown. GPU acceleration cut processing time from two hours to twenty minutes. The prompt architecture uses XML-delimited sections with explicit citation requirements, ensuring every response can be traced back to source documents.
+The platform we built to deliver this is called RustyAI — a production RAG system on AWS GovCloud for a Navy warfare center. Four tiers: Streamlit frontend behind Nginx with TLS 1.3, Haystack for RAG orchestration, Milvus as the vector database, and Amazon Bedrock for embeddings and generation. For document ingestion we use Docling, an open-source library using OCR and vision-language models to convert unstructured content to Markdown — GPU acceleration cut processing from two hours to twenty minutes. The prompts are XML-delimited with explicit citation requirements, so every response traces back to source documents.
 -->
 
 ---
@@ -587,8 +583,10 @@ For document ingestion, we use Docling — an open-source library that uses OCR 
 
 </div>
 
+<div class="abs-br m-6 text-sm opacity-50 font-bold">SB</div>
+
 <!--
-Five practical lessons from this deployment. First, GPU acceleration isn't optional — the difference between two hours and twenty minutes determines whether you can keep your corpus current. Second, right-size your vector database: Milvus Lite on a t3.small works fine for prototyping; scale to Standalone when you need enterprise-grade. Third, TLS everywhere, even for internal traffic — GovCloud will block you otherwise. Fourth, modular frameworks like Haystack pay off because you can swap individual components without rewriting the pipeline — which is exactly what happened when the Anthropic situation unfolded.  And fifth, data conversion is essential and sets the "ceiling" for your project.  Data quickly gets messy in real-world scenarios!
+Five practical lessons. First, GPU acceleration isn't optional — the difference between two hours and twenty minutes determines whether you can keep your corpus current. Second, right-size your vector database — Milvus Lite on a small instance works for prototyping; scale to Standalone for enterprise workloads. Third, TLS everywhere, even for internal traffic — GovCloud blocks unencrypted ports. Fourth, modular frameworks like Haystack pay off: you can swap individual components without rewriting the pipeline — which is exactly what saved us when the Anthropic situation unfolded. And fifth, data conversion is the ceiling on your project — scanned PDFs, spreadsheets, and videos all need to land in a consistent structured format before ingestion. Real-world data gets messy fast.
 -->
 
 ---
@@ -630,6 +628,8 @@ Retrieved context provides <strong>factual grounding</strong>; few-shot examples
 
 </div>
 
+<div class="abs-br m-6 text-sm opacity-50 font-bold">SB</div>
+
 <!--
 Here's where RAG gets really powerful for T&E. A baseline RAG system answers questions. But add few-shot prompting — 3 to 5 example report sections in the prompt — and the same system produces structured, formatted deliverables. The retrieval architecture doesn't change at all; you just change the prompt. Studies show 15 to 25 percentage point improvements in positive predictive value from zero-shot to few-shot configurations. The synergy is clear: retrieved context provides the facts, few-shot examples provide the format.
 -->
@@ -638,9 +638,9 @@ Here's where RAG gets really powerful for T&E. A baseline RAG system answers que
 
 # T&E Report Types Amenable to RAG Automation
 
-<div class="grid grid-cols-2 gap-4 mt-6">
+<div class="grid grid-cols-2 gap-4 mt-5">
 
-<div class="border-2 border-blue-500 p-4 rounded">
+<div class="border-2 border-blue-500 p-4 rounded text-sm">
 
 ### <span style="color: #6b21a8;">Templated Reports</span>
 
@@ -651,7 +651,7 @@ Here's where RAG gets really powerful for T&E. A baseline RAG system answers que
 
 </div>
 
-<div class="border-2 border-yellow-500 p-4 rounded">
+<div class="border-2 border-yellow-500 p-4 rounded text-sm">
 
 ### <span style="color: #6b21a8;">Multi-Document Synthesis</span>
 
@@ -663,7 +663,7 @@ Here's where RAG gets really powerful for T&E. A baseline RAG system answers que
 
 </div>
 
-<div class="grid grid-cols-3 gap-4 mt-4">
+<div class="grid grid-cols-3 gap-4 mt-3">
 
 <div class="bg-green-100 dark:bg-green-900 p-3 rounded text-center">
 <strong>95%</strong> savings on ATO documentation (Ask Sage)
@@ -679,50 +679,16 @@ Here's where RAG gets really powerful for T&E. A baseline RAG system answers que
 
 </div>
 
-<!--
-What kinds of T&E reports can RAG automate? Templated reports are the low-hanging fruit — TEMP sections, test execution reports, test incident reports, metrics dashboards. These have structured fields that are ideal for few-shot templating. Multi-document synthesis is where RAG really shines — interim fielding assessments that pull from multiple test events, deficiency reports that reference historical databases. No single analyst can synthesize across hundreds of artifacts simultaneously, but RAG can. Ask Sage reports 95% savings on ATO documentation generation. Enterprise RAG deployments see 60 to 80 percent reduction in initial draft time.
--->
-
----
-
-# The Analyst's New Role
-
-<div class="grid grid-cols-2 gap-8 mt-6">
-
-<div>
-
-### <span style="color: #6b21a8;">Before RAG</span>
-
-- Manually search document repositories
-- Read and synthesize across dozens of artifacts
-- Draft reports from scratch
-- Format to template standards
-- Iterate on boilerplate sections
-- Time spent: **mostly drafting**
-
+<div class="text-xl italic text-center mt-3" style="color: #2E7D32;">
+Analyst role shifts from <strong>drafter</strong> to <strong>reviewer</strong> — <em>Test for Less</em>
 </div>
 
-<div>
-
-### <span style="color: #6b21a8;">After RAG</span>
-
-- RAG retrieves and synthesizes automatically
-- Few-shot prompting generates compliant first drafts
-- Automated completeness and citation coverage
-- Analyst reviews for technical accuracy
-- Focus on edge cases and judgment calls
-- Time spent: **mostly reviewing**
-
-</div>
-
-</div>
-
-<div class="text-2xl italic text-left mt-6" style="color: #2E7D32; border-left: 4px solid #2E7D32; padding-left: 16px;">
-The analyst role shifts from document drafter to document reviewer — "Test for Less"
-</div>
+<div class="abs-br m-6 text-sm opacity-50 font-bold">SB</div>
 
 <!--
-This is the "Test for Less" angle. Before RAG, analysts spend most of their time searching, reading, and drafting. After RAG, the system retrieves and synthesizes automatically, generates a compliant first draft, and enforces completeness and citation coverage. The analyst shifts from drafter to reviewer, focusing their expertise on technical accuracy, edge cases, and judgment calls — the parts that actually require human expertise. That's the efficiency gain the workshop theme is about.
+What kinds of T&E reports can RAG automate? Templated reports are the low-hanging fruit — TEMP sections, test execution reports, test incident reports, metrics dashboards. These have structured fields that are ideal for few-shot templating. Multi-document synthesis is where RAG really shines — interim fielding assessments that pull from multiple test events, deficiency reports that reference historical databases. No single analyst can synthesize across hundreds of artifacts simultaneously, but RAG can.
+
+The numbers are real. Ask Sage reports 95% savings on ATO documentation generation. Enterprise RAG deployments see 60 to 80 percent reduction in initial draft time. And over 100,000 users are already on DoW GenAI platforms. The bottom line is that the analyst's role shifts from drafting to reviewing — focusing expertise on technical accuracy, edge cases, and judgment calls, which is the human value-add. That's the "Test for Less" efficiency gain this workshop is about.
 -->
 
 ---
@@ -763,6 +729,8 @@ This is the "Test for Less" angle. Before RAG, analysts spend most of their time
 </div>
 
 </div>
+
+<div class="abs-br m-6 text-sm opacity-50 font-bold">SB</div>
 
 <!--
 How do you evaluate RAG-generated T&E reports? The RAGAS and ARES frameworks provide automated quality scoring before analyst review. For T&E specifically, you need citation coverage rate, format compliance rate, and deficiency detection rate compared to ground-truth records. Before any operational deployment, you must run red-team evaluation for prompt injection, poisoning, and exfiltration vulnerabilities, and implement regression testing at each pipeline update. And human-in-the-loop review is mandatory for all T&E deliverables — no exceptions.
@@ -818,6 +786,8 @@ It does not require retraining, does not export classified data to vendors, and 
 <strong>Sam Bright · Michael Soltys</strong><br/>
 GBL Systems Corporation
 </div>
+
+<div class="abs-br m-6 text-sm opacity-50 font-bold">SB</div>
 
 <!--
 To wrap up: RAG is the highest-value, lowest-risk AI capability available to DoW T&E programs today. It doesn't require retraining, doesn't demand classified training data be exported to a vendor, and can be deployed incrementally — start with unclassified documents on NIPRNet, then scale to CUI and SECRET. The mandate is here: GenAI.mil is required by April 30. The technology is mature. The architecture is proven. The path forward is a 90-day pilot on NIPRNet IL4, a security review for IL5/IL6, and a few-shot template library for your highest-frequency T&E deliverables. We're happy to take questions.
