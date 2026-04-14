@@ -49,10 +49,10 @@ Welcome everyone. We're Sam Bright and Michael Soltys from GBL Systems, and toda
 
 ### <span style="color: #6b21a8;">Fine-Tuning Is Not the Answer</span>
 
-- High retraining compute costs
+- High retraining compute costs, must repeat with new data
 - Degrades performance outside the fine-tuned domain
-- Still cannot access post-training information
 - No source attribution for auditability
+- Increased vendor lock-in with a single LLM
 
 </div>
 
@@ -384,9 +384,9 @@ Security is not optional. RAG systems handling CUI and classified data must comp
 
 # AI-Specific Threats to RAG Systems
 
-<div class="grid grid-cols-3 gap-4 mt-6">
+<div class="grid grid-cols-3 gap-4 mt-2">
 
-<div class="border-2 border-red-500 p-4 rounded">
+<div class="border-2 border-red-500 p-3 rounded">
 
 ### <span style="color: #6b21a8;">Knowledge Base Poisoning</span>
 
@@ -396,7 +396,7 @@ Existing defenses (paraphrasing, perplexity detection) proved **insufficient**
 
 </div>
 
-<div class="border-2 border-yellow-500 p-4 rounded">
+<div class="border-2 border-yellow-500 p-3 rounded">
 
 ### <span style="color: #6b21a8;">Prompt Injection</span>
 
@@ -409,7 +409,7 @@ Adversarial content in retrieved documents instructs the LLM to override system 
 
 </div>
 
-<div class="border-2 border-blue-500 p-4 rounded">
+<div class="border-2 border-blue-500 p-3 rounded">
 
 ### <span style="color: #6b21a8;">Model Inversion & Hallucination</span>
 
@@ -425,7 +425,7 @@ Adversarial content in retrieved documents instructs the LLM to override system 
 
 </div>
 
-<div class="bg-red-100 dark:bg-red-900 p-4 rounded mt-4 text-center text-xl">
+<div class="bg-red-100 dark:bg-red-900 p-3 rounded mt-3 text-center text-lg">
 Defenses must be <strong>layered</strong>: provenance verification, integrity hashing, access-controlled ingest, adversarial audits
 </div>
 
@@ -473,6 +473,46 @@ Frameworks like LangChain and Haystack enable vendor-agnostic design: swap a mod
 
 <!--
 The Anthropic supply chain risk designation in early 2026 is a real-world proof point. In July 2025, Claude was the first frontier model approved for classified networks. By March 2026, the DoW formally designated Anthropic a supply chain risk and Navy commands were removing Claude models. Organizations that had built their RAG pipelines around a single LLM provider faced immediate disruption. But organizations that designed with abstraction layers — using frameworks like LangChain or Haystack — could swap to alternative models by changing a model identifier, not rewriting the pipeline. The lesson: treat the LLM as a replaceable component behind a standardized interface.
+-->
+
+---
+
+# Case Study: Navy Corrosion Engineer "Brain Clone"
+
+<div class="grid grid-cols-2 gap-6 mt-4">
+
+<div>
+
+### <span style="color: #6b21a8;">Challenge</span>
+
+Critical SME expertise at risk as War Department engineers approach retirement — decades of specialized knowledge with no succession plan
+
+### <span style="color: #6b21a8;">Solution</span>
+
+Developed an AI application to **capture and replicate the knowledge** of a Navy corrosion engineer before that expertise walks out the door
+
+</div>
+
+<div>
+
+### <span style="color: #6b21a8;">Data Ingested</span>
+
+<div class="bg-blue-100 dark:bg-blue-900 p-4 rounded text-center text-2xl font-bold mt-2 mb-4">
+~30 GB &nbsp;|&nbsp; ~20,000 Files
+</div>
+
+Emails, technical handbooks, presentations & engineering reports
+
+### <span style="color: #6b21a8;">Outcome</span>
+
+An AI-powered assistant that responds to technical questions **in the SME's own style** and with their depth of expertise
+
+</div>
+
+</div>
+
+<!--
+Let's take a look at a very practical use case for RAG. The War Department faces a quiet crisis: a generation of specialized engineers is approaching retirement, and their knowledge — built up over decades of hands-on work — is not written down anywhere. It lives in email threads, annotated handbooks, and decades of experience. This project was about cloning that expertise into an AI system before it was lost. We ingested roughly 30 gigabytes of material across 20,000 files — emails, technical handbooks, presentations, engineering reports. The result is an assistant that doesn't just answer corrosion questions; it answers them the way that specific engineer would, with the same reasoning patterns and depth.
 -->
 
 ---
@@ -533,22 +573,22 @@ For document ingestion, we use Docling — an open-source library that uses OCR 
 <strong>2. Right-size your vector DB</strong> — Milvus Lite (Python library, t3.small) scales to millions of vectors; Standalone (t3.xlarge) scales to 100M+ for enterprise workloads
 </div>
 
-<div class="border-l-4 border-green-500 pl-3 py-2 mb-3">
-<strong>3. GovCloud IAM requires explicit credentials</strong> — role-based implicit credentials behave unreliably; use explicit IAM users with minimal Bedrock permissions
-</div>
-
 <div class="border-l-4 border-purple-500 pl-3 py-2 mb-3">
-<strong>4. TLS everywhere, even internal</strong> — GovCloud environments block unencrypted traffic and non-standard ports
+<strong>3. TLS everywhere, even internal</strong> — GovCloud environments block unencrypted traffic and non-standard ports
 </div>
 
 <div class="border-l-4 border-red-500 pl-3 py-2 mb-3">
-<strong>5. Modular frameworks pay off</strong> — Haystack's component architecture allowed individual pipeline stages to be replaced without affecting the overall system
+<strong>4. Modular frameworks pay off</strong> — Haystack's component architecture allowed individual pipeline stages to be replaced without affecting the overall system
+</div>
+
+<div class="border-l-4 border-green-500 pl-3 py-2 mb-3">
+<strong>5. Data conversion is key</strong> — scanned PDFs of handbooks, Excel spreadsheets, and videos are all similarly converted to a structured format before ingestion
 </div>
 
 </div>
 
 <!--
-Five practical lessons from this deployment. First, GPU acceleration isn't optional — the difference between two hours and twenty minutes determines whether you can keep your corpus current. Second, right-size your vector database: Milvus Lite on a t3.small works fine for prototyping; scale to Standalone when you need enterprise-grade. Third, GovCloud IAM is finicky — use explicit credentials with minimal permissions. Fourth, TLS everywhere, even for internal traffic — GovCloud will block you otherwise. And fifth, modular frameworks like Haystack pay off because you can swap individual components without rewriting the pipeline — which is exactly what happened when the Anthropic situation unfolded.
+Five practical lessons from this deployment. First, GPU acceleration isn't optional — the difference between two hours and twenty minutes determines whether you can keep your corpus current. Second, right-size your vector database: Milvus Lite on a t3.small works fine for prototyping; scale to Standalone when you need enterprise-grade. Third, TLS everywhere, even for internal traffic — GovCloud will block you otherwise. Fourth, modular frameworks like Haystack pay off because you can swap individual components without rewriting the pipeline — which is exactly what happened when the Anthropic situation unfolded.  And fifth, data conversion is essential and sets the "ceiling" for your project.  Data quickly gets messy in real-world scenarios!
 -->
 
 ---
@@ -735,9 +775,9 @@ class: text-center
 
 # Closing: RAG Is Ready for T&E
 
-<div class="grid grid-cols-3 gap-4 mt-8">
+<div class="grid grid-cols-3 gap-4 mt-4">
 
-<div class="border-2 border-blue-500 p-4 rounded">
+<div class="border-2 border-blue-500 p-3 rounded">
 
 ### <span style="color: #6b21a8;">The Capability</span>
 107–177% accuracy gain
@@ -746,7 +786,7 @@ Source attribution built in
 
 </div>
 
-<div class="border-2 border-yellow-500 p-4 rounded">
+<div class="border-2 border-yellow-500 p-3 rounded">
 
 ### <span style="color: #6b21a8;">The Mandate</span>
 GenAI.mil required by April 30
@@ -755,7 +795,7 @@ DoD Zero Trust integration
 
 </div>
 
-<div class="border-2 border-green-500 p-4 rounded">
+<div class="border-2 border-green-500 p-3 rounded">
 
 ### <span style="color: #6b21a8;">The Path Forward</span>
 Pilot on NIPRNet IL4 (90-day eval)
@@ -766,15 +806,15 @@ Few-shot template library for top 5 T&E deliverables
 
 </div>
 
-<div class="mt-10 text-2xl font-bold">
+<div class="mt-5 text-2xl font-bold">
 RAG is the highest-value, lowest-risk AI capability for T&E today
 </div>
 
-<div class="mt-6 text-lg">
+<div class="mt-3 text-lg">
 It does not require retraining, does not export classified data to vendors, and deploys incrementally.
 </div>
 
-<div class="mt-8 text-xl">
+<div class="mt-4 text-xl">
 <strong>Sam Bright · Michael Soltys</strong><br/>
 GBL Systems Corporation
 </div>
