@@ -25,6 +25,8 @@ GBL Systems Corporation
 
 ITEA Test Instrumentation Workshop · April 28–30, 2026 · Las Vegas, NV
 
+Track 6 · Siena Room · Wed April 29 · 1:30–2:00 PM
+
 <!--
 Michael opens. Welcome everyone. We're Michael Soltys and Sam Bright from GBL Systems. This talk is about Retrieval-Augmented Generation — RAG — as a production AI capability for Department of War Test and Evaluation programs. Michael will cover the why and the how: what RAG is, how it works, the architecture for production deployment, and the security controls required for CUI and classified data. Then Sam will walk through a real Navy case study — RustyAI — and show how few-shot prompting turns RAG from a Q&A chatbot into an automated report generator.
 -->
