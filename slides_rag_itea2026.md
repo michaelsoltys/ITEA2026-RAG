@@ -69,6 +69,8 @@ RAG combines a librarian with a language model: the librarian searches, the mode
 <!--
 Let's start with why we need RAG at all. Large Language Models are powerful, but they have three critical failure modes for T&E work. First, knowledge staleness — your test procedures, system specs, and MIL-STDs are constantly updating, but the model's weights are frozen. Second, hallucination — in safety-critical reporting, a plausible-sounding but wrong answer can be dangerous. Third, non-traceability — DoW documentation standards require cited, auditable evidence, and a standalone LLM can't tell you where its answer came from.
 
+Quick caveat to preempt a common question: RAG dramatically *reduces* hallucinations by grounding outputs in retrieved sources, but it doesn't eliminate them entirely. We'll come back to this on slide 9 when we cover AI-specific threats — and the architecture on slide 6 includes mandatory human-in-the-loop review precisely because hallucinations persist.
+
 Fine-tuning doesn't solve these problems. It's expensive, it degrades the model on tasks outside the fine-tuned domain, and it still can't access new information. The simplest mental model: RAG combines a librarian with a language model. The librarian finds the right documents; the model reads them and writes the answer.
 -->
 
@@ -304,7 +306,7 @@ A production DoW RAG system is a <strong>multi-layer data platform</strong> — 
 <div class="abs-br m-6 text-sm opacity-50 font-bold">MS</div>
 
 <!--
-A production RAG system is not a chatbot — it's a multi-layer data and AI platform. Layer 1 handles document ingestion from SharePoint, file shares, PDFs, and technical data packages, with OCR and metadata enrichment. Layer 2 handles embedding and indexing in a vector database — Milvus is the most comprehensive option, satisfying all four key criteria including billion-scale support. Layer 3 orchestrates retrieval with query expansion, re-ranking, and classification-aware metadata filtering. Layer 4 handles LLM generation, with model selection varying by impact level — IL4 through IL6. Layer 5 provides observability, CI/CD, and governance, including mandatory audit trails and human-in-the-loop review. Treating RAG as an ad hoc feature is the primary cause of failed deployments.
+A production RAG system is not a chatbot — it's a multi-layer data and AI platform. Layer 1 handles document ingestion from SharePoint, file shares, PDFs, and technical data packages, with OCR and metadata enrichment. Layer 2 handles embedding and indexing in a vector database — Milvus is the most comprehensive option, satisfying all four key criteria including billion-scale support. Layer 3 orchestrates retrieval with query expansion, re-ranking, and classification-aware metadata filtering. Layer 4 handles LLM generation, with model selection varying by impact level — IL4 through IL6. Within any tier there's a second cost decision: tier the model to the task. Use a small fast model for classification and routing, save the heavy reasoning model for final synthesis. For high-volume T&E pipelines, that's where Test for Less actually compounds. Layer 5 provides observability, CI/CD, and governance, including mandatory audit trails and human-in-the-loop review. Treating RAG as an ad hoc feature is the primary cause of failed deployments.
 -->
 
 ---
@@ -539,7 +541,7 @@ Four-tier deployment on AWS GovCloud (us-gov-west-1):
 
 </div>
 
-**Ingestion:** Docling (OCR + VLMs) on NVIDIA L4 — **2 hr → 20 min**; Markdown chunks → Titan embeddings → Milvus
+**Ingestion:** Docling (OCR + VLMs) on NVIDIA L4 — <T4L>2 hr → 20 min</T4L>; Markdown chunks → Titan embeddings → Milvus
 
 <div class="bg-blue-100 dark:bg-blue-900 p-2 rounded mt-3 text-center">
 XML-delimited prompts w citation require. for DoW traceability
@@ -668,11 +670,11 @@ Here's where RAG gets really powerful for T&E. A baseline RAG system answers que
 <div class="grid grid-cols-3 gap-4 mt-3">
 
 <div class="bg-green-100 dark:bg-green-900 p-3 rounded text-center">
-<strong>95%</strong> savings on ATO documentation (Ask Sage)
+<T4L>95%</T4L> savings on ATO documentation (Ask Sage)
 </div>
 
 <div class="bg-blue-100 dark:bg-blue-900 p-3 rounded text-center">
-<strong>60–80%</strong> reduction in initial draft time
+<T4L>60–80%</T4L> reduction in initial draft time
 </div>
 
 <div class="bg-purple-100 dark:bg-purple-900 p-3 rounded text-center">
@@ -781,7 +783,7 @@ RAG is the highest-value, lowest-risk AI capability for T&E today
 </div>
 
 <div class="mt-3 text-lg">
-It does not require retraining, does not export classified data to vendors, and deploys incrementally.
+It does not require retraining, does not export classified data to vendors, and <T4L>deploys incrementally</T4L>.
 </div>
 
 <div class="mt-4 text-xl">

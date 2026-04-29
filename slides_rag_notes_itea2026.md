@@ -453,3 +453,237 @@ Compare to a typical web service: nobody would say "we'll just bolt on a databas
 A federal civilian employee uses USAi.gov; a DoW warfighter uses GenAI.mil. Sit alongside each other in the broader America's AI Action Plan.
 
 **Why it matters for the talk:** USAi.gov is mentioned briefly on slide 10, but evidence that *vendor lock-in concerns are not theoretical*. A single supply-chain decision pulled Claude out of two major federal AI procurement vehicles simultaneously (USAi for civilian, GenAI.mil for DoW) within days. Any agency that hard-coded Claude through either platform faced disruption; agencies using abstraction layers swapped to OpenAI / Gemini and continued.
+
+---
+
+## Doesn't RAG Hallucinate Too?
+
+**Slide 2 risk:** Listing "hallucination" as a failure mode of standalone LLMs implies RAG fixes it. RAG **reduces** hallucinations significantly but does **not eliminate** them. The deck addresses this on slide 9, but if an audience member only catches slide 2, they may walk away with the wrong impression. Worth preempting verbally.
+
+**Why RAG still hallucinates:**
+
+1. **Misinterpretation of retrieved context** — chunk says X; model summarizes it as ≈X
+2. **Faulty cross-chunk synthesis** — combines two facts into a third that's not supported
+3. **Parametric fallback** — when retrieval is poor or incomplete, the model leans on its training data; that's where hallucinations originate
+4. **Citation hallucination** — even when the answer is correct, the cited source may be misattributed or fabricated
+5. **Plausible filler** — when the retrieved chunks don't fully answer the question, the model extrapolates rather than saying "I don't know"
+
+**What the literature shows:**
+- RAG reduces hallucination rates roughly **50–70%** vs zero-shot LLMs
+- Well-designed production RAG still shows **5–15%** hallucination rate
+- Higher under adversarial conditions (PoisonedRAG, prompt injection — slide 9)
+
+**How the deck handles it (internally consistent):**
+- **Slide 2:** Frames hallucination as a failure mode of *standalone* LLMs (technically correct)
+- **Slide 9 ("AI-Specific Threats"):** Explicitly says *"Hallucinations persist even with good context"* with mitigations: groundedness scoring, mandatory human review
+- **Slide 6 (Production Architecture, L5 Govern):** Human-in-the-loop review is mandatory — *because* hallucinations persist
+- **Slide 16 (Evaluation Framework):** RAGAS faithfulness + ARES + human review as the safety net
+
+**Q&A-ready answers:**
+
+If asked *"doesn't RAG also hallucinate?"*:
+> "Yes — RAG reduces hallucinations roughly 50–70% by grounding outputs in retrieved sources, but doesn't eliminate them. That's why slide 6's architecture has Layer 5 — Govern — including mandatory human-in-the-loop review. We're not claiming RAG produces compliant T&E reports unattended; we're claiming it produces high-quality first drafts that an analyst reviews and signs off on. The analyst is the safety net for residual hallucinations."
+
+If asked *"how do you measure hallucination rate?"*:
+> "RAGAS provides three automated metrics — context relevance, answer faithfulness, answer relevance. Faithfulness specifically scores whether the answer is supported by retrieved context. ARES adds few-shot LLM judges validated against human preferences. Both run automatically; both feed into your evaluation set on every pipeline change. But — and this is the deck's core safety message — automated metrics don't replace the human review gate."
+
+**Verbal preempt for slide 2 (added to presenter notes):**
+> "Quick caveat to preempt a common question: RAG dramatically reduces hallucinations by grounding outputs in retrieved sources, but it doesn't eliminate them entirely. We'll come back to this on slide 9 when we cover AI-specific threats — and the architecture on slide 6 includes mandatory human-in-the-loop review precisely because hallucinations persist."
+
+---
+
+## What Does "Embed the User's Query" Mean? (Slide 3)
+
+**The mechanic:** Running the user's text question through an embedding model that converts it into a high-dimensional numerical vector — the same kind of vector created for every chunk during ingestion. That query vector is then compared against all stored chunk vectors via cosine similarity to find the most semantically similar chunks.
+
+```
+User types: "What are the acceptance criteria for KPP-3?"
+        ▼
+[Embedding model — same one used at ingestion]
+        ▼
+[0.0234, -0.187, 0.652, 0.041, ..., -0.298]
+   ← 768 to 3,072 floats, depending on model →
+        ▼
+Query vector compared to chunk vectors via cosine similarity
+```
+
+**Why a learned model, not a simple lookup:** The embedding model is a neural network specifically trained to map text to a vector space where semantically similar text ends up near each other. Not a hash function, not word-count. Captures paraphrase: *"acceptance criteria for KPP-3"* ≈ *"what does KPP-3 require for sign-off"*. Without it, you'd be stuck with literal keyword matching.
+
+**Common embedding models in DoW deployments:**
+
+| Model | Provider | Dims | Notes |
+|-------|----------|------|-------|
+| Titan Text Embeddings V2 | Amazon Bedrock | 1,024 | RustyAI uses this (slide 11). Works on AWS GovCloud. |
+| text-embedding-3-large | OpenAI | 3,072 | Highest accuracy commercially. Via GenAI.mil. |
+| bge-large-en-v1.5 | BAAI (open-source) | 1,024 | Standard for air-gapped IL5/IL6 deployments. |
+| voyage-3 | Voyage AI | 1,024 | Specialized for retrieval; strong on technical text. |
+| gte-large | Alibaba (open-source) | 1,024 | Common alternative for on-prem. |
+
+**The critical constraint — same model both sides:** The embedding model used at query time must be the same one used during ingestion. Different models produce vectors in different mathematical spaces — cosine similarity becomes meaningless when comparing across spaces. Practical consequences:
+
+- **Switching embedding models = re-embedding the entire corpus.** For RustyAI's 30 GB / 20,000 files, this is a significant operation (slide 11's ingestion pipeline exists for exactly this).
+- **Versioning matters.** Treating `titan-v2.5` as "the same as titan-v2" silently corrupts retrieval quality.
+- **Vendor lock-in lurks here.** If locked into Titan or OpenAI for embeddings, you can't easily swap LLMs. Open-source alternatives like bge-large keep this layer portable — relevant to the vendor lock-in talk.
+
+**What it costs:**
+- Latency: typically 50–200 ms per query
+- OpenAI `text-embedding-3-large`: ~$0.13 per million tokens; a typical 10–50 token query is fractions of a cent
+- At ingestion scale (millions of chunks), embedding compute can dominate cost
+
+**Symmetric vs asymmetric retrieval:** Most production RAG uses *symmetric* embedding — one model encodes both queries and chunks. Some advanced setups use *asymmetric* models (a query encoder + passage encoder trained as a pair, like ColBERT or DPR) for higher precision. Not worth the complexity unless optimizing for the last 5% of accuracy.
+
+**Q&A-ready punch line:**
+> "Embedding the query means converting the user's question into the same kind of numerical vector we stored for every chunk in the database. The embedding model — like a multilingual translator for meaning — turns text into a 1,024-dimensional point in vector space. Cosine similarity finds the chunks closest to that point. The model has to be the same one used during ingestion, otherwise the vectors don't live in the same space."
+
+---
+
+## What is "Single-Pass" Retrieve-Then-Generate? (Slide 4)
+
+**The definition:** Retrieval and generation happen **exactly once, in sequence, with no iteration**. The system doesn't refine, ask follow-up questions, or re-retrieve. Just one straight shot from query to answer.
+
+```
+User query
+    ▼
+Embed query
+    ▼
+Vector DB returns top-k chunks   ← retrieval happens once
+    ▼
+LLM generates answer using those chunks   ← generation happens once
+    ▼
+Output to user
+```
+
+**Why single-pass fails in production:**
+
+1. **Bad query reformulation.** *"What's the latest on KPP-3?"* — "latest" is meaningless to the embedding model. Semantically similar chunks could span any year. Single-pass picks one and generates.
+
+2. **Multi-hop questions break.** *"Compare AEGIS Block IX acceptance criteria to Block X."* Needs two retrievals plus synthesis. Single-pass tries with whatever came back from one cosine search — incomplete.
+
+3. **Ambiguous queries.** *"What does the test report say about the deficiency?"* — which deficiency? Which test report? Single-pass picks chunks on raw vector similarity and hopes. No clarification, no follow-up.
+
+4. **Empty/weak results.** If retrieval returns chunks scoring 0.3 (weak match), single-pass still generates using those weak chunks — producing a confident-sounding hallucination instead of "I don't have enough information."
+
+**The progression on slide 4:**
+
+| Approach | What changes |
+|----------|--------------|
+| Single-pass (Naive) | One retrieval, one generation. Done. |
+| Multi-pass with query rewriting | LLM rewrites query first ("latest KPP-3" → "KPP-3 acceptance criteria 2024 2025"), then retrieves. Smarter. |
+| HyDE (Hypothetical Document Embeddings) | LLM generates a hypothetical answer first, embeds *that*, retrieves chunks similar to it. Counterintuitive but works. |
+| Multi-query retrieval | LLM generates several query variations, retrieves chunks for each, merges. |
+| Re-ranking | One retrieval, then a second-stage scoring pass over top 20. Still one retrieval but two-stage scoring. |
+| Agentic RAG | LLM decides whether to retrieve, formulates sub-queries, iterates. Many retrieval passes, dynamically. |
+
+**Where the line is:** "Single-pass" specifically means **one retrieval against the index**. Re-ranking is sometimes called a "second pass" but it's a second *scoring* pass, not a second *retrieval* — the chunks were pulled in the first cosine search.
+
+**Why it's the strawman of slide 4:** Naive RAG is what people build after a 30-minute tutorial. It works for demos but fails in production. The slide's role: *"if you take only this away, build at least Advanced RAG, not Naive."* Hence the call-out: *"Production T&E deployments require Advanced RAG at minimum."*
+
+**Q&A-ready punch line:**
+> "Single-pass means one shot — retrieve once, generate once. The simplest possible RAG architecture. Works for hello-world demos but breaks down on multi-hop questions, ambiguous queries, or anything where the first retrieval doesn't perfectly capture intent. That's why production T&E deployments need at least Advanced RAG with query rewriting and re-ranking."
+
+---
+
+## Post-Retrieval Compression (Slide 4)
+
+**The definition:** The step *between* retrieval and generation: after the vector DB returns top-*k* chunks, **filter, distill, or trim** them before passing to the LLM. Goal: reduce noise so the LLM has only the most relevant content in its context window.
+
+**Why it matters:**
+
+1. **Lost in the middle** — LLMs systematically attend less to content in the middle of long contexts. A relevant sentence buried in chunk 6 may be ignored. (Liu et al. 2023.)
+2. **Cost** — every token costs money. Sending 5,120 tokens when only ~500 are relevant is wasteful at scale.
+3. **Latency** — generation latency scales roughly linearly with input length. Smaller context → faster responses.
+4. **Hallucination amplifier** — irrelevant content can confuse the model into incorporating off-topic facts.
+5. **Distraction** — a chunk with 5 sentences but only 1 relevant has 4 sentences of noise.
+
+**Compression techniques:**
+
+| Technique | What it does |
+|-----------|--------------|
+| Sentence-level filtering | Score sentence-by-sentence relevance; keep only relevant sentences |
+| LLM-based extractive compression | Smaller LLM reads each chunk and extracts the relevant span |
+| Token pruning (e.g., LLMLingua) | Score every token's importance; drop low-importance tokens — 5–20× compression |
+| Contextual compression (e.g., Cohere) | Compression model takes (query + chunk), returns compressed chunk |
+| Dropping low-score chunks | After re-ranking, drop chunks below threshold rather than always sending full top-*k* |
+
+**Concrete example:**
+
+User query: *"What are the acceptance thresholds for KPP-3 in AEGIS Block IX?"*
+
+Retrieved chunk 4 (raw, ~200 words):
+> "AEGIS Block IX entered formal test in March 2024. The test program included three phases... The systems engineering team led by Dr. Patel established weekly review cycles... **KPP-3 acceptance threshold for engagement range is 200 nautical miles, as defined in TEMP §4.2.3.** Funding for Block IX totaled $2.4B across FY24-26..."
+
+After compression:
+> "KPP-3 acceptance threshold for engagement range is 200 nautical miles, as defined in TEMP §4.2.3."
+
+200-word chunk → 20-word answer-bearing sentence. Across 10 chunks, context shrinks ~10×.
+
+**Tools in production:**
+
+| Tool | Origin | Notes |
+|------|--------|-------|
+| LLMLingua / LongLLMLingua | Microsoft Research | Token-level pruning. 5–20× compression with minimal quality loss. |
+| Cohere Compress | Cohere | API-based contextual compression. Commercial. |
+| LangChain `ContextualCompressionRetriever` | LangChain | Wraps base retriever with LLM compressor. Common pragmatic choice. |
+| LlamaIndex `SentenceTransformerRerank` + filter | LlamaIndex | Re-rank then filter low-score sentences. |
+| Cross-encoder relevance scoring | Open-source | Score sentences vs query; threshold-filter. |
+
+**Distinguishing compression from neighbors on slide 4:**
+- **Re-ranking** = reorder top-20 candidates by quality (which 5 are best?)
+- **Compression** = shrink content of those top chunks (what's the key passage in each?)
+- **Relevance filtering** = drop chunks that don't pass a score threshold (skip irrelevant entirely)
+
+A full pipeline uses all three: retrieve top 20 → re-rank to top 10 → drop below threshold → compress survivors → send to LLM.
+
+**Cost/quality tradeoff:** Compression adds latency and complexity. Aggressive compression risks dropping the answer-bearing content. Production T&E systems typically use **moderate** compression — sentence-level filtering on top 5 chunks rather than aggressive token pruning. Losing critical TEMP context costs much more than a few extra tokens.
+
+**Q&A-ready punch line:**
+> "Post-retrieval compression is the step between retrieval and generation where you trim retrieved chunks down to just the relevant sentences before passing them to the LLM. Cuts cost and latency, and helps with the 'lost in the middle' problem where LLMs ignore content buried in long contexts. The tradeoff: aggressive compression risks dropping the answer-bearing content. For T&E we lean conservative — sentence-level filtering rather than token pruning."
+
+---
+
+## Cost Levers in L4 (Generate) — Slide 6
+
+**Important framing note:** Slide 6's L4 box lists *what models are available* at each classification level (IL4: GPT-4o/Gemini/Claude; IL5: Ask Sage; IL6: dedicated SIPRNet enclaves). It is *not* a cost-tiering recommendation. Cost decisions are a separate axis from classification.
+
+**Two distinct cost levers exist — keep them separate when answering questions:**
+
+### Lever 1 — Classification level (IL4 → IL5 → IL6)
+
+Cost increases as IL goes up. Going to higher classification doesn't make models cheaper; it makes everything more expensive.
+
+| IL | Why it costs what it costs |
+|----|----------------------------|
+| IL4 | Cheapest. Commercial models on shared cloud, pay-per-token. ~$0.005 per 1K tokens for GPT-4o. |
+| IL5 | More expensive. Ask Sage (FedRAMP High) charges premium for compliance overhead. |
+| IL6 | Most expensive. Dedicated SIPRNet enclave — pay for infrastructure even when idle. Air-gapped, no sharing. |
+
+This is a *constraint* you accept based on data sensitivity, not a lever you pull for cost reduction.
+
+### Lever 2 — Model tier within a classification level
+
+This is the cost lever you actually control. Within any IL level, choose how capable a model to use per query.
+
+| Tier | Examples | Relative cost | Use for |
+|------|----------|--------------|---------|
+| Heavy | GPT-4o, Claude Sonnet 4, Gemini 1.5 Pro | High | Synthesis, multi-doc reasoning, complex T&E reports |
+| Mid | Claude Haiku, Gemini Flash | Medium | Standard Q&A, summarization, simple extraction |
+| Light | GPT-4o-mini, smaller embeddings models | Low | Classification, routing, metadata extraction |
+
+10–20× cost difference between heavy and light. The lever: **don't use a heavy model when a light one works**. RAG pipelines have multiple LLM calls per query (re-ranking, query rewriting, generation, output validation). Using light models for supporting calls and heavy only for final generation cuts cost 70–80%.
+
+### Why this matters for the "Test for Less" theme
+
+L4 is where the theme is most actionable mid-talk. A T&E program that's already classification-constrained to IL5 or IL6 can't pull Lever 1 — but they can still pull Lever 2 within those constraints. That's a directly applicable Test for Less argument for the audience.
+
+### Common confusion to avoid
+
+It's tempting to say "pick GPT-4o for IL4 and a heavier model for IL6" — *this is wrong*. GPT-4o is itself a frontier model. Higher IL doesn't mean heavier model is required; it means the available *catalog* of models shrinks (fewer commercial options at IL6). Within whatever catalog is available at your IL, tier by task complexity.
+
+### Verbal addition for slide 6 (added to presenter notes)
+
+> "Layer 4 is generation, where model selection varies by impact level. Within any tier there's a second cost decision: tier the model to the task. Use a small fast model for classification and routing, save the heavy reasoning model for final synthesis. For high-volume T&E pipelines, that's where Test for Less actually compounds."
+
+### Q&A-ready answer
+
+If asked *"is RAG expensive to run?"*:
+> "There are two cost dimensions. The classification level you're operating at — IL4 to IL6 — sets a floor: IL6 with dedicated enclaves is the most expensive simply because you're paying for the infrastructure. But within any level, you have a meaningful cost lever in model tiering: use a small fast model for classification, routing, and re-ranking calls, and save the frontier model for final synthesis. RAG pipelines typically have 5–10 LLM calls per query; if you tier them properly, you can cut cost 70–80% without quality loss. That's directly aligned with this workshop's Test for Less theme."
