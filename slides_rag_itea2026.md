@@ -51,7 +51,7 @@ Michael opens. Welcome everyone. We're Michael Soltys and Sam Bright from GBL Sy
 
 ### <span style="color: #6b21a8;">Fine-Tuning Is Not the Answer</span>
 
-- High retraining compute costs, must repeat with new data
+- High retraining <T4L>compute costs</T4L>, must repeat with new data
 - Degrades performance outside the fine-tuned domain
 - No source attribution for auditability
 - Increased vendor lock-in with a single LLM
