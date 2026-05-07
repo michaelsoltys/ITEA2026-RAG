@@ -1,0 +1,5083 @@
+%PDF-1.3
+%ÿÿÿÿ
+9 0 obj
+<<
+/Type /ExtGState
+/ca 1
+>>
+endobj
+8 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.280029 841.890015]
+/Contents 6 0 R
+/Resources 7 0 R
+/UserUnit 1
+>>
+endobj
+7 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState <<
+/Gs1 9 0 R
+>>
+/Font <<
+/F1 10 0 R
+>>
+>>
+endobj
+14 0 obj
+<<
+/S /URI
+/URI (https://storm.genie.stanford.edu/article/1559473)
+>>
+endobj
+15 0 obj
+<<
+/Subtype /Link
+/A 14 0 R
+/Type /Annot
+/Rect [83.288 476.290002 380.06 493.090002]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+16 0 obj
+<<
+/S /URI
+/URI (https://www.promptingguide.ai/research/rag)
+>>
+endobj
+17 0 obj
+<<
+/Subtype /Link
+/A 16 0 R
+/Type /Annot
+/Rect [61.784 175.290045 65.676 192.090045]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+18 0 obj
+<<
+/S /URI
+/URI (https://www.promptingguide.ai/research/rag)
+>>
+endobj
+19 0 obj
+<<
+/Subtype /Link
+/A 18 0 R
+/Type /Annot
+/Rect [65.676 175.290045 73.46 192.090045]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+20 0 obj
+<<
+/S /URI
+/URI (https://www.promptingguide.ai/research/rag)
+>>
+endobj
+21 0 obj
+<<
+/Subtype /Link
+/A 20 0 R
+/Type /Annot
+/Rect [73.46 175.290045 77.352 192.090045]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+22 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2510.18204v2)
+>>
+endobj
+23 0 obj
+<<
+/Subtype /Link
+/A 22 0 R
+/Type /Annot
+/Rect [77.352 175.290045 81.244 192.090045]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+24 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2510.18204v2)
+>>
+endobj
+25 0 obj
+<<
+/Subtype /Link
+/A 24 0 R
+/Type /Annot
+/Rect [81.244 175.290045 89.028 192.090045]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+26 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2510.18204v2)
+>>
+endobj
+27 0 obj
+<<
+/Subtype /Link
+/A 26 0 R
+/Type /Annot
+/Rect [89.028 175.290045 92.92 192.090045]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+28 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2505.08728v2)
+>>
+endobj
+29 0 obj
+<<
+/Subtype /Link
+/A 28 0 R
+/Type /Annot
+/Rect [92.92 175.290045 96.812 192.090045]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+30 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2505.08728v2)
+>>
+endobj
+31 0 obj
+<<
+/Subtype /Link
+/A 30 0 R
+/Type /Annot
+/Rect [96.812 175.290045 104.596 192.090045]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+32 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2505.08728v2)
+>>
+endobj
+33 0 obj
+<<
+/Subtype /Link
+/A 32 0 R
+/Type /Annot
+/Rect [104.596 175.290045 108.488 192.090045]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+34 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2407.06718)
+>>
+endobj
+35 0 obj
+<<
+/Subtype /Link
+/A 34 0 R
+/Type /Annot
+/Rect [95.398 69.490015 99.29 86.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+36 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2407.06718)
+>>
+endobj
+37 0 obj
+<<
+/Subtype /Link
+/A 36 0 R
+/Type /Annot
+/Rect [99.29 69.490015 107.074 86.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+38 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2407.06718)
+>>
+endobj
+39 0 obj
+<<
+/Subtype /Link
+/A 38 0 R
+/Type /Annot
+/Rect [107.074 69.490015 110.966 86.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+40 0 obj
+<<
+/S /URI
+/URI (https://techsur.solutions/rag/)
+>>
+endobj
+41 0 obj
+<<
+/Subtype /Link
+/A 40 0 R
+/Type /Annot
+/Rect [110.966 69.490015 114.858 86.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+42 0 obj
+<<
+/S /URI
+/URI (https://techsur.solutions/rag/)
+>>
+endobj
+43 0 obj
+<<
+/Subtype /Link
+/A 42 0 R
+/Type /Annot
+/Rect [114.858 69.490015 122.642 86.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+44 0 obj
+<<
+/S /URI
+/URI (https://techsur.solutions/rag/)
+>>
+endobj
+45 0 obj
+<<
+/Subtype /Link
+/A 44 0 R
+/Type /Annot
+/Rect [122.642 69.490015 126.337716 86.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+46 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2407.06718)
+>>
+endobj
+47 0 obj
+<<
+/Subtype /Link
+/A 46 0 R
+/Type /Annot
+/Rect [152.63 35.890015 156.522 52.690015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+48 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2407.06718)
+>>
+endobj
+49 0 obj
+<<
+/Subtype /Link
+/A 48 0 R
+/Type /Annot
+/Rect [156.522 35.890015 164.306 52.690015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+50 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2407.06718)
+>>
+endobj
+51 0 obj
+<<
+/Subtype /Link
+/A 50 0 R
+/Type /Annot
+/Rect [164.306 35.890015 168.198 52.690015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+13 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.280029 841.890015]
+/Contents 11 0 R
+/Resources 12 0 R
+/UserUnit 1
+/Annots [15 0 R 17 0 R 19 0 R 21 0 R 23 0 R 25 0 R 27 0 R 29 0 R 31 0 R 33 0 R 35 0 R 37 0 R 39 0 R 41 0 R 43 0 R 45 0 R 47 0 R 49 0 R 51 0 R]
+>>
+endobj
+12 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState <<
+/Gs1 9 0 R
+>>
+/Font <<
+/F1 10 0 R
+>>
+>>
+endobj
+55 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2507.02424v2)
+>>
+endobj
+56 0 obj
+<<
+/Subtype /Link
+/A 55 0 R
+/Type /Annot
+/Rect [425.56 724.290015 429.452 741.090015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+57 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2507.02424v2)
+>>
+endobj
+58 0 obj
+<<
+/Subtype /Link
+/A 57 0 R
+/Type /Annot
+/Rect [429.452 724.290015 437.236 741.090015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+59 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2507.02424v2)
+>>
+endobj
+60 0 obj
+<<
+/Subtype /Link
+/A 59 0 R
+/Type /Annot
+/Rect [437.236 724.290015 441.128 741.090015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+61 0 obj
+<<
+/S /URI
+/URI (https://implementconsultinggroup.com/article/building-high-quality-rag-systems)
+>>
+endobj
+62 0 obj
+<<
+/Subtype /Link
+/A 61 0 R
+/Type /Annot
+/Rect [441.128 724.290015 445.02 741.090015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+63 0 obj
+<<
+/S /URI
+/URI (https://implementconsultinggroup.com/article/building-high-quality-rag-systems)
+>>
+endobj
+64 0 obj
+<<
+/Subtype /Link
+/A 63 0 R
+/Type /Annot
+/Rect [445.02 724.290015 452.804 741.090015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+65 0 obj
+<<
+/S /URI
+/URI (https://implementconsultinggroup.com/article/building-high-quality-rag-systems)
+>>
+endobj
+66 0 obj
+<<
+/Subtype /Link
+/A 65 0 R
+/Type /Annot
+/Rect [452.804 724.290015 456.696 741.090015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+67 0 obj
+<<
+/S /URI
+/URI (https://www.practical-devsecops.com/glossary/retrieval-augmented-generation-rag-security/?srsltid=AfmBOooyG6xxLE8ptFpCwSJmHTYifsEApNayhqSW5GJNTKocgn7SB0iq)
+>>
+endobj
+68 0 obj
+<<
+/Subtype /Link
+/A 67 0 R
+/Type /Annot
+/Rect [71.332 673.890015 75.224 690.690015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+69 0 obj
+<<
+/S /URI
+/URI (https://www.practical-devsecops.com/glossary/retrieval-augmented-generation-rag-security/?srsltid=AfmBOooyG6xxLE8ptFpCwSJmHTYifsEApNayhqSW5GJNTKocgn7SB0iq)
+>>
+endobj
+70 0 obj
+<<
+/Subtype /Link
+/A 69 0 R
+/Type /Annot
+/Rect [75.224 673.890015 83.008 690.690015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+71 0 obj
+<<
+/S /URI
+/URI (https://www.practical-devsecops.com/glossary/retrieval-augmented-generation-rag-security/?srsltid=AfmBOooyG6xxLE8ptFpCwSJmHTYifsEApNayhqSW5GJNTKocgn7SB0iq)
+>>
+endobj
+72 0 obj
+<<
+/Subtype /Link
+/A 71 0 R
+/Type /Annot
+/Rect [83.008 673.890015 86.9 690.690015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+73 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2510.18204v2)
+>>
+endobj
+74 0 obj
+<<
+/Subtype /Link
+/A 73 0 R
+/Type /Annot
+/Rect [426.092 584.890021 429.984 601.690021]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+75 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2510.18204v2)
+>>
+endobj
+76 0 obj
+<<
+/Subtype /Link
+/A 75 0 R
+/Type /Annot
+/Rect [429.984 584.890021 437.768 601.690021]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+77 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2510.18204v2)
+>>
+endobj
+78 0 obj
+<<
+/Subtype /Link
+/A 77 0 R
+/Type /Annot
+/Rect [437.768 584.890021 441.66 601.690021]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+79 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2505.08728v2)
+>>
+endobj
+80 0 obj
+<<
+/Subtype /Link
+/A 79 0 R
+/Type /Annot
+/Rect [441.66 584.890021 445.552 601.690021]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+81 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2505.08728v2)
+>>
+endobj
+82 0 obj
+<<
+/Subtype /Link
+/A 81 0 R
+/Type /Annot
+/Rect [445.552 584.890021 453.336 601.690021]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+83 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2505.08728v2)
+>>
+endobj
+84 0 obj
+<<
+/Subtype /Link
+/A 83 0 R
+/Type /Annot
+/Rect [453.336 584.890021 457.228 601.690021]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+85 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2507.02424v2)
+>>
+endobj
+86 0 obj
+<<
+/Subtype /Link
+/A 85 0 R
+/Type /Annot
+/Rect [457.228 584.890021 461.12 601.690021]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+87 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2507.02424v2)
+>>
+endobj
+88 0 obj
+<<
+/Subtype /Link
+/A 87 0 R
+/Type /Annot
+/Rect [461.12 584.890021 468.904 601.690021]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+89 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2507.02424v2)
+>>
+endobj
+90 0 obj
+<<
+/Subtype /Link
+/A 89 0 R
+/Type /Annot
+/Rect [468.904 584.890021 472.796 601.690021]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+91 0 obj
+<<
+/S /URI
+/URI (https://www.promptingguide.ai/research/rag)
+>>
+endobj
+92 0 obj
+<<
+/Subtype /Link
+/A 91 0 R
+/Type /Annot
+/Rect [59.46 365.490027 63.352 382.290027]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+93 0 obj
+<<
+/S /URI
+/URI (https://www.promptingguide.ai/research/rag)
+>>
+endobj
+94 0 obj
+<<
+/Subtype /Link
+/A 93 0 R
+/Type /Annot
+/Rect [63.352 365.490027 71.136 382.290027]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+95 0 obj
+<<
+/S /URI
+/URI (https://www.promptingguide.ai/research/rag)
+>>
+endobj
+96 0 obj
+<<
+/Subtype /Link
+/A 95 0 R
+/Type /Annot
+/Rect [71.136 365.490027 75.028 382.290027]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+97 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2510.18204v2)
+>>
+endobj
+98 0 obj
+<<
+/Subtype /Link
+/A 97 0 R
+/Type /Annot
+/Rect [371.086 310.090027 374.978 326.890027]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+99 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2510.18204v2)
+>>
+endobj
+100 0 obj
+<<
+/Subtype /Link
+/A 99 0 R
+/Type /Annot
+/Rect [374.978 310.090027 382.762 326.890027]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+101 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2510.18204v2)
+>>
+endobj
+102 0 obj
+<<
+/Subtype /Link
+/A 101 0 R
+/Type /Annot
+/Rect [382.762 310.090027 386.654 326.890027]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+103 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2505.08728v2)
+>>
+endobj
+104 0 obj
+<<
+/Subtype /Link
+/A 103 0 R
+/Type /Annot
+/Rect [484.962 242.890027 488.854 259.690027]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+105 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2505.08728v2)
+>>
+endobj
+106 0 obj
+<<
+/Subtype /Link
+/A 105 0 R
+/Type /Annot
+/Rect [488.854 242.890027 496.638 259.690027]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+107 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2505.08728v2)
+>>
+endobj
+108 0 obj
+<<
+/Subtype /Link
+/A 107 0 R
+/Type /Annot
+/Rect [496.638 242.890027 500.53 259.690027]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+109 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2407.06718)
+>>
+endobj
+110 0 obj
+<<
+/Subtype /Link
+/A 109 0 R
+/Type /Annot
+/Rect [200.944 153.890051 204.836 170.690051]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+111 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2407.06718)
+>>
+endobj
+112 0 obj
+<<
+/Subtype /Link
+/A 111 0 R
+/Type /Annot
+/Rect [204.836 153.890051 212.62 170.690051]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+113 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2407.06718)
+>>
+endobj
+114 0 obj
+<<
+/Subtype /Link
+/A 113 0 R
+/Type /Annot
+/Rect [212.62 153.890051 216.512 170.690051]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+115 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2407.06718)
+>>
+endobj
+116 0 obj
+<<
+/Subtype /Link
+/A 115 0 R
+/Type /Annot
+/Rect [520.252029 120.290051 524.144029 137.090051]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+117 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2407.06718)
+>>
+endobj
+118 0 obj
+<<
+/Subtype /Link
+/A 117 0 R
+/Type /Annot
+/Rect [524.144029 120.290051 531.928029 137.090051]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+119 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2407.06718)
+>>
+endobj
+120 0 obj
+<<
+/Subtype /Link
+/A 119 0 R
+/Type /Annot
+/Rect [531.928029 120.290051 535.820029 137.090051]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+121 0 obj
+<<
+/S /URI
+/URI (https://techsur.solutions/rag/)
+>>
+endobj
+122 0 obj
+<<
+/Subtype /Link
+/A 121 0 R
+/Type /Annot
+/Rect [535.820029 120.290051 539.712029 137.090051]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+123 0 obj
+<<
+/S /URI
+/URI (https://techsur.solutions/rag/)
+>>
+endobj
+124 0 obj
+<<
+/Subtype /Link
+/A 123 0 R
+/Type /Annot
+/Rect [539.712029 120.290051 547.496029 137.090051]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+125 0 obj
+<<
+/S /URI
+/URI (https://techsur.solutions/rag/)
+>>
+endobj
+126 0 obj
+<<
+/Subtype /Link
+/A 125 0 R
+/Type /Annot
+/Rect [547.496029 120.290051 551.388029 137.090051]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+54 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.280029 841.890015]
+/Contents 52 0 R
+/Resources 53 0 R
+/UserUnit 1
+/Annots [56 0 R 58 0 R 60 0 R 62 0 R 64 0 R 66 0 R 68 0 R 70 0 R 72 0 R 74 0 R 76 0 R 78 0 R 80 0 R 82 0 R 84 0 R 86 0 R 88 0 R 90 0 R 92 0 R 94 0 R 96 0 R 98 0 R 100 0 R 102 0 R 104 0 R 106 0 R 108 0 R 110 0 R 112 0 R 114 0 R 116 0 R 118 0 R 120 0 R 122 0 R 124 0 R 126 0 R]
+>>
+endobj
+53 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState <<
+/Gs1 9 0 R
+>>
+/Font <<
+/F1 10 0 R
+>>
+>>
+endobj
+130 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2507.02424v2)
+>>
+endobj
+131 0 obj
+<<
+/Subtype /Link
+/A 130 0 R
+/Type /Annot
+/Rect [89.014 796.490015 92.906 813.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+132 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2507.02424v2)
+>>
+endobj
+133 0 obj
+<<
+/Subtype /Link
+/A 132 0 R
+/Type /Annot
+/Rect [92.906 796.490015 100.69 813.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+134 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2507.02424v2)
+>>
+endobj
+135 0 obj
+<<
+/Subtype /Link
+/A 134 0 R
+/Type /Annot
+/Rect [100.69 796.490015 104.582 813.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+136 0 obj
+<<
+/S /URI
+/URI (https://implementconsultinggroup.com/article/building-high-quality-rag-systems)
+>>
+endobj
+137 0 obj
+<<
+/Subtype /Link
+/A 136 0 R
+/Type /Annot
+/Rect [104.582 796.490015 108.474 813.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+138 0 obj
+<<
+/S /URI
+/URI (https://implementconsultinggroup.com/article/building-high-quality-rag-systems)
+>>
+endobj
+139 0 obj
+<<
+/Subtype /Link
+/A 138 0 R
+/Type /Annot
+/Rect [108.474 796.490015 116.258 813.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+140 0 obj
+<<
+/S /URI
+/URI (https://implementconsultinggroup.com/article/building-high-quality-rag-systems)
+>>
+endobj
+141 0 obj
+<<
+/Subtype /Link
+/A 140 0 R
+/Type /Annot
+/Rect [116.258 796.490015 120.15 813.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+142 0 obj
+<<
+/S /URI
+/URI (https://www.practical-devsecops.com/glossary/retrieval-augmented-generation-rag-security/?srsltid=AfmBOooyG6xxLE8ptFpCwSJmHTYifsEApNayhqSW5GJNTKocgn7SB0iq)
+>>
+endobj
+143 0 obj
+<<
+/Subtype /Link
+/A 142 0 R
+/Type /Annot
+/Rect [229.07 518.290021 232.962 535.090021]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+144 0 obj
+<<
+/S /URI
+/URI (https://www.practical-devsecops.com/glossary/retrieval-augmented-generation-rag-security/?srsltid=AfmBOooyG6xxLE8ptFpCwSJmHTYifsEApNayhqSW5GJNTKocgn7SB0iq)
+>>
+endobj
+145 0 obj
+<<
+/Subtype /Link
+/A 144 0 R
+/Type /Annot
+/Rect [232.962 518.290021 240.746 535.090021]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+146 0 obj
+<<
+/S /URI
+/URI (https://www.practical-devsecops.com/glossary/retrieval-augmented-generation-rag-security/?srsltid=AfmBOooyG6xxLE8ptFpCwSJmHTYifsEApNayhqSW5GJNTKocgn7SB0iq)
+>>
+endobj
+147 0 obj
+<<
+/Subtype /Link
+/A 146 0 R
+/Type /Annot
+/Rect [240.746 518.290021 244.638 535.090021]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+148 0 obj
+<<
+/S /URI
+/URI (https://www.practical-devsecops.com/glossary/retrieval-augmented-generation-rag-security/?srsltid=AfmBOoqiqZ7OxKCY5br_kUr80d6sKQ-TMeQatN63IajIo4R8R97wUNA6)
+>>
+endobj
+149 0 obj
+<<
+/Subtype /Link
+/A 148 0 R
+/Type /Annot
+/Rect [244.638 518.290021 248.53 535.090021]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+150 0 obj
+<<
+/S /URI
+/URI (https://www.practical-devsecops.com/glossary/retrieval-augmented-generation-rag-security/?srsltid=AfmBOoqiqZ7OxKCY5br_kUr80d6sKQ-TMeQatN63IajIo4R8R97wUNA6)
+>>
+endobj
+151 0 obj
+<<
+/Subtype /Link
+/A 150 0 R
+/Type /Annot
+/Rect [248.53 518.290021 256.314 535.090021]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+152 0 obj
+<<
+/S /URI
+/URI (https://www.practical-devsecops.com/glossary/retrieval-augmented-generation-rag-security/?srsltid=AfmBOoqiqZ7OxKCY5br_kUr80d6sKQ-TMeQatN63IajIo4R8R97wUNA6)
+>>
+endobj
+153 0 obj
+<<
+/Subtype /Link
+/A 152 0 R
+/Type /Annot
+/Rect [256.314 518.290021 260.206 535.090021]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+154 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2508.01084v1)
+>>
+endobj
+155 0 obj
+<<
+/Subtype /Link
+/A 154 0 R
+/Type /Annot
+/Rect [394.9 297.090051 398.792 313.890051]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+156 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2508.01084v1)
+>>
+endobj
+157 0 obj
+<<
+/Subtype /Link
+/A 156 0 R
+/Type /Annot
+/Rect [398.792 297.090051 414.36 313.890051]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+158 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2508.01084v1)
+>>
+endobj
+159 0 obj
+<<
+/Subtype /Link
+/A 158 0 R
+/Type /Annot
+/Rect [414.36 297.090051 418.252 313.890051]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+160 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2508.01084v1)
+>>
+endobj
+161 0 obj
+<<
+/Subtype /Link
+/A 160 0 R
+/Type /Annot
+/Rect [350.366 185.090076 354.258 201.890076]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+162 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2508.01084v1)
+>>
+endobj
+163 0 obj
+<<
+/Subtype /Link
+/A 162 0 R
+/Type /Annot
+/Rect [354.258 185.090076 369.826 201.890076]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+164 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2508.01084v1)
+>>
+endobj
+165 0 obj
+<<
+/Subtype /Link
+/A 164 0 R
+/Type /Annot
+/Rect [369.826 185.090076 373.718 201.890076]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+166 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2508.01084v1)
+>>
+endobj
+167 0 obj
+<<
+/Subtype /Link
+/A 166 0 R
+/Type /Annot
+/Rect [255.222 56.290076 259.114 73.090076]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+168 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2508.01084v1)
+>>
+endobj
+169 0 obj
+<<
+/Subtype /Link
+/A 168 0 R
+/Type /Annot
+/Rect [259.114 56.290076 274.682 73.090076]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+170 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2508.01084v1)
+>>
+endobj
+171 0 obj
+<<
+/Subtype /Link
+/A 170 0 R
+/Type /Annot
+/Rect [274.682 56.290076 278.574 73.090076]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+129 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.280029 841.890015]
+/Contents 127 0 R
+/Resources 128 0 R
+/UserUnit 1
+/Annots [131 0 R 133 0 R 135 0 R 137 0 R 139 0 R 141 0 R 143 0 R 145 0 R 147 0 R 149 0 R 151 0 R 153 0 R 155 0 R 157 0 R 159 0 R 161 0 R 163 0 R 165 0 R 167 0 R 169 0 R 171 0 R]
+>>
+endobj
+128 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState <<
+/Gs1 9 0 R
+>>
+/Font <<
+/F1 10 0 R
+>>
+>>
+endobj
+175 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2510.18204v2)
+>>
+endobj
+176 0 obj
+<<
+/Subtype /Link
+/A 175 0 R
+/Type /Annot
+/Rect [123.748 658.690015 127.64 675.490015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+177 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2510.18204v2)
+>>
+endobj
+178 0 obj
+<<
+/Subtype /Link
+/A 177 0 R
+/Type /Annot
+/Rect [127.64 658.690015 135.424 675.490015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+179 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2510.18204v2)
+>>
+endobj
+180 0 obj
+<<
+/Subtype /Link
+/A 179 0 R
+/Type /Annot
+/Rect [135.424 658.690015 139.316 675.490015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+181 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2508.01084v1)
+>>
+endobj
+182 0 obj
+<<
+/Subtype /Link
+/A 181 0 R
+/Type /Annot
+/Rect [152.056 527.690009 155.948 544.490009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+183 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2508.01084v1)
+>>
+endobj
+184 0 obj
+<<
+/Subtype /Link
+/A 183 0 R
+/Type /Annot
+/Rect [155.948 527.690009 171.516 544.490009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+185 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2508.01084v1)
+>>
+endobj
+186 0 obj
+<<
+/Subtype /Link
+/A 185 0 R
+/Type /Annot
+/Rect [171.516 527.690009 175.408 544.490009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+187 0 obj
+<<
+/S /URI
+/URI (https://ijarcce.com/wp-content/uploads/2025/01/IJARCCE.2025.14114.pdf)
+>>
+endobj
+188 0 obj
+<<
+/Subtype /Link
+/A 187 0 R
+/Type /Annot
+/Rect [417.818 283.090009 421.71 299.890009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+189 0 obj
+<<
+/S /URI
+/URI (https://ijarcce.com/wp-content/uploads/2025/01/IJARCCE.2025.14114.pdf)
+>>
+endobj
+190 0 obj
+<<
+/Subtype /Link
+/A 189 0 R
+/Type /Annot
+/Rect [421.71 283.090009 437.278 299.890009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+191 0 obj
+<<
+/S /URI
+/URI (https://ijarcce.com/wp-content/uploads/2025/01/IJARCCE.2025.14114.pdf)
+>>
+endobj
+192 0 obj
+<<
+/Subtype /Link
+/A 191 0 R
+/Type /Annot
+/Rect [437.278 283.090009 441.17 299.890009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+193 0 obj
+<<
+/S /URI
+/URI (https://www.saic.com/blogs/rag-r-mission-ready-llm-decision-aids)
+>>
+endobj
+194 0 obj
+<<
+/Subtype /Link
+/A 193 0 R
+/Type /Annot
+/Rect [441.17 283.090009 445.062 299.890009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+195 0 obj
+<<
+/S /URI
+/URI (https://www.saic.com/blogs/rag-r-mission-ready-llm-decision-aids)
+>>
+endobj
+196 0 obj
+<<
+/Subtype /Link
+/A 195 0 R
+/Type /Annot
+/Rect [445.062 283.090009 460.63 299.890009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+197 0 obj
+<<
+/S /URI
+/URI (https://www.saic.com/blogs/rag-r-mission-ready-llm-decision-aids)
+>>
+endobj
+198 0 obj
+<<
+/Subtype /Link
+/A 197 0 R
+/Type /Annot
+/Rect [460.63 283.090009 464.522 299.890009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+199 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2511.11347v2)
+>>
+endobj
+200 0 obj
+<<
+/Subtype /Link
+/A 199 0 R
+/Type /Annot
+/Rect [357.016 112.290015 360.908 129.090015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+201 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2511.11347v2)
+>>
+endobj
+202 0 obj
+<<
+/Subtype /Link
+/A 201 0 R
+/Type /Annot
+/Rect [360.908 112.290015 376.476 129.090015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+203 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2511.11347v2)
+>>
+endobj
+204 0 obj
+<<
+/Subtype /Link
+/A 203 0 R
+/Type /Annot
+/Rect [376.476 112.290015 380.368 129.090015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+205 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2511.11347v2)
+>>
+endobj
+206 0 obj
+<<
+/Subtype /Link
+/A 205 0 R
+/Type /Annot
+/Rect [109.272 61.890015 113.164 78.690015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+207 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2511.11347v2)
+>>
+endobj
+208 0 obj
+<<
+/Subtype /Link
+/A 207 0 R
+/Type /Annot
+/Rect [113.164 61.890015 128.732 78.690015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+209 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2511.11347v2)
+>>
+endobj
+210 0 obj
+<<
+/Subtype /Link
+/A 209 0 R
+/Type /Annot
+/Rect [128.732 61.890015 132.624 78.690015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+174 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.280029 841.890015]
+/Contents 172 0 R
+/Resources 173 0 R
+/UserUnit 1
+/Annots [176 0 R 178 0 R 180 0 R 182 0 R 184 0 R 186 0 R 188 0 R 190 0 R 192 0 R 194 0 R 196 0 R 198 0 R 200 0 R 202 0 R 204 0 R 206 0 R 208 0 R 210 0 R]
+>>
+endobj
+173 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState <<
+/Gs1 9 0 R
+>>
+/Font <<
+/F1 10 0 R
+>>
+>>
+endobj
+214 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2505.08728v2)
+>>
+endobj
+215 0 obj
+<<
+/Subtype /Link
+/A 214 0 R
+/Type /Annot
+/Rect [182.408 684.490015 186.3 701.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+216 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2505.08728v2)
+>>
+endobj
+217 0 obj
+<<
+/Subtype /Link
+/A 216 0 R
+/Type /Annot
+/Rect [186.3 684.490015 194.084 701.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+218 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2505.08728v2)
+>>
+endobj
+219 0 obj
+<<
+/Subtype /Link
+/A 218 0 R
+/Type /Annot
+/Rect [194.084 684.490015 197.976 701.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+220 0 obj
+<<
+/S /URI
+/URI (https://ragaboutit.com/the-military-ai-ultimatum-that-just-changed-enterprise-rag-risk-calculus/)
+>>
+endobj
+221 0 obj
+<<
+/Subtype /Link
+/A 220 0 R
+/Type /Annot
+/Rect [197.976 684.490015 201.868 701.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+222 0 obj
+<<
+/S /URI
+/URI (https://ragaboutit.com/the-military-ai-ultimatum-that-just-changed-enterprise-rag-risk-calculus/)
+>>
+endobj
+223 0 obj
+<<
+/Subtype /Link
+/A 222 0 R
+/Type /Annot
+/Rect [201.868 684.490015 217.436 701.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+224 0 obj
+<<
+/S /URI
+/URI (https://ragaboutit.com/the-military-ai-ultimatum-that-just-changed-enterprise-rag-risk-calculus/)
+>>
+endobj
+225 0 obj
+<<
+/Subtype /Link
+/A 224 0 R
+/Type /Annot
+/Rect [217.436 684.490015 221.328 701.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+226 0 obj
+<<
+/S /URI
+/URI (https://www.afcea.org/signal-media/technology/building-specialized-gpt-fine-tuning-llms-classified-environments)
+>>
+endobj
+227 0 obj
+<<
+/Subtype /Link
+/A 226 0 R
+/Type /Annot
+/Rect [505.524029 530.490009 509.416029 547.290009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+228 0 obj
+<<
+/S /URI
+/URI (https://www.afcea.org/signal-media/technology/building-specialized-gpt-fine-tuning-llms-classified-environments)
+>>
+endobj
+229 0 obj
+<<
+/Subtype /Link
+/A 228 0 R
+/Type /Annot
+/Rect [509.416029 530.490009 524.984029 547.290009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+230 0 obj
+<<
+/S /URI
+/URI (https://www.afcea.org/signal-media/technology/building-specialized-gpt-fine-tuning-llms-classified-environments)
+>>
+endobj
+231 0 obj
+<<
+/Subtype /Link
+/A 230 0 R
+/Type /Annot
+/Rect [524.984029 530.490009 528.876029 547.290009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+232 0 obj
+<<
+/S /URI
+/URI (https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/)
+>>
+endobj
+233 0 obj
+<<
+/Subtype /Link
+/A 232 0 R
+/Type /Annot
+/Rect [528.876029 530.490009 532.768029 547.290009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+234 0 obj
+<<
+/S /URI
+/URI (https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/)
+>>
+endobj
+235 0 obj
+<<
+/Subtype /Link
+/A 234 0 R
+/Type /Annot
+/Rect [532.768029 530.490009 548.336029 547.290009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+236 0 obj
+<<
+/S /URI
+/URI (https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/)
+>>
+endobj
+237 0 obj
+<<
+/Subtype /Link
+/A 236 0 R
+/Type /Annot
+/Rect [548.336029 530.490009 552.228029 547.290009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+238 0 obj
+<<
+/S /URI
+/URI (https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/)
+>>
+endobj
+239 0 obj
+<<
+/Subtype /Link
+/A 238 0 R
+/Type /Annot
+/Rect [390.434 496.890009 394.326 513.690009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+240 0 obj
+<<
+/S /URI
+/URI (https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/)
+>>
+endobj
+241 0 obj
+<<
+/Subtype /Link
+/A 240 0 R
+/Type /Annot
+/Rect [394.326 496.890009 409.894 513.690009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+242 0 obj
+<<
+/S /URI
+/URI (https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/)
+>>
+endobj
+243 0 obj
+<<
+/Subtype /Link
+/A 242 0 R
+/Type /Annot
+/Rect [409.894 496.890009 413.786 513.690009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+244 0 obj
+<<
+/S /URI
+/URI (https://www.codebridge.tech/articles/what-nato-and-pentagon-ai-deals-reveal-about-production-grade-ai-security)
+>>
+endobj
+245 0 obj
+<<
+/Subtype /Link
+/A 244 0 R
+/Type /Annot
+/Rect [288.808 368.090002 292.7 384.890002]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+246 0 obj
+<<
+/S /URI
+/URI (https://www.codebridge.tech/articles/what-nato-and-pentagon-ai-deals-reveal-about-production-grade-ai-security)
+>>
+endobj
+247 0 obj
+<<
+/Subtype /Link
+/A 246 0 R
+/Type /Annot
+/Rect [292.7 368.090002 308.268 384.890002]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+248 0 obj
+<<
+/S /URI
+/URI (https://www.codebridge.tech/articles/what-nato-and-pentagon-ai-deals-reveal-about-production-grade-ai-security)
+>>
+endobj
+249 0 obj
+<<
+/Subtype /Link
+/A 248 0 R
+/Type /Annot
+/Rect [308.268 368.090002 312.16 384.890002]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+250 0 obj
+<<
+/S /URI
+/URI (https://ragaboutit.com/the-military-ai-ultimatum-that-just-changed-enterprise-rag-risk-calculus/)
+>>
+endobj
+251 0 obj
+<<
+/Subtype /Link
+/A 250 0 R
+/Type /Annot
+/Rect [312.16 368.090002 316.052 384.890002]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+252 0 obj
+<<
+/S /URI
+/URI (https://ragaboutit.com/the-military-ai-ultimatum-that-just-changed-enterprise-rag-risk-calculus/)
+>>
+endobj
+253 0 obj
+<<
+/Subtype /Link
+/A 252 0 R
+/Type /Annot
+/Rect [316.052 368.090002 331.62 384.890002]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+254 0 obj
+<<
+/S /URI
+/URI (https://ragaboutit.com/the-military-ai-ultimatum-that-just-changed-enterprise-rag-risk-calculus/)
+>>
+endobj
+255 0 obj
+<<
+/Subtype /Link
+/A 254 0 R
+/Type /Annot
+/Rect [331.62 368.090002 335.512 384.890002]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+256 0 obj
+<<
+/S /URI
+/URI (https://www.codebridge.tech/articles/what-nato-and-pentagon-ai-deals-reveal-about-production-grade-ai-security)
+>>
+endobj
+257 0 obj
+<<
+/Subtype /Link
+/A 256 0 R
+/Type /Annot
+/Rect [471.746 334.490002 475.638 351.290002]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+258 0 obj
+<<
+/S /URI
+/URI (https://www.codebridge.tech/articles/what-nato-and-pentagon-ai-deals-reveal-about-production-grade-ai-security)
+>>
+endobj
+259 0 obj
+<<
+/Subtype /Link
+/A 258 0 R
+/Type /Annot
+/Rect [475.638 334.490002 491.206 351.290002]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+260 0 obj
+<<
+/S /URI
+/URI (https://www.codebridge.tech/articles/what-nato-and-pentagon-ai-deals-reveal-about-production-grade-ai-security)
+>>
+endobj
+261 0 obj
+<<
+/Subtype /Link
+/A 260 0 R
+/Type /Annot
+/Rect [491.206 334.490002 495.098 351.290002]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+262 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2510.18204v2)
+>>
+endobj
+263 0 obj
+<<
+/Subtype /Link
+/A 262 0 R
+/Type /Annot
+/Rect [215.84 74.689966 219.732 91.489966]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+264 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2510.18204v2)
+>>
+endobj
+265 0 obj
+<<
+/Subtype /Link
+/A 264 0 R
+/Type /Annot
+/Rect [219.732 74.689966 227.516 91.489966]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+266 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2510.18204v2)
+>>
+endobj
+267 0 obj
+<<
+/Subtype /Link
+/A 266 0 R
+/Type /Annot
+/Rect [227.516 74.689966 231.408 91.489966]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+213 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.280029 841.890015]
+/Contents 211 0 R
+/Resources 212 0 R
+/UserUnit 1
+/Annots [215 0 R 217 0 R 219 0 R 221 0 R 223 0 R 225 0 R 227 0 R 229 0 R 231 0 R 233 0 R 235 0 R 237 0 R 239 0 R 241 0 R 243 0 R 245 0 R 247 0 R 249 0 R 251 0 R 253 0 R 255 0 R 257 0 R 259 0 R 261 0 R 263 0 R 265 0 R 267 0 R]
+>>
+endobj
+212 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState <<
+/Gs1 9 0 R
+>>
+/Font <<
+/F1 10 0 R
+>>
+>>
+endobj
+271 0 obj
+<<
+/S /URI
+/URI (https://sjms.nu/articles/10.31374/sjms.415)
+>>
+endobj
+272 0 obj
+<<
+/Subtype /Link
+/A 271 0 R
+/Type /Annot
+/Rect [450.354 707.490015 454.246 724.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+273 0 obj
+<<
+/S /URI
+/URI (https://sjms.nu/articles/10.31374/sjms.415)
+>>
+endobj
+274 0 obj
+<<
+/Subtype /Link
+/A 273 0 R
+/Type /Annot
+/Rect [454.246 707.490015 469.814 724.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+275 0 obj
+<<
+/S /URI
+/URI (https://sjms.nu/articles/10.31374/sjms.415)
+>>
+endobj
+276 0 obj
+<<
+/Subtype /Link
+/A 275 0 R
+/Type /Annot
+/Rect [469.814 707.490015 473.706 724.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+277 0 obj
+<<
+/S /URI
+/URI (https://sjms.nu/articles/10.31374/sjms.415)
+>>
+endobj
+278 0 obj
+<<
+/Subtype /Link
+/A 277 0 R
+/Type /Annot
+/Rect [164.516 545.090009 168.408 561.890009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+279 0 obj
+<<
+/S /URI
+/URI (https://sjms.nu/articles/10.31374/sjms.415)
+>>
+endobj
+280 0 obj
+<<
+/Subtype /Link
+/A 279 0 R
+/Type /Annot
+/Rect [168.408 545.090009 183.976 561.890009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+281 0 obj
+<<
+/S /URI
+/URI (https://sjms.nu/articles/10.31374/sjms.415)
+>>
+endobj
+282 0 obj
+<<
+/Subtype /Link
+/A 281 0 R
+/Type /Annot
+/Rect [183.976 545.090009 187.868 561.890009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+283 0 obj
+<<
+/S /URI
+/URI (https://www.mrlatte.net/en/stories/2026/02/28/openai-agrees-with-dept-of-war-to-deploy-models-in-their-cla/)
+>>
+endobj
+284 0 obj
+<<
+/Subtype /Link
+/A 283 0 R
+/Type /Annot
+/Rect [187.868 545.090009 191.76 561.890009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+285 0 obj
+<<
+/S /URI
+/URI (https://www.mrlatte.net/en/stories/2026/02/28/openai-agrees-with-dept-of-war-to-deploy-models-in-their-cla/)
+>>
+endobj
+286 0 obj
+<<
+/Subtype /Link
+/A 285 0 R
+/Type /Annot
+/Rect [191.76 545.090009 207.328 561.890009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+287 0 obj
+<<
+/S /URI
+/URI (https://www.mrlatte.net/en/stories/2026/02/28/openai-agrees-with-dept-of-war-to-deploy-models-in-their-cla/)
+>>
+endobj
+288 0 obj
+<<
+/Subtype /Link
+/A 287 0 R
+/Type /Annot
+/Rect [207.328 545.090009 211.22 561.890009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+289 0 obj
+<<
+/S /URI
+/URI (https://implementconsultinggroup.com/article/building-high-quality-rag-systems)
+>>
+endobj
+290 0 obj
+<<
+/Subtype /Link
+/A 289 0 R
+/Type /Annot
+/Rect [434.268 416.290015 438.16 433.090015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+291 0 obj
+<<
+/S /URI
+/URI (https://implementconsultinggroup.com/article/building-high-quality-rag-systems)
+>>
+endobj
+292 0 obj
+<<
+/Subtype /Link
+/A 291 0 R
+/Type /Annot
+/Rect [438.16 416.290015 445.944 433.090015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+293 0 obj
+<<
+/S /URI
+/URI (https://implementconsultinggroup.com/article/building-high-quality-rag-systems)
+>>
+endobj
+294 0 obj
+<<
+/Subtype /Link
+/A 293 0 R
+/Type /Annot
+/Rect [445.944 416.290015 449.836 433.090015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+295 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2507.02424v2)
+>>
+endobj
+296 0 obj
+<<
+/Subtype /Link
+/A 295 0 R
+/Type /Annot
+/Rect [347.328 253.890027 351.22 270.690027]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+297 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2507.02424v2)
+>>
+endobj
+298 0 obj
+<<
+/Subtype /Link
+/A 297 0 R
+/Type /Annot
+/Rect [351.22 253.890027 359.004 270.690027]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+299 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2507.02424v2)
+>>
+endobj
+300 0 obj
+<<
+/Subtype /Link
+/A 299 0 R
+/Type /Annot
+/Rect [359.004 253.890027 362.896 270.690027]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+270 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.280029 841.890015]
+/Contents 268 0 R
+/Resources 269 0 R
+/UserUnit 1
+/Annots [272 0 R 274 0 R 276 0 R 278 0 R 280 0 R 282 0 R 284 0 R 286 0 R 288 0 R 290 0 R 292 0 R 294 0 R 296 0 R 298 0 R 300 0 R]
+>>
+endobj
+269 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState <<
+/Gs1 9 0 R
+>>
+/Font <<
+/F1 10 0 R
+>>
+>>
+endobj
+304 0 obj
+<<
+/S /URI
+/URI (https://www.secureitworld.com/blog/retrieval-augmented-generation-rag-security-risks-and-mitigation-strategies/)
+>>
+endobj
+305 0 obj
+<<
+/Subtype /Link
+/A 304 0 R
+/Type /Annot
+/Rect [109.174 796.490015 113.066 813.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+306 0 obj
+<<
+/S /URI
+/URI (https://www.secureitworld.com/blog/retrieval-augmented-generation-rag-security-risks-and-mitigation-strategies/)
+>>
+endobj
+307 0 obj
+<<
+/Subtype /Link
+/A 306 0 R
+/Type /Annot
+/Rect [113.066 796.490015 128.634 813.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+308 0 obj
+<<
+/S /URI
+/URI (https://www.secureitworld.com/blog/retrieval-augmented-generation-rag-security-risks-and-mitigation-strategies/)
+>>
+endobj
+309 0 obj
+<<
+/Subtype /Link
+/A 308 0 R
+/Type /Annot
+/Rect [128.634 796.490015 132.526 813.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+310 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2507.02424v2)
+>>
+endobj
+311 0 obj
+<<
+/Subtype /Link
+/A 310 0 R
+/Type /Annot
+/Rect [176.64 746.090015 180.532 762.890015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+312 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2507.02424v2)
+>>
+endobj
+313 0 obj
+<<
+/Subtype /Link
+/A 312 0 R
+/Type /Annot
+/Rect [180.532 746.090015 188.316 762.890015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+314 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2507.02424v2)
+>>
+endobj
+315 0 obj
+<<
+/Subtype /Link
+/A 314 0 R
+/Type /Annot
+/Rect [188.316 746.090015 192.208 762.890015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+316 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2511.11347v2)
+>>
+endobj
+317 0 obj
+<<
+/Subtype /Link
+/A 316 0 R
+/Type /Annot
+/Rect [477.094 648.690018 480.986 665.490018]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+318 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2511.11347v2)
+>>
+endobj
+319 0 obj
+<<
+/Subtype /Link
+/A 318 0 R
+/Type /Annot
+/Rect [480.986 648.690018 496.554 665.490018]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+320 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2511.11347v2)
+>>
+endobj
+321 0 obj
+<<
+/Subtype /Link
+/A 320 0 R
+/Type /Annot
+/Rect [496.554 648.690018 500.446 665.490018]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+322 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2510.18204v2)
+>>
+endobj
+323 0 obj
+<<
+/Subtype /Link
+/A 322 0 R
+/Type /Annot
+/Rect [329.464 581.490018 333.356 598.290018]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+324 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2510.18204v2)
+>>
+endobj
+325 0 obj
+<<
+/Subtype /Link
+/A 324 0 R
+/Type /Annot
+/Rect [333.356 581.490018 341.14 598.290018]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+326 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2510.18204v2)
+>>
+endobj
+327 0 obj
+<<
+/Subtype /Link
+/A 326 0 R
+/Type /Annot
+/Rect [341.14 581.490018 345.032 598.290018]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+328 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2510.18204v2)
+>>
+endobj
+329 0 obj
+<<
+/Subtype /Link
+/A 328 0 R
+/Type /Annot
+/Rect [356.222198 467.290027 360.114198 484.090027]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+330 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2510.18204v2)
+>>
+endobj
+331 0 obj
+<<
+/Subtype /Link
+/A 330 0 R
+/Type /Annot
+/Rect [360.114198 467.290027 367.898198 484.090027]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+332 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2510.18204v2)
+>>
+endobj
+333 0 obj
+<<
+/Subtype /Link
+/A 332 0 R
+/Type /Annot
+/Rect [367.898198 467.290027 371.790198 484.090027]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+334 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2508.01084v1)
+>>
+endobj
+335 0 obj
+<<
+/Subtype /Link
+/A 334 0 R
+/Type /Annot
+/Rect [271.238 319.490039 275.13 336.290039]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+336 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2508.01084v1)
+>>
+endobj
+337 0 obj
+<<
+/Subtype /Link
+/A 336 0 R
+/Type /Annot
+/Rect [275.13 319.490039 290.698 336.290039]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+338 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2508.01084v1)
+>>
+endobj
+339 0 obj
+<<
+/Subtype /Link
+/A 338 0 R
+/Type /Annot
+/Rect [290.698 319.490039 294.59 336.290039]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+340 0 obj
+<<
+/S /URI
+/URI (https://www.csis.org/analysis/defense-priorities-open-source-ai-debate)
+>>
+endobj
+341 0 obj
+<<
+/Subtype /Link
+/A 340 0 R
+/Type /Annot
+/Rect [135.718 269.090039 139.61 285.890039]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+342 0 obj
+<<
+/S /URI
+/URI (https://www.csis.org/analysis/defense-priorities-open-source-ai-debate)
+>>
+endobj
+343 0 obj
+<<
+/Subtype /Link
+/A 342 0 R
+/Type /Annot
+/Rect [139.61 269.090039 155.178 285.890039]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+344 0 obj
+<<
+/S /URI
+/URI (https://www.csis.org/analysis/defense-priorities-open-source-ai-debate)
+>>
+endobj
+345 0 obj
+<<
+/Subtype /Link
+/A 344 0 R
+/Type /Annot
+/Rect [155.178 269.090039 159.07 285.890039]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+346 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2507.02424v2)
+>>
+endobj
+347 0 obj
+<<
+/Subtype /Link
+/A 346 0 R
+/Type /Annot
+/Rect [89.028 121.290063 92.92 138.090063]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+348 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2507.02424v2)
+>>
+endobj
+349 0 obj
+<<
+/Subtype /Link
+/A 348 0 R
+/Type /Annot
+/Rect [92.92 121.290063 100.704 138.090063]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+350 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2507.02424v2)
+>>
+endobj
+351 0 obj
+<<
+/Subtype /Link
+/A 350 0 R
+/Type /Annot
+/Rect [100.704 121.290063 104.596 138.090063]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+303 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.280029 841.890015]
+/Contents 301 0 R
+/Resources 302 0 R
+/UserUnit 1
+/Annots [305 0 R 307 0 R 309 0 R 311 0 R 313 0 R 315 0 R 317 0 R 319 0 R 321 0 R 323 0 R 325 0 R 327 0 R 329 0 R 331 0 R 333 0 R 335 0 R 337 0 R 339 0 R 341 0 R 343 0 R 345 0 R 347 0 R 349 0 R 351 0 R]
+>>
+endobj
+302 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState <<
+/Gs1 9 0 R
+>>
+/Font <<
+/F1 10 0 R
+>>
+>>
+endobj
+355 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2511.11347v2)
+>>
+endobj
+356 0 obj
+<<
+/Subtype /Link
+/A 355 0 R
+/Type /Annot
+/Rect [430.446 724.290015 434.338 741.090015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+357 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2511.11347v2)
+>>
+endobj
+358 0 obj
+<<
+/Subtype /Link
+/A 357 0 R
+/Type /Annot
+/Rect [434.338 724.290015 449.906 741.090015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+359 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2511.11347v2)
+>>
+endobj
+360 0 obj
+<<
+/Subtype /Link
+/A 359 0 R
+/Type /Annot
+/Rect [449.906 724.290015 453.798 741.090015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+361 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2407.06718)
+>>
+endobj
+362 0 obj
+<<
+/Subtype /Link
+/A 361 0 R
+/Type /Annot
+/Rect [402.012 610.090009 405.904 626.890009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+363 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2407.06718)
+>>
+endobj
+364 0 obj
+<<
+/Subtype /Link
+/A 363 0 R
+/Type /Annot
+/Rect [405.904 610.090009 413.688 626.890009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+365 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2407.06718)
+>>
+endobj
+366 0 obj
+<<
+/Subtype /Link
+/A 365 0 R
+/Type /Annot
+/Rect [413.688 610.090009 417.58 626.890009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+367 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2407.06718)
+>>
+endobj
+368 0 obj
+<<
+/Subtype /Link
+/A 367 0 R
+/Type /Annot
+/Rect [232.234673 559.690009 236.126673 576.490009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+369 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2407.06718)
+>>
+endobj
+370 0 obj
+<<
+/Subtype /Link
+/A 369 0 R
+/Type /Annot
+/Rect [236.126673 559.690009 243.910673 576.490009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+371 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2407.06718)
+>>
+endobj
+372 0 obj
+<<
+/Subtype /Link
+/A 371 0 R
+/Type /Annot
+/Rect [243.910673 559.690009 247.802673 576.490009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+373 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2407.06718)
+>>
+endobj
+374 0 obj
+<<
+/Subtype /Link
+/A 373 0 R
+/Type /Annot
+/Rect [236 526.090009 239.892 542.890009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+375 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2407.06718)
+>>
+endobj
+376 0 obj
+<<
+/Subtype /Link
+/A 375 0 R
+/Type /Annot
+/Rect [239.892 526.090009 247.676 542.890009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+377 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2407.06718)
+>>
+endobj
+378 0 obj
+<<
+/Subtype /Link
+/A 377 0 R
+/Type /Annot
+/Rect [247.676 526.090009 251.568 542.890009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+379 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2511.11347v2)
+>>
+endobj
+380 0 obj
+<<
+/Subtype /Link
+/A 379 0 R
+/Type /Annot
+/Rect [415.9 428.690002 419.792 445.490002]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+381 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2511.11347v2)
+>>
+endobj
+382 0 obj
+<<
+/Subtype /Link
+/A 381 0 R
+/Type /Annot
+/Rect [419.792 428.690002 435.36 445.490002]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+383 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2511.11347v2)
+>>
+endobj
+384 0 obj
+<<
+/Subtype /Link
+/A 383 0 R
+/Type /Annot
+/Rect [435.36 428.690002 439.252 445.490002]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+385 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2511.11347v2)
+>>
+endobj
+386 0 obj
+<<
+/Subtype /Link
+/A 385 0 R
+/Type /Annot
+/Rect [378.842 344.690002 382.734 361.490002]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+387 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2511.11347v2)
+>>
+endobj
+388 0 obj
+<<
+/Subtype /Link
+/A 387 0 R
+/Type /Annot
+/Rect [382.734 344.690002 398.302 361.490002]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+389 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2511.11347v2)
+>>
+endobj
+390 0 obj
+<<
+/Subtype /Link
+/A 389 0 R
+/Type /Annot
+/Rect [398.302 344.690002 402.194 361.490002]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+391 0 obj
+<<
+/S /URI
+/URI (https://www.obsidiansecurity.com/blog/understanding-ai-regulations)
+>>
+endobj
+392 0 obj
+<<
+/Subtype /Link
+/A 391 0 R
+/Type /Annot
+/Rect [435.514 264.090039 439.406 280.890039]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+393 0 obj
+<<
+/S /URI
+/URI (https://www.obsidiansecurity.com/blog/understanding-ai-regulations)
+>>
+endobj
+394 0 obj
+<<
+/Subtype /Link
+/A 393 0 R
+/Type /Annot
+/Rect [439.406 264.090039 454.974 280.890039]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+395 0 obj
+<<
+/S /URI
+/URI (https://www.obsidiansecurity.com/blog/understanding-ai-regulations)
+>>
+endobj
+396 0 obj
+<<
+/Subtype /Link
+/A 395 0 R
+/Type /Annot
+/Rect [454.974 264.090039 458.866 280.890039]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+397 0 obj
+<<
+/S /URI
+/URI (https://www.obsidiansecurity.com/blog/understanding-ai-regulations)
+>>
+endobj
+398 0 obj
+<<
+/Subtype /Link
+/A 397 0 R
+/Type /Annot
+/Rect [86.746 213.690039 90.638 230.490039]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+399 0 obj
+<<
+/S /URI
+/URI (https://www.obsidiansecurity.com/blog/understanding-ai-regulations)
+>>
+endobj
+400 0 obj
+<<
+/Subtype /Link
+/A 399 0 R
+/Type /Annot
+/Rect [90.638 213.690039 106.206 230.490039]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+401 0 obj
+<<
+/S /URI
+/URI (https://www.obsidiansecurity.com/blog/understanding-ai-regulations)
+>>
+endobj
+402 0 obj
+<<
+/Subtype /Link
+/A 401 0 R
+/Type /Annot
+/Rect [106.206 213.690039 110.098 230.490039]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+403 0 obj
+<<
+/S /URI
+/URI (https://www.obsidiansecurity.com/blog/understanding-ai-regulations)
+>>
+endobj
+404 0 obj
+<<
+/Subtype /Link
+/A 403 0 R
+/Type /Annot
+/Rect [211.038 163.290039 214.93 180.090039]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+405 0 obj
+<<
+/S /URI
+/URI (https://www.obsidiansecurity.com/blog/understanding-ai-regulations)
+>>
+endobj
+406 0 obj
+<<
+/Subtype /Link
+/A 405 0 R
+/Type /Annot
+/Rect [214.93 163.290039 230.498 180.090039]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+407 0 obj
+<<
+/S /URI
+/URI (https://www.obsidiansecurity.com/blog/understanding-ai-regulations)
+>>
+endobj
+408 0 obj
+<<
+/Subtype /Link
+/A 407 0 R
+/Type /Annot
+/Rect [230.498 163.290039 234.39 180.090039]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+409 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2511.11347v2)
+>>
+endobj
+410 0 obj
+<<
+/Subtype /Link
+/A 409 0 R
+/Type /Annot
+/Rect [123.748 32.290015 127.64 49.090015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+411 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2511.11347v2)
+>>
+endobj
+412 0 obj
+<<
+/Subtype /Link
+/A 411 0 R
+/Type /Annot
+/Rect [127.64 32.290015 143.208 49.090015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+413 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2511.11347v2)
+>>
+endobj
+414 0 obj
+<<
+/Subtype /Link
+/A 413 0 R
+/Type /Annot
+/Rect [143.208 32.290015 147.1 49.090015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+354 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.280029 841.890015]
+/Contents 352 0 R
+/Resources 353 0 R
+/UserUnit 1
+/Annots [356 0 R 358 0 R 360 0 R 362 0 R 364 0 R 366 0 R 368 0 R 370 0 R 372 0 R 374 0 R 376 0 R 378 0 R 380 0 R 382 0 R 384 0 R 386 0 R 388 0 R 390 0 R 392 0 R 394 0 R 396 0 R 398 0 R 400 0 R 402 0 R 404 0 R 406 0 R 408 0 R 410 0 R 412 0 R 414 0 R]
+>>
+endobj
+353 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState <<
+/Gs1 9 0 R
+>>
+/Font <<
+/F1 10 0 R
+>>
+>>
+endobj
+418 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2511.11347v2)
+>>
+endobj
+419 0 obj
+<<
+/Subtype /Link
+/A 418 0 R
+/Type /Annot
+/Rect [186.902 779.690015 190.794 796.490015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+420 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2511.11347v2)
+>>
+endobj
+421 0 obj
+<<
+/Subtype /Link
+/A 420 0 R
+/Type /Annot
+/Rect [190.794 779.690015 206.362 796.490015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+422 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2511.11347v2)
+>>
+endobj
+423 0 obj
+<<
+/Subtype /Link
+/A 422 0 R
+/Type /Annot
+/Rect [206.362 779.690015 210.254 796.490015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+424 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2508.01084v1)
+>>
+endobj
+425 0 obj
+<<
+/Subtype /Link
+/A 424 0 R
+/Type /Annot
+/Rect [40 568.690009 43.892 585.490009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+426 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2508.01084v1)
+>>
+endobj
+427 0 obj
+<<
+/Subtype /Link
+/A 426 0 R
+/Type /Annot
+/Rect [43.892 568.690009 59.46 585.490009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+428 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2508.01084v1)
+>>
+endobj
+429 0 obj
+<<
+/Subtype /Link
+/A 428 0 R
+/Type /Annot
+/Rect [59.46 568.690009 63.352 585.490009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+430 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2511.11347v2)
+>>
+endobj
+431 0 obj
+<<
+/Subtype /Link
+/A 430 0 R
+/Type /Annot
+/Rect [268.382 535.090009 272.274 551.890009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+432 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2511.11347v2)
+>>
+endobj
+433 0 obj
+<<
+/Subtype /Link
+/A 432 0 R
+/Type /Annot
+/Rect [272.274 535.090009 287.842 551.890009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+434 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2511.11347v2)
+>>
+endobj
+435 0 obj
+<<
+/Subtype /Link
+/A 434 0 R
+/Type /Annot
+/Rect [287.842 535.090009 291.734 551.890009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+436 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2511.11347v2)
+>>
+endobj
+437 0 obj
+<<
+/Subtype /Link
+/A 436 0 R
+/Type /Annot
+/Rect [397.252 501.490009 401.144 518.290009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+438 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2511.11347v2)
+>>
+endobj
+439 0 obj
+<<
+/Subtype /Link
+/A 438 0 R
+/Type /Annot
+/Rect [401.144 501.490009 416.712 518.290009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+440 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2511.11347v2)
+>>
+endobj
+441 0 obj
+<<
+/Subtype /Link
+/A 440 0 R
+/Type /Annot
+/Rect [416.712 501.490009 420.604 518.290009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+442 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2511.11347v2)
+>>
+endobj
+443 0 obj
+<<
+/Subtype /Link
+/A 442 0 R
+/Type /Annot
+/Rect [206.922 353.690027 210.814 370.490027]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+444 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2511.11347v2)
+>>
+endobj
+445 0 obj
+<<
+/Subtype /Link
+/A 444 0 R
+/Type /Annot
+/Rect [210.814 353.690027 226.382 370.490027]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+446 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2511.11347v2)
+>>
+endobj
+447 0 obj
+<<
+/Subtype /Link
+/A 446 0 R
+/Type /Annot
+/Rect [226.382 353.690027 230.274 370.490027]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+448 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2511.11347v2)
+>>
+endobj
+449 0 obj
+<<
+/Subtype /Link
+/A 448 0 R
+/Type /Annot
+/Rect [383.014 222.690063 386.906 239.490063]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+450 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2511.11347v2)
+>>
+endobj
+451 0 obj
+<<
+/Subtype /Link
+/A 450 0 R
+/Type /Annot
+/Rect [386.906 222.690063 402.474 239.490063]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+452 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2511.11347v2)
+>>
+endobj
+453 0 obj
+<<
+/Subtype /Link
+/A 452 0 R
+/Type /Annot
+/Rect [402.474 222.690063 406.366 239.490063]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+454 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2511.11347v2)
+>>
+endobj
+455 0 obj
+<<
+/Subtype /Link
+/A 454 0 R
+/Type /Annot
+/Rect [429.326 172.290063 433.218 189.090063]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+456 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2511.11347v2)
+>>
+endobj
+457 0 obj
+<<
+/Subtype /Link
+/A 456 0 R
+/Type /Annot
+/Rect [433.218 172.290063 448.786 189.090063]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+458 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2511.11347v2)
+>>
+endobj
+459 0 obj
+<<
+/Subtype /Link
+/A 458 0 R
+/Type /Annot
+/Rect [448.786 172.290063 452.678 189.090063]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+417 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.280029 841.890015]
+/Contents 415 0 R
+/Resources 416 0 R
+/UserUnit 1
+/Annots [419 0 R 421 0 R 423 0 R 425 0 R 427 0 R 429 0 R 431 0 R 433 0 R 435 0 R 437 0 R 439 0 R 441 0 R 443 0 R 445 0 R 447 0 R 449 0 R 451 0 R 453 0 R 455 0 R 457 0 R 459 0 R]
+>>
+endobj
+416 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState <<
+/Gs1 9 0 R
+>>
+/Font <<
+/F1 10 0 R
+>>
+>>
+endobj
+463 0 obj
+<<
+/S /URI
+/URI (https://sjms.nu/articles/10.31374/sjms.415)
+>>
+endobj
+464 0 obj
+<<
+/Subtype /Link
+/A 463 0 R
+/Type /Annot
+/Rect [520.228 762.890015 524.12 779.690015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+465 0 obj
+<<
+/S /URI
+/URI (https://sjms.nu/articles/10.31374/sjms.415)
+>>
+endobj
+466 0 obj
+<<
+/Subtype /Link
+/A 465 0 R
+/Type /Annot
+/Rect [524.12 762.890015 539.688 779.690015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+467 0 obj
+<<
+/S /URI
+/URI (https://sjms.nu/articles/10.31374/sjms.415)
+>>
+endobj
+468 0 obj
+<<
+/Subtype /Link
+/A 467 0 R
+/Type /Annot
+/Rect [539.688 762.890015 543.58 779.690015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+469 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2508.01084v1)
+>>
+endobj
+470 0 obj
+<<
+/Subtype /Link
+/A 469 0 R
+/Type /Annot
+/Rect [355.49 712.490015 359.382 729.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+471 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2508.01084v1)
+>>
+endobj
+472 0 obj
+<<
+/Subtype /Link
+/A 471 0 R
+/Type /Annot
+/Rect [359.382 712.490015 374.95 729.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+473 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2508.01084v1)
+>>
+endobj
+474 0 obj
+<<
+/Subtype /Link
+/A 473 0 R
+/Type /Annot
+/Rect [374.95 712.490015 378.842 729.290015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+475 0 obj
+<<
+/S /URI
+/URI (https://www.proofpoint.com/us/threat-reference/retrieval-augmented-generation-rag)
+>>
+endobj
+476 0 obj
+<<
+/Subtype /Link
+/A 475 0 R
+/Type /Annot
+/Rect [40 564.690012 43.892 581.490012]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+477 0 obj
+<<
+/S /URI
+/URI (https://www.proofpoint.com/us/threat-reference/retrieval-augmented-generation-rag)
+>>
+endobj
+478 0 obj
+<<
+/Subtype /Link
+/A 477 0 R
+/Type /Annot
+/Rect [43.892 564.690012 59.46 581.490012]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+479 0 obj
+<<
+/S /URI
+/URI (https://www.proofpoint.com/us/threat-reference/retrieval-augmented-generation-rag)
+>>
+endobj
+480 0 obj
+<<
+/Subtype /Link
+/A 479 0 R
+/Type /Annot
+/Rect [59.46 564.690012 63.352 581.490012]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+481 0 obj
+<<
+/S /URI
+/URI (https://www.mrlatte.net/en/stories/2026/02/28/openai-agrees-with-dept-of-war-to-deploy-models-in-their-cla/)
+>>
+endobj
+482 0 obj
+<<
+/Subtype /Link
+/A 481 0 R
+/Type /Annot
+/Rect [461.246 531.090012 465.138 547.890012]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+483 0 obj
+<<
+/S /URI
+/URI (https://www.mrlatte.net/en/stories/2026/02/28/openai-agrees-with-dept-of-war-to-deploy-models-in-their-cla/)
+>>
+endobj
+484 0 obj
+<<
+/Subtype /Link
+/A 483 0 R
+/Type /Annot
+/Rect [465.138 531.090012 480.706 547.890012]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+485 0 obj
+<<
+/S /URI
+/URI (https://www.mrlatte.net/en/stories/2026/02/28/openai-agrees-with-dept-of-war-to-deploy-models-in-their-cla/)
+>>
+endobj
+486 0 obj
+<<
+/Subtype /Link
+/A 485 0 R
+/Type /Annot
+/Rect [480.706 531.090012 484.598 547.890012]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+487 0 obj
+<<
+/S /URI
+/URI (https://www.promptingguide.ai/research/rag)
+>>
+endobj
+488 0 obj
+<<
+/Subtype /Link
+/A 487 0 R
+/Type /Annot
+/Rect [76.543999 424.290003 380.357994 439.690002]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+489 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2510.18204v2)
+>>
+endobj
+490 0 obj
+<<
+/Subtype /Link
+/A 489 0 R
+/Type /Annot
+/Rect [76.543999 403.890009 463.770012 419.290009]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+491 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2505.08728v2)
+>>
+endobj
+492 0 obj
+<<
+/Subtype /Link
+/A 491 0 R
+/Type /Annot
+/Rect [76.543999 383.490015 501.765984 398.890015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+493 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2407.06718)
+>>
+endobj
+494 0 obj
+<<
+/Subtype /Link
+/A 493 0 R
+/Type /Annot
+/Rect [76.543999 363.090021 506.204002 378.490021]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+495 0 obj
+<<
+/S /URI
+/URI (https://techsur.solutions/rag/)
+>>
+endobj
+496 0 obj
+<<
+/Subtype /Link
+/A 495 0 R
+/Type /Annot
+/Rect [76.543999 342.690027 489.572014 358.090027]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+497 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2507.02424v2)
+>>
+endobj
+498 0 obj
+<<
+/Subtype /Link
+/A 497 0 R
+/Type /Annot
+/Rect [76.543999 322.290033 498.125999 337.690033]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+499 0 obj
+<<
+/S /URI
+/URI (https://implementconsultinggroup.com/article/building-high-quality-rag-systems)
+>>
+endobj
+500 0 obj
+<<
+/Subtype /Link
+/A 499 0 R
+/Type /Annot
+/Rect [76.543999 301.890039 462.902 317.290039]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+501 0 obj
+<<
+/S /URI
+/URI (https://www.practical-devsecops.com/glossary/retrieval-augmented-generation-rag-security/?srsltid=AfmBOooyG6xxLE8ptFpCwSJmHTYifsEApNayhqSW5GJNTKocgn7SB0iq)
+>>
+endobj
+502 0 obj
+<<
+/Subtype /Link
+/A 501 0 R
+/Type /Annot
+/Rect [76.543999 281.490015 482.193993 296.890015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+503 0 obj
+<<
+/S /URI
+/URI (https://www.practical-devsecops.com/glossary/retrieval-augmented-generation-rag-security/?srsltid=AfmBOoqiqZ7OxKCY5br_kUr80d6sKQ-TMeQatN63IajIo4R8R97wUNA6)
+>>
+endobj
+504 0 obj
+<<
+/Subtype /Link
+/A 503 0 R
+/Type /Annot
+/Rect [76.543999 261.090052 482.193993 276.490051]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+505 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2508.01084v1)
+>>
+endobj
+506 0 obj
+<<
+/Subtype /Link
+/A 505 0 R
+/Type /Annot
+/Rect [84.327999 240.690027 437.939999 256.090027]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+507 0 obj
+<<
+/S /URI
+/URI (https://ijarcce.com/wp-content/uploads/2025/01/IJARCCE.2025.14114.pdf)
+>>
+endobj
+508 0 obj
+<<
+/Subtype /Link
+/A 507 0 R
+/Type /Annot
+/Rect [84.327999 220.290003 521.380001 235.690002]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+509 0 obj
+<<
+/S /URI
+/URI (https://www.saic.com/blogs/rag-r-mission-ready-llm-decision-aids)
+>>
+endobj
+510 0 obj
+<<
+/Subtype /Link
+/A 509 0 R
+/Type /Annot
+/Rect [84.327999 199.889978 493.981991 215.289978]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+511 0 obj
+<<
+/S /URI
+/URI (https://arxiv.org/html/2511.11347v2)
+>>
+endobj
+512 0 obj
+<<
+/Subtype /Link
+/A 511 0 R
+/Type /Annot
+/Rect [84.327999 179.489954 506.204006 194.889954]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+513 0 obj
+<<
+/S /URI
+/URI (https://ragaboutit.com/the-military-ai-ultimatum-that-just-changed-enterprise-rag-risk-calculus/)
+>>
+endobj
+514 0 obj
+<<
+/Subtype /Link
+/A 513 0 R
+/Type /Annot
+/Rect [84.327999 159.08993 511.104 174.489929]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+515 0 obj
+<<
+/S /URI
+/URI (https://www.afcea.org/signal-media/technology/building-specialized-gpt-fine-tuning-llms-classified-environments)
+>>
+endobj
+516 0 obj
+<<
+/Subtype /Link
+/A 515 0 R
+/Type /Annot
+/Rect [84.327999 138.689905 471.623989 154.089905]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+517 0 obj
+<<
+/S /URI
+/URI (https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/)
+>>
+endobj
+518 0 obj
+<<
+/Subtype /Link
+/A 517 0 R
+/Type /Annot
+/Rect [84.327999 118.289881 523.493984 133.68988]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+519 0 obj
+<<
+/S /URI
+/URI (https://www.codebridge.tech/articles/what-nato-and-pentagon-ai-deals-reveal-about-production-grade-ai-security)
+>>
+endobj
+520 0 obj
+<<
+/Subtype /Link
+/A 519 0 R
+/Type /Annot
+/Rect [84.327999 97.889856 474.480007 113.289856]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+521 0 obj
+<<
+/S /URI
+/URI (https://sjms.nu/articles/10.31374/sjms.415)
+>>
+endobj
+522 0 obj
+<<
+/Subtype /Link
+/A 521 0 R
+/Type /Annot
+/Rect [84.327999 77.489832 374.015987 92.889832]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+523 0 obj
+<<
+/S /URI
+/URI (https://www.mrlatte.net/en/stories/2026/02/28/openai-agrees-with-dept-of-war-to-deploy-models-in-their-cla/)
+>>
+endobj
+524 0 obj
+<<
+/Subtype /Link
+/A 523 0 R
+/Type /Annot
+/Rect [84.327999 57.089808 505.097988 72.489807]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+525 0 obj
+<<
+/S /URI
+/URI (https://www.secureitworld.com/blog/retrieval-augmented-generation-rag-security-risks-and-mitigation-strategies/)
+>>
+endobj
+526 0 obj
+<<
+/Subtype /Link
+/A 525 0 R
+/Type /Annot
+/Rect [84.327999 36.689783 457.735989 52.089783]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+527 0 obj
+<<
+/S /URI
+/URI (https://www.csis.org/analysis/defense-priorities-open-source-ai-debate)
+>>
+endobj
+528 0 obj
+<<
+/Subtype /Link
+/A 527 0 R
+/Type /Annot
+/Rect [50 30.000015 50 31.689758]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+462 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.280029 841.890015]
+/Contents 460 0 R
+/Resources 461 0 R
+/UserUnit 1
+/Annots [464 0 R 466 0 R 468 0 R 470 0 R 472 0 R 474 0 R 476 0 R 478 0 R 480 0 R 482 0 R 484 0 R 486 0 R 488 0 R 490 0 R 492 0 R 494 0 R 496 0 R 498 0 R 500 0 R 502 0 R 504 0 R 506 0 R 508 0 R 510 0 R 512 0 R 514 0 R 516 0 R 518 0 R 520 0 R 522 0 R 524 0 R 526 0 R 528 0 R]
+>>
+endobj
+461 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState <<
+/Gs1 9 0 R
+>>
+/Font <<
+/F1 10 0 R
+>>
+>>
+endobj
+532 0 obj
+<<
+/S /URI
+/URI (https://www.csis.org/analysis/defense-priorities-open-source-ai-debate)
+>>
+endobj
+533 0 obj
+<<
+/Subtype /Link
+/A 532 0 R
+/Type /Annot
+/Rect [84.327999 796.490015 431.360012 811.890015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+534 0 obj
+<<
+/S /URI
+/URI (https://www.obsidiansecurity.com/blog/understanding-ai-regulations)
+>>
+endobj
+535 0 obj
+<<
+/Subtype /Link
+/A 534 0 R
+/Type /Annot
+/Rect [84.327999 776.090015 477.126003 791.490015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+536 0 obj
+<<
+/S /URI
+/URI (https://www.proofpoint.com/us/threat-reference/retrieval-augmented-generation-rag)
+>>
+endobj
+537 0 obj
+<<
+/Subtype /Link
+/A 536 0 R
+/Type /Annot
+/Rect [84.327999 755.690016 520.834011 771.090015]
+/Border [0 0 0]
+/F 4
+>>
+endobj
+531 0 obj
+<<
+/Type /Page
+/Parent 1 0 R
+/MediaBox [0 0 595.280029 841.890015]
+/Contents 529 0 R
+/Resources 530 0 R
+/UserUnit 1
+/Annots [533 0 R 535 0 R 537 0 R]
+>>
+endobj
+530 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/ExtGState <<
+/Gs1 9 0 R
+>>
+/Font <<
+/F1 10 0 R
+>>
+>>
+endobj
+539 0 obj
+(react-pdf)
+endobj
+540 0 obj
+(react-pdf)
+endobj
+541 0 obj
+(D:20260322014538Z)
+endobj
+538 0 obj
+<<
+/Producer 539 0 R
+/Creator 540 0 R
+/CreationDate 541 0 R
+>>
+endobj
+10 0 obj
+<<
+/Type /Font
+/BaseFont /Helvetica
+/Subtype /Type1
+/Encoding /WinAnsiEncoding
+>>
+endobj
+4 0 obj
+<<
+>>
+endobj
+3 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/Names 2 0 R
+/ViewerPreferences 5 0 R
+>>
+endobj
+1 0 obj
+<<
+/Type /Pages
+/Count 12
+/Kids [8 0 R 13 0 R 54 0 R 129 0 R 174 0 R 213 0 R 270 0 R 303 0 R 354 0 R 417 0 R 462 0 R 531 0 R]
+>>
+endobj
+2 0 obj
+<<
+/Dests <<
+  /Names [
+]
+>>
+>>
+endobj
+5 0 obj
+<<
+/DisplayDocTitle true
+>>
+endobj
+529 0 obj
+<<
+/Length 535
+/Filter /FlateDecode
+>>
+stream
+xœí•Ï1ÆïóóÌ&c'RÕÃ.°¤ÒŞ˜é $	U‚×çsæoW­„€=¬Òv&vì$Îïk|íĞ^xü$öMÊÎùX·Õ÷±ù2À×ÁÙgtLFo«¶É‚/5b¶›—Ç_Úã»ûÛº=U®øOí·êæşäëÏ'Äìæ¸kº=¬r®\d~™¹>ôÕûMü(øØ…Û:ºzCÜ¶vêÃ›êÕSÌ{â&P–»+“ïÊsY:ÛÍ9/ûü}5>¹ÉGIBÊCö^…ÕÅ”(DBÂFòù°¿P
+fl¼ŞHÙÚùÙÛQƒDrÑ—Òù#<YúUG†¨Grè'ã^%¡.†!w¯QIJNöÅÄ¯óÌ$ÁğRó4Ær./—NFh9+ÅOã¨&é~]×ÿnÿçõßß½­ö#K{7!×e™·RÄ¼£€:% Ï—@=£4ÒD©j”¶
+˜F–J2´ƒ•B*ğt% F	u4f*BéÍl½±/mr	«¬s¨$åË'”©Ñ¼:¢ÇìşÿÀ>»ÆÀ OS áY V
+ N†3àËö/>òiìÛ=ÀĞ¥åõ=‡13³Æp7EB':ª \&™p=Ã{k4l)ÑÙm E…yv–[a¾‹`êEpÃô6ìŠ@8H\Èäÿ™Ú/=ïù
+endstream
+endobj
+6 0 obj
+<<
+/Length 1407
+/Filter /FlateDecode
+>>
+stream
+xœİZMo7½ëWìÃá	>môæÂ·¢¯¥¢‡(ô÷w†_»Òr%ÛIíUíDqÈ]&ó4ïÍ›Y™Aó÷'Ã/Œ
+Qkã‡ñÏİßåÛ¤Ìàô ºnÔE£åWZ¬KZYäkÊÖçÿü1~ùúeŸw:]ö<şµûüõÙ¿?ó­÷íöÎÿãËÃtô|ëOşÉ†‡ãî×½ww¼¿G<YôV{[–ˆüÄ7í1¢¿“Xö„wƒ•ƒ£}SV=>ñ)~«äo|aä8Ã;x°1ß…G²VßöÀ×Ùüï:YÖ¿?ï~|à@k(ÑˆCï¾ßb‡”ï+£sH(ø„å4†jÅ¶4nëåÖ-_}dpç Fy…òŞ¼åÈñ"Êû„«àiRáDœoš ÊÛ´M·ßÃ‚»„!FNP¿&¹n˜PYg—aÎ"ñV…¼}Ÿ.9¥¦‰ÊDş¢3Š®qS™ ]´Æc@Kà%ÁB íC°ÎÛÈKO/û/èÜXdĞfÜ8=˜ÔŒNs,<½ b@¥ib)ïjşÂs…Óƒ?ÏØ÷6S`Fx|Êá–?LâWâTì„T$8¹7‘‰;n.n(‚bĞ•÷ÿ)K°°‡D”¡=³Û†E£²¼±›‹ş»–³zÔjZPë"¼È¡$)$Z³È$ûá`Â±¡ã'ê`/I2õi”±áZ"±/rÊKäaƒ¡?Ş‰mÛ·Hã™xÎS©m*Ô)Ö4UGåiÌó>¯³™aáü÷'äiÅFZga%ã—N>ÎqAŒ‰dìüò}B–(ç ¾"³6b•‰™ÓÆ%ÒÍ8¢Ôí¢FaJ²\Í›5â›§šFzrˆ UõÄÒªB±w1×ñD¯œà	ÛÃ³:ìP‡;©Ö„Ts6ÙqÎÜzé@ø6ÊoÉÈ{pEİM`ïêŞĞ8h6¨u¾éš¤ŠˆX…Û¬ZJÒ.
+Ñ+ÒWMƒ8E›)i¶@‘«–¬E"f“êeİ(šõ‹Mş¬Jrş™y†e(Ÿ*Â’£cŸŠÎ(ã»Hv,·{[5ŞUÖ5çÍ˜9v¥.’W°´İÿ3›4ìkÖ)…Wûù½ğÌ¥®àk‰{9ßUªÛ1d¡Æ)#`Ãˆ–$şÕ	g€…¸#ÆÒ|˜ÏĞ8çRúµ>w/]”¶šp!•¼157$–¡ZÊÃ·øú W Š	"ê@•­}ëî¤ŒëXdĞ5¤¨ƒJ	µh›7@¯Š‹0HÀÌV¾‰a:ÆòfÖÆh3›.œ“ß4s 0/¯•vPìwÈ™JáÆ©tälèŒBŠåay`­TSQ4“~%Yz\Ë&6ÆuáêĞŒ`¥YÙ ÍP†µ'®é#¥Ü—6ğÒô 9gŞ:MÚ@¾´5$†8ôgæ¥ù Ì#â¦wn¥aXFkL^ijzëyÉ °Û^5D2è½mö•ŞÌ'7íSóF­ËW?ßT ù.vR/²-Ob™ğ¶1yç‰e~|Rf’]‹‰Í%øÜwDİécĞ5Ø<ÉÚìµ}fšÚôĞ×Õúz–Üµ”’/µÅÕ²+àÛfZ.¤©ÕÊ,'¯=¶AåœO Ê¸ğdÄåš\–	ÄŠÛoj+í¥Ï ¯ÌYÒvuÑ™G ´Ö°İbéÉtÔ«}²×ßP`7`.:.·€}£aH‘¹ñqÁ4¼ì<®È¸”±¯pæR3‘œé|)Re—Ÿ^i SúËÊ¨‹aÔ÷Â¢ùñ ×¬JEp®Â¢4gŸ~ALƒ¬4]N,VòÎCo*óŠ¢VaYÊÕıî_çÕX
+endstream
+endobj
+268 0 obj
+<<
+/Length 3182
+/Filter /FlateDecode
+>>
+stream
+xœíÙn$·ñ]_1?à6ïXèÁNb œİ· ŞÑL`À X şıÔÅnr†¤f×©…Ø²euó(²ªX¬³õAÁÏ7~%§—”•ÒşpüôğùÑÔA¬Â¥¡¼Ôê ËøÏ,ß}û§Ó>şşÃw‡ãçEíŸÿ~øö‡Ïúğ¯Ï0æÇu\şwª9«¦0ó_ ²;|8?üãÓĞş.œÂ9º‚Æ¨¨¢	çğÄM9Ú¡C4*8x2Á3t9Á;h‡!4˜zøGÜé»ÆÃx0¹*ÓùpŠ:C€a–&¨°	OĞ\Ìæ)ÀºÎô^#\şÛaxø4L+iµôÎ `ıóğá¯ş h*ˆpÉ-Z…ÑáÇƒøÛäÅ½æ¸öøAlÂcv hw> ¢pß€“AW¦GË88Š¬ íôxĞf”'ô81Œ‹2æ¼øH„Iğ
+i‡Ä*+;±,‘i¯/ |Ìñ§•Gğ¡O}Jä¸$m6JTü–tıÖ…Å¼ mÊ^.h\|$¤ÙÖ6¯6~’XM'GğèÔÀûğQNĞO“œ>ƒL»í(İÎ†ÎİuÛ	yë’%şïñÓiĞÌ.1õHf-‹¬öm°¯w˜PPÕÇ²´ZiQD´oìÆëÔ7Bß‚Ğò¸Aú G‚E–vğW.óP>&Px¤m¤ß{â)¸†½bÑÔ¾™ÊË
+¼ö„÷É‚š÷…Áèª@¤×‚GGîÛS$CFÔxK¬×J$Ôû	WÄ#­3‘™W¡Y¶ñ­ÆÂŠ	ØÇ»ÒKÎ]Î‘ÅNû6‡—¼¢‘9‰ËaN(½‘•…)‘‰nà½JxÂŠiK"G2‹3c¹ç…åvSV¦>!ÇƒŠ	Í™—…¿ûC«Åzaèd-:)›ö ÍDçaÌâ´ÁEåS2Ö›¯Bn»İ¿şcwñº›/İj›º‹×~°;_½ïëcÄßé€á=8_G{ü“+:û¯…ÅAt‡Ã'xt‹q©×ÿıû¯Gıûïÿöğ^ñk@‚Úš´»/È€„$î@òÏ…™¤£“‚ì•½Ô×wÀæIL¬"&EÓnätfÉÊÚ4é„Î³şGÊ·’Inêµ·ÒíZé—A¨é?œ¯!®wqe]]*ÿxE÷CŒÀéÕèÓ	4•€t
+»°kYİX@³ÒI³¦[=J'—g"ëx	•	´dk³j4†.ØU1šõô†— ùnwq:-™ŞÛµ<™”)Kv€.<*Ï²*(7Œ=Oû—"ˆŒd;RjæëBÿA«àdVø6mr Rç€(<ë{0ú‹… ]Àw6òv«G4(¦ízÖ‹N,DŸÎ„: v2u¶P
+]9íéYª6ó4_Š,`hì‡Î‡•%ÙŠ¥Y•²(i8KëC¹™õvæå_z1\ú…Õ6Ûí|áûˆ?‰ïÎo¶š„íY¡&â@Œö5¬Bà•3„ÀÑŸ§ÇÆmÆåÀÌK¶¡G³×ws°ø€ı‡Åg¯½HÊê‘˜½Tg17ˆ›=£›oÜîÈ¯îÌÉT™Ü ãöé=0×3…í3ø8óm=éCn‚gáÖ~¹Ú7>¥ÇÀS8§v´_¯>{p'‘š¹Øàœ3xÉÔOxÁUO§æiÒ7ê)[yDùÁ¦ ]N‰|OÛ£o¤æ)_NkÛyªÇÙ&YvÒ.À7Oq¼œ0]J…vß g½÷éj&?¦ÁŒZmíœçË9'kı4{û¾¦ë³.<NW@’ÁFqA“¡W`†Ë‹c’\ô<]›ğèŒÕZ„¤	ŒódçÉ.~/´}Û“F*ÃmÒÅNñtëùD½@~/&©PŞƒ¯YôiIÊºäÄÛ_ñ¬#ªd­J>™T‘eZ±¬ÇóŠa0éQÇhÄ šÀj2ßDWA?ø3«umBmxÕ[§#,ö¯µâpBÚÖlSl&"£h(™*©£Rhm_4¦n…òqà™c@cÌú¾¿Ü¸ÅkÑú÷çIü#RñÆ";Zú›æ™üÄ3w’‰_İÒJ±È¡Ÿ"%ô£MZœJw650 ¤³Ü÷YÃ@qIáÎ»¬a H¯—{o² Aß´æÎ{¬a È¨c^2lhbZŒ‚caŞ^ØP23+ßz	í‘fãÄå%4¸¢°®9[Dˆ®Ò0;ı·iü h’]Tj²(;˜áıº@‰¬á6(f8Õë"±qËŠ¥8šÚƒì6Í²äÉ°7{¾y¥«¬+IL€yœ’RøŠ‹0'NVÂ2‰ÿr¸Œi¨×y¯šÎÊŠ6óZ”¢®)ÃÁ jÇÄ`KYHO‘RğˆJ¾
+P° ÑrÑşTâæ—<v’\Kü—Ğa[#„‹ğÃÈTWx!ì6Au‹VqÚ §a1fKş˜›`Z×ù£W™’Gfh–’öÕq±—¸ÊW&zÃSXÏˆäÉ²úùe9/¦›/ùú¡šç^ü;Ì\åäa’KŠ‰Q)‘'¹*¹3	z]0ğŞ’¼Ø†
+mÎŸä„ÉéƒSâèĞ£ÀB$¶B…"S'q½¸1×0)®ié86œMdµñs\=ÁÑTà¤mx“İböoî¼a;3v——˜vŸ»úFÌâëf3¡p¸˜	6§Eß×ªA|zpÊ/Ùİ9…²† AÚM¡t*¾9#È+¾³¤Vc5NêKËÙ˜I¥6`»Ø4èÒv«^¢ù[875ŠuŸ°ê˜sNéu‡Úíy«7Dáå®á®£<˜U“ğÊ€±Tş¢èš’ª<@6|;:%Yd0Ñ}¥1NFÙX+¶)€H¡3‚§§[ÑS¹Ès•Ma˜LêöR³ç¤.o­¤¬0°×¬ÅêqË™ŒÉóv*«q¤wp‚Ú _ 6…w›ÿÌ¢*›z
+L3Lf*¹†CôÌTçk¬4¹Èux„	ãí>ï#:ä$‰ÅpÄ±^	g£—º7Më|š®ízBÄII\O§Iå®+Z· *—'Õ‚éH¬‘b)Zâ:ËÕç–œöjö•øt\œ÷Æ‰·n={Rï<œgÍì>S­"Ç¹ÇP9F<YÕäåŒµÉ`<‘›qŠM‰iÛ\]kMåu±à×oI£ÜÚµdğ­&Ì]T:šJD—¸7ºŸVÏ×¥!U]©/ñÅipyğ:^
+ Í–«¯!8©(´äê¹ª·³•‰W%Ñ2¤%™®Gaù1¤:Z1á5óè¬Ò’p¤jõµq·œå³şªz_”(quÎWÁúu!ÄuÌ¦ëª_’Ÿ”º½nNG7ï[rÇüéƒ~5>k°vËÓ¯üÎBG*ñfÅö–Êå‰«8Äµs?ÁöÎ„?¼3¿q¿1 °xqÏè;FqbæE©ûºg ÒÌ,}I÷Œy±9çp75º{Å½>Ÿ›â0«œ¤8OJË–¨Ÿ«!ZíÂ±²EŸ<M‰¼õµÁ·‹ë}¿B¢&]k[y o¡>°iô­&{mÀ×äèƒ&¤?¸úÃ0ÃOõ¸%¥8`HëŠµ9ÿ_T]5º>E%¹º¢îfÔèê_‰Éå°ƒñb_ŒZ;ZÄ¤÷MßEmd5¯Å3ì84İFË*ÖêhBşŠPn«ôfó=³@!É<ô>Í’ß…ß¥l#Ç¸û×«3 Åù^ROúa’T?e©glîàPr4GâoŒıñıÄÎ@a™ùõÕ0§ëeıîx†7ŸùšTß«ë¡ª h~}S–)n5ºë/î¡01*\TÑ²Y¾‰J+È›Ã€íñ8¶Xáv/™E·o¿£%Ûã†K»úÖÿ–.Ä¨'mq
+ò‚6—y1§+G²âÏ’3ÆîM]EøkK®—‰0¸o#ÖíVöñ·£R“À&o¶ì!¢Ô±öJÜÌÜâ:n£D\­o˜6oy¸g–!Gv*K¯•mÉúøslD?—ß¯åf»<ª–¿å²ú…èƒ @_Å É÷¹¢¸©ß_k÷É9²²5l¬Á5¥fZ½º±ØW-Ä¬³˜ÉE`’¥®º¹cëŸÿEÔñ
+endstream
+endobj
+172 0 obj
+<<
+/Length 3239
+/Filter /FlateDecode
+>>
+stream
+xœíË·ñ>_1? šo6A;‰(Ò-ÈÁê	dâßOU±È&{HÎjíÙ)òZZ±›Í"‹õ®"ÕQÂÏ-V‰%J©Üq}<ü‡uPG#ñ~‘*üEÏòø³à“şpúï?×Ó_şñ¸~>H¡i¢VÎ/^ë £°JoƒtË¢ÓùØv;~^ÿ}øáçÏêøÏ ä}Ô™ğ«IT¯>Âdş¤Z?{ëŒ?{ãã;èõÖ»`½ò+5´´Ñ?	L°ğèïÇ>üñ#€-ë5^Öü&ô~71á%ZøRèıï·Bey…°çŞUÒ[µ(\ZÓôßÃv¾şİQ;D„_ıÖşÀxñ'DÁdˆ³÷³÷ÁÀ&¸ çSqš Z•æcÃ|ĞáÌçÌ•9Dü	şöğÇÀÆÂªüâteH Ğ/ÀÌŞ(ÄMôğOà\Ü ÖŸ¯¼¿²;h ËˆÜ•3½°’G‰ú¡K¥N9¡)‘¥6J­	RGa_ apˆ6ì=ò¢·&ÓÓğ=ÒGœu"Ê0€™ô›y¿ ™úôîÆ !†) 	OaŸÓ¸‰ëäÃ•™¥]÷hFd®T™ò`5ó¯»¢º™¯å
+Æ{œ9Ì#d"RUd3MK½4¹OeOÖ«XÇÇ]:BAßšÎ+¡ëÅrùÔz¡_ò»k×iÄÄ•elÁ~‘´RHÄZ‚(>9Ÿè9è(xÆª+k-xRm·A¬Âx
+Y;Ò`ŞBÇ°AY IäXGÚ1ôÈ4af7Mp±Õh¤Òô¶À˜¤÷Ú§Ş¼ èQHiFhµ‰Ú­z0’’8!+˜m£ˆù7Š6 TÂdP,Şß‡f£6æ6È¡Ã<]·	Ô‚Ì·Ÿ¹­™Õÿp\íi«a\»:Ÿ6Àe<œ³îca2*ßŒc’R“=q@ü+ÊB²Pbc“<K8™Ô]û4DÑ3UoE‰;¾’#eÅÜ©p­Éfai`’Œ¨M¶ ãT:)Y®Ğ½XmÄœC=©
+‹¤¾‰a‚¡jû"¢>!ò+cdx'3šhh(œ¥AéŞvødpû4ú—4’‰,0Ö(-NâÎîfÚ¨Y]ÙÍ*°ÕÛà¶HĞ„1$ò³Iô’a(§Ëı&zHÊ¤ı>oZ7©îVØ¨À³²½­X:|¡”yQëĞ¡h%KÁãn ¤kXÙYÕbD°KZÔİy›ÅûÔ»îúÎ§ntwêA„ÅŞùÔ]ß/cıF¤Šz>çI™T>üõÀ®,ÆÇÃ„·©ñ¯zş?}x>ê?üô—ÃÄ¯5„ÇCtÂêÛÂ«A À(Œò7ØÔ(°$üç¿¾Ö^%€t‘KfÙY¥XXë¦HPñ7¶[º[ ì>Gµö	ØH¡¯…ÁÀ‡a÷EÃa–ì•ìñŒ58bJ¡‰CŠ×dO¨|HXeCŒ|ª/õyÑğ
+64À²J±,°³úl’·W,ñ´5CmïE”Íî¼bè'n>ip›Z·d±SºPpnI˜Ù[_Ø|‚²á|¦®~(ä”m:2*’ùjÉVRÉÎÃâİŒlh§Ásœqærhp{}WßCèWW(4P)»’ıFÉc¬c…À9ƒOeÌæ–Ş§dÑNİ¶yáÕ6A&4ïÉĞ8ÔJo[î ’¨èÕÀNM‹ü­y®_¦¨„ÑKcã~ë«š¾¶y×‚<ï'`œÔ˜fG|k¶_’ç?ìä~¶Ã•´³sMË<¹§Îœ¢¦Û@qÚy™ RïVïPÆ»§}ØÌ]·{§'àÍa`Ùš“7zG?j£ŸàÆpwÛº´=Ûjwn§“¼Ìˆ™Ñïi&¸:5ç&İ¤k¾le'û¨›5é‘½pÿ¡³}ô-ºÀÊ™PnéglQK;ßõú^ß ÿÂÊôé
+d#€½óÙßS¤àÂ&sf5dŸY6ÂÈ2Ò¡
+åÎÂ‘ø-z6èÕäœyŞ²Õ–³ä)QD&t)Îe»oè&¿>ó;ö
+(!æ8ÆB	 i”p7&0È‚tÂÊ[­ò5CåI«,ÁJIßäFİ-iĞü#í¶„¨«(»ÜLŠ1w]ê†ªG´ÓAØ¾ñAÁ´si§Ü@‹uãáéS6»®[ÃÌĞŸÛ“•`=ŒpÕ®ë4ş¢ë`D3l¸!A˜á”’}[ë3iå<]U8•¹,CØ“-ºYLF|¬Ï#éÉnî‰½Á#ˆ7né)dïgùÆÄÂ!c®Û5¦wÛÑßÓ–*æÈßxxB™áY¦ìäº®G!›˜ãE	­Ú¸AA¡°İœ_É2ô«uZÂä‹B/‘CÕÕ:¯oÌééMÉõ )Eu©‡%X¬Y*,
+:İ×™'°ç:dšÓÆ¾¿æ`u¦;§kRËİNàqNpu¿ÙF¢C“ÈM[ÁÙÜi"×D+ê8jw,&î ›À,‰%XMøyWN‹ñú‡ŒLğ^Ce|QYAÚ™’Ã)œª—KŞîoŒyŒu›\–Á…ó¦g†JLĞø%\sc«|f@m4ôz	…$SÕJûª†¨j^VÏM{§’İá{Ú¦äF
+¢{**>wjÇ&ÅùûI5Ï•¹a)¼œáï	µ@¿iQ_Ô¿ûRÏœid¯YJRÙyâ²§¹“3\šÙçş*!£‰é]Uß‰;	1|³r©Û’›˜òL!…’&§•ˆjé¡ÿò*+¡?—]9]»OîË`õSäx]©©f¬J6^‚Û\§•=· –9éÛˆ_NyÊÄ›iähûÑ—{ˆÑ…©’OÁjíl~JOœÌ®ò°$ÌtÚ¬=d£h:gıRË´^ş±k>„b)kÄíœªÀz·ãrBR…”QeK °,Ïµáƒ‚Päú±“Ø¨-GÏÙv–m"cSÕK¸]ˆ!"ÿ•”i˜ºŒB.]<ßƒW€äcAä¸¥Ò½)W*÷'U'¶á†q­8K®Zõn§@FaÛÄ¢î>ÿUg@ÔÿQä¦şUÓL¿¼öÛ¤™	ãßX_›%#gpÌ¢DP7ÍÕ  `»!Ü61ÖÀx<X0bT¸)Ätå!V0 ¤†/Ìm!V  Nßjİp˜³r¥½÷ä’Š_“Q¶¢Éñ+Ë¶9»hé[é©1äj%Áh<ÎcˆnÑ#¤õC¯6ØÍRÄ|íŒbÁQ©Š™U‰[¶ÈSÇµX’É6ï#Ù9%×"µ0™×/ø³Y„êxıÖòL€5í{“KnÉ˜ÇğB<}Ñ96=œÊ0B7ü"“€¢ã½)¢£Rœae+‡,”b Ã·[’®ÆÂÚ
+¼ùÂ…	¦²Ï“C_tÎûU‹Ú³ÓÖÄ…9ôé¾	S‚9J‡Œ‘3
+ÇúO”Ú"s0G“ò‚‹«:¡16¨×ìnW~(’¶!Ç<¦[,°š›êçRŞ±s#ÆÎéÆ?ÑÜCøuªìèÅ(@G·fŠÍGl1©æˆöS¿5ËÍ*ÃÁÓ)ú)øtíÂø}'$;í¿}Nûrá$E-H8ê6ü*Åm*²Ì7¯Ì>¹vZcŠÅ”¿—Í.ôá³’¯ÅæØrIÔ'naUÊ#µö%™’›M˜y£Sò‰ëìë|¸œï0÷Û_61R"óñûH±1»KPs¾ÉUõŒ‡H·7º¹è)ó¤œ®Nó	wC|µµÕuóK„ø”qÂ{>>UÂ“xè­$œR¡©J)î•°ŠæLu±Helihø=	WâMHê{Áö-COƒb˜ï¡§çl[ÙµÔ†E¹;E—Ów+¯ÍÜQ·IIb·0èal7Û–_gÊQ&-E¼Ya2ƒ¬a HãHöÛ‚¬a H+àï,¿n\ÿt,’ıœµäE¾)Œn¢D‘,Wığ	LtQšT%›p¹tÈ¦ƒÊ\Z´œ¹nb^mIWş¤>çYR…”ç¢ÇÎƒJ/œ¾×ëJê#ª[Z3øäé%¿Š‹±ÈÌÀU§ÜÎa_¹á¥8Ãma|ï¼m+—jÒ}M(ó´³Ú±*màÜ9á}ÿ0óV.Ú<Æ; ^ò¬*;²I< …÷®ƒ¿›ßÍ‡/Ë\N÷›Šg"gİ†ºñÕ05ˆÇÃ²0·½‹¦ñxˆZø›]FÓşü<
+endstream
+endobj
+127 0 obj
+<<
+/Length 3020
+/Filter /FlateDecode
+>>
+stream
+xœí\ÍÜ¸¾÷Sô˜ËŠ€áÃn’ràxnA±¦Èd_?UÅ‰âÌx­Í®·×Ó-‰bQE²øÕWE‰+‡Ï;&-Øä9æ:?\ş?‚
+ˆ«âø¼N
+¸Õ:&Ãùt–_gûá·ÿık¾ıõç¯ó—§ë_æÿ\~øù‹¸şóÜó1ß×iÃwUÕ¥;¨ùO ]_ï–ËßŞ;î¤]¬²Æ)§>\ùß¯w¾üñ*O·kÏ8çF11qå¥0v²Òi·0-„³Úq3MRéá”õm±Ã|î¶]Aqyò¦+Ûmºcn:½Öïß¬Ößò€q¿ŸsÙ“·WË¯ï%ÿp5ğm4<³wJrĞ‰±ÂÎğK€qæQ€œàÌÍ.NÃ÷¿fçá—±70œJº[X¬‰¡˜UÉ¶\ú­ÃZ ¼†r7() œÆûú†W8&TPËÇf¨×_.Ñ@Íìõáb$óÜ†£×êüéÓ×„O?ıåò)6â—FÄÃÅbùCåU@œff’ÇÊ«D€À‰i§X‰x¸8Ë¤™X‹x¸LP«9H^;p½/6ËaÆİp¶Âü„Öâ_˜}"Ìo˜íšf°üp•`ÂU¼âÍW´T×÷XŒ&®€ošâ+Ô4ññJ09K 	TBá Œªv ê´+%Ë`-Y— 	=Õi¨œÄr·Pı,³Ì)İ3°lÎ	¡˜~AÕ¨Q¨?úmaá•`Ø„“¸:Lj7hqÉJ¢®ÂIÄ§¨>4ŞÓnZäÂûbŒ¤BX[©İ¨0õ66Ì?ôåbóÃgP¸@Ğè€–
+\82‘±ë4¡¥ôJCZ’›¨—ù)šq˜Ñ7ı>¼Ãfãø-3Há ïV#<ƒ	ÀÑXt'çÁéYV<¬s/7fáçÊ*|48*‡¨‡êè¾9‚Õ®½sYWûæ¢ğŞ*¦ƒ«(´¶.è·:¤i4ªjÿVš-M«£æš3›çnî4¯UÊ­9ÒÃ;ÛöØõ‘zbÓusÍ7×pzØ§>‰ßï^Ç›kó@¯›a±§UÃÅSªXç“ŸiXv8ZÚ–«Ê¿Ywl Ûšv¥È±¶~}_áóô¸™=»Å —Wÿ:£
+îƒíœÖîMª@T\UDM	#,]¨juï<«—LXÙ}N¥Y<n6›×k‚FRƒ¾¾“,““¬2
+¥ä¯X²E™P€j½O @‡³÷¨„ Ú‘WJ S îXl_åŒ°ñ•Î»
+š3åá¿¢EÇ<šyP³^
+€"¥UâLäqMça1ïèfRŒëÇ4ãÜfäKºAßt<¥ª0¨À0M -Ñçò‘+¹Æ¤’Gœ	¹K¶T˜¥–.¡KiûçÚíÚñ—@é0$«>k¬‚Q÷(ºz6>J£¼âDšÀE6Éá9ÒÜbmp‹	-NcÂù¥ˆz´£9õh¤‘íêvl™3Ù¥Õœüo-Ùöä§GœÑÙ•‘Û»³–ÆUßÀÛs íKúrŠ~%#_ØCí‰SPÉF…yøK¼AQŞBØLİ¼ñ-ë•ÑÉ@2FgX‡­iZWK,UAcè{ê A$Eá=híÌÇ´z]¡TR Hy±(İpß Áx$œì”ÄÑˆÎ)']ÓøŒô-D¤ÃüõÛ”wÍØ“X†Fyb˜ÆUƒ\á[c kH³a›‹®ŒãŞÜ€ ºb8ë=/CTÎ©má‹y&ªCÍ|İ[AE»w$jÁK‘ö±£R#˜XñÍ0¶fó6Ğ¸20–%¯Œí°Š'.c&*r UCˆ¯ğHRØâU9á Z´†™°µØ»•É°×Û
+wç¨ÎPõ•ôTl8­”‰æ%j—ƒ¾Í «»îòy6x¦P—£§I)høp&ªe±ğ‰a¹á“x_é»-&Ï¸»<äù†ÍÓï'Ğ|¢¦¿áÓŸ§¿És©ÜÏLhSµºÙ¾,’¸O³öGòš“r„4“Ë‰]EH¯˜°½õ%oBh9åZàu{{l¸¾‘ñp‘Ğx°CE62P$|«cCö91£–XD€@pB”86¢‘"%gò°\–×5bJQôÛ#É¥Š[½{ıÖ…üÓVŸ›°Ğ¤|N¬Ş¼áä5¯ùŸ\¡z:ÕÔ÷
+¸c\tmÇ)b£×4ËŠƒÛ#Y¨·
+%Ñäš<Ğœô‹:Œh(ÓÒ{pßáÀF×<.(LÇu¨RmSÕ(O§hôc™yŒWßÓ[ŸJ|}ÍA‡pÂÃ²¾]ÔER†¥£N»|M2¥IÌcĞn "àıëÓî±x†¢|½¨G|Hš½ho™ ÁıîFZ=òƒµû¿4y4)–Ñ¸òšpÂ)UckØe•pİ~¿b—îF4„núãõ"-9Ôa6ŸĞÙOÑ}vh(÷Éƒ!¬xDâ„H€è %,}|¼b—÷˜0Éœ?m<#“ŒœÔR=—£â5Ğ &uî•-ÓFR²Ÿ¼Y^ÿæá­1ºĞ²DÅî¶k“p6¨ü3ºHqbEl3Svëîm‘4¢7DéE`F²÷“ô¾Šq}ıxM¤¨uLÆ±¤ãâäå;ñ’`g÷Ã]i5k²˜’¯#’NºMKq¦
+["ræÉô—éoÃS»<4ezİp†(MÇ$ïj3h.F­V^‡_/X ’¬–‘@ÑÎİî#:¸2ëÁ¼Fÿãäa¯DD&Øá0˜dŸ½1B1gº³3Ä"Rù:fÛËhûÇĞöCÑa±İR”É “JiºmH÷>ùe4‹få|Ğø7À–
+Õ7$€ AìÉ[&ÂtÜ^8,ğMa€G¶I™‰Û‘W#D:X1e*k(pbÒõŒ]ĞH‹Éîj{³nwÅÑe6‚’XWa^mã©74|F¾…Møy‹H„Ê{ŒùV„‹^K8åvr5•ÄøïuìšËæ#*ÿÊ	‰Ù~¾#G~úìŒÍyr¥h{‚tXyĞ$ËtäT` ª,"‡	"«İ\’k‘7vî¡™t81ËíõŞúŠê5Öæì½ ¨ ª1n¿ÄAí×4I6ª4™©Eõêà›%(Sè K}§ÛšÔ‡BÔ#r®*í×¥\7õ8%-Ó¦»{îî99*Ú­=é%Òª}•ëG	o+W8$’RVFØf÷¢´8îÉ£:Gıïâ÷< D½:×Ó	¯İäÍ&×¥ÂOáÀ¦¼Aš!x¥]ô„õD
+ìÿ|—|Jq”Šj9LdfúÖ^pXÔíÙâwhşš?š'š$"×8Èt…ï£·Å72@$,Ê“<Ÿ×2@$<'zÊ.*´jz« =Bh$çS
+w8Qåp'˜ñ‰Ï ¾	8Öx>.¯P‹‹ÜU´ßá+’)¤÷£e Öf~_ùN’$ØÏHøæaNğ:eá‚ãÕ¶bøJŠî€‘ôRz—Êz¥5;D ö‚^éq
+ğMh(ì7¨÷”HSÌ’Oø¶İRœ ´ï ~@FÔ÷ù­3e‘óˆ¥)ÿÉRGï¥ ngH“jÛî¡`½›£g@éĞ®vaj?46õ÷—œ{‡©ßĞa*»Q÷‰J„6…urm‰s½ö+ëğ3'Š‹Ó@û˜†N³6¿qCµ{br ®’ÜMèâGæ
+?éöÊÑ±«İ	Ğô,“ ªzI‰P¦n¡1_…:F[¯:	–¥Cça¸ƒŞ!SÇ¨ÖyD»iTfêú¬g0m"}ÉVıªıS½•@¸”gw!¾{?ß½Ÿgy?íKİÒ ÏÙ·_ºspöm%D*ø>øMk91sØ»Öº LOÀ?VŸÿÙn
+endstream
+endobj
+415 0 obj
+<<
+/Length 2980
+/Filter /FlateDecode
+>>
+stream
+xœí\Ûn¹}×WÌ„Û¼“ÀB»IÈC€ıäaİÒâ ìï§.,6ÙCÎÈöf¼ei¤¾±»HVsªØú°À×4üHN«”—EûÃúñá¿åKÓú`ü_vÈF§&Ç[eÛrÈAÜöİŸÿ÷¯õùo?ıpX?=,´ÿÓúŸ‡ï~ú¤ÿüçü\ÏÜÁï›k6»ŞÃ•ÿm»ÃûãÃß¿OxßGC6èèàóÍ°ÏÃ¾ğx0ğ|4!tp°WÃø	W€À)v­°ÁâépÊ²;5lÄo–ù$¼¶”øja…¶ŸC¤-îO;–}8F-ìst—Ú,p‘ŞÿåáOïÁò¸~IÊæp {ÿÜÙ–­İoÓÚ*÷ŠôHl40„HGó—Å_s}P0F´Ø!ÑE/íğ±µ*/†{÷,J§Åf£=˜ÕDçáå´ÁÅÅ§d¬76…Üv…Ç÷†7oáğ{¿u«íÄò^A³w~÷şé3¥ñoÀ3úÎ³À!îÛÑO F{Âi¿¡?YÛñÎf‘''„Î ÖÁ°Ï'â÷„.m9Ù{aâ>¬Ê:7rzYTıëƒÌ8íÀc|Ğ~Q1;şóß­9|÷å#áİ}xWîã×¾h2eƒ¹n“mĞd\”ñ×zÊ½-´õŠ®“Ã#Òv¶Ğ°±©VD¸77M?mÃLñtMÑ¼¥øeÚgK!rÄÌ%À@Å+—ˆ
+MD×äL?-¤Ë-øö8Î'¡ĞªÍp,ëÈ8c·ÙÅW4¸ßpãâs÷ğêĞ è4—¢rvøpÖ©êyLu +F¥3ü‹{èeôzİŞ‰›b0g6ÂâïB¨'DÛÈ™ “’ÒÍàK«<Z+í­¥Ó}Új)¶ª(Ñ/MtáyVQÌÚ¼ÏÃÄ}4âãåüiÃ‡©MÁ/^´i ,ğ/œØÔ¼&ø÷äÚ
+ÎDô0üÙ“Œ˜Ş”Ù	i"¶g×˜u5ON—­pİŞ¥‘ÃrÕ3©4$×€Ö2yÏLxX\¤€dæØ,yk+ğ`â²1´}Ô9üªt@`Ê±Ä
+d'K“8o
+ºì0¥7i§£hCş¢E$’˜èáQ-™Ší4™Íx:CxrLM½Œ©˜¥ú­€¨^3àÂùp
+JÕÂÔZóˆÑ™µÑ(ÏÂ|Éâ¸™ì÷,ø –ÉÖZüˆÌ¬­èntø ß±E²Ì‘Û`p²¶L;51àÅVÇf_†ØÖÚö5§Bo|ô=YF¼Ô; Ner~sÕÜ{Ÿab%Øı™vY"Ø¦#[‡œ¨8à¾Æa³czåÁ¡û¡½ÈÄˆ˜Õ}FÕßOŠ7şşEüİ[ÁFÏëäƒ¹²—şh+ŸD3>ÔI
+Ÿ8ûpÆ‘¯Äxhù!îä`ÅíÂ¢yşT.ñ$»2r8‘ àj(ØBı?T÷¾Nü#­¼M£	"‡&fÅ‹ğaî€kğ¦ ß€NÂuùşÖÂÇ ÿpÖ«ı×Õ½Şã|@Ö0
+qd·¢ò	çápšW05…
+Õ™cmrs=şlc†yï0o'ÎîCânŠÇó’¯g`8Ë`?3ÂšcDpŒ+÷©Ø·†hğsÈ^á¹+°{İ°Å˜Bš¤lº÷húm7!ÿ·òCáƒà ûTá?’d/+Áw#C˜3$Q2ƒ, ÖåVX`í”ÔñÔ»(‚½t/s¬†9£ »®W»6 IUr×E]Ğ¤×*Úß§t_£- Báß¶è$A´ûËAv£Ï(ç3 ­y&WX&ÆBrã/æ£¡Œøc¡µØ®c>/ªÍ$6+ã\Ô=è÷’…Ëd´¿Åfñ7¹ˆÀü*êÆ&b•ø‰au#úıTo˜¸áN!æî'¬õ€Ôı½¡·øù?/ÜÇ$§UXaåBC¸jwİÖµMÆ ¢¾2÷mÛ€&&N®Á¹k hbúë›ËQ¼Æâ%(uZ½Š§uÇQu×,¹e¡±KÉ-ëÓÌ`¯šÜ*¶I­lÒ/%¶¬›˜ßåL«..7ß²?+òiêŠtì
+ä
+%
+i?nê÷‡­ª@€rOB©Kg’óâUº—ôV—.’˜~äÚ‰*Æ­sÒù$ÕÑsŠÿ¸¢PìÎH,°ĞÈõ‰['¡ò¸4nÜE®ÆJæ®y…‰ò{MwQùe“±¢º©šru‰Ç-—e™aÒO‚1İJv/¹WsåƒñZÛªÄññ€'ø&ƒµŠ\+n†½FxQÆI¾Ód¯†˜5Î@Ş>ã…"\IâÆKù×HÀzó"œG÷­¢ÍvkÔrçàÈX;Û/›NWëXÑjÕ¬]Ñ¯¤øñ$r´3]='µØa7|V"ìjÁÊ\!g¡òÊ¶&(´¦uJ%ßÈç‹âk8Ì}\»-“ê^”Êozvç¦ ¡ÈÖRsÍÉIpNS6‰Â\Jrã–’|©ÛŠè³­³
+ÚSšÂFC¼Ç%•Í½¬7nøÆkˆô"ÉÍp•é¾de«?íò5¤m¹Ój”Ï”&r/ÓU3`ÊåÌ’Š­TgWS*œô•¢Û6 É6]÷ZM¶m`Fv¹¢v|ÛÌRÁˆBÏ5õ{y”V¬Ì6ğ„'{Ô2+`
+£´B3˜1ĞTs©Ø#cCÁ&ÌÉå¬â¤ZZÒ7U¹KÔ"óAÕÒì>¨©,1TCX.ÛÃ£–iyµAÂ>.ŞÛÄç€UçX`j½Ä·"™¬"’<ÕÂßtÂÃ©(T0l«šÂâ?ÿZ¶´åÃµB»ÊÙn´Èm;e<HÀ/»õ€[¨À–·Õ`J‰ÖJ†µ_Eáq¥ç
+š€8:ÊâJ¡P•â›Oè&¤BYÒA»¾ÚB™Fö9ª¿$ß‡»PYºâv“Ÿı5å\ššTy\ ıÁ­@õ×’æÚK†º×¼8ó%„©Éw1sDk¸ø^ ’âiK­’U¡ÿ´¶Ò)·Œİõ=¨-"öÖË¶Òt0˜/¤í;Å…¥ÈÏ\jU‹vC{{üF}nmø;¤>Cu°ÑàiMù¦ÁÓ*Ñ‰³Ğ³guÀ’q*ÓD2N´Æóº—]˜Ê3Ê]¹¥k›Ä5×zÊ
+¬İ’ášÊ!Âp”ªYğ¹g‰!9Ü3.mJMìœà/ÉÿTñ=²Ëã$ÉÊ‹ŸîAbmb[_Ü‘ZdRS/Hir#y»•µÑHİ™,Kê²g£%“”àcÄÙÀC	Æı{-.à™)F±Êß­â:ae=ìÜY¦@d†Çş¤hoPüÂe­r]°%óU(ê(*¥¬¬	÷Rß°Ì–™È¸'b¦Y›œUĞ#Ò*¯2!$g«ŒN×…mâ˜®”º6 I3âµò¦Êk§ÒW¢pì>~¢JZe@Ody£ .Y×)”:—İ"Kjš¶c³fáÓÓS°®Çââ}h­l·¥y&Û˜c•D1mÉEÛZçq­(Í
+yª[ø*ˆ¸½#§jææ¥)ì±¸˜’òé’ä{»zãsµXlEy yU¬'Åj[³e?'ó>‘Å.2éü{G`ÌÛœ33 oH÷%~ãn¼OEí‘ÛÇ„½$Â¸Hæ4rIã(X&ª|©ü0Ú43òmŞ­áh¯ÚæÙ8Ì'¯Òã\ÎĞäu!,Ú½Á¯“õKÁI'ÒJÎ§ñU¤Øf~‡V§æîß]´„™¾âLŠîC—#±‹Ôüº³½>éëÊrN£2{ñ®\Ó¼¹&çÚ‹Õ"S¢aÄKOµù
+e@zi²$¤ªŞí×ÿ$Ùa
+endstream
+endobj
+11 0 obj
+<<
+/Length 2880
+/Filter /FlateDecode
+>>
+stream
+xœí[Û·}Ÿ¯Ø0ÍûöÁvb í[kv&à`ˆ?UÅ"›ì!{Wz·W°Ç#iºÙ¼Öõ[İIø|§àh•ˆIJåîÎO§ßù£¨º3ÿçå¢Â¿u½^®ÀW×¾ÿéò¿ÿœ/ÿøù‡»óç“¤ûŸÏÿ=}ÿógu÷ïÏğÌ/õ¹Á¼~xhúln=@Ï…Ù»‡ëéŸœ¹‡ûüÕŸ¼Ö+ÖÒ&ÿH7‚„&X¸T[^¶µĞZßãÒ>xÏ¥|ıëîáo§¿<Àüêú“Që¼Ø_hêåó{¿x/BÂÿÖRî‘ò÷wË ò’ÏŞ2Š¡°ÎpÑ,xÔ›€¡ö×`‚K¶ ™1„Ó:m”pÒ [Ã[a¢p_\ã÷æğµ¨•¥;X¸]ğBœ·ô«Óê°‚c¯DG»,:÷wßDÁ£ºİãô>„@Xh	ø^÷æHA;èÕB¯‹Ö¦K¿tãJÃ*œÁ§±Y/ôXÈz˜­™È×ÛÃì4-õ¶aQL*}èÚ² Û€z€]¼]ô±Uğ³jå¾aµcüœñyô¼Ñ³ÇC¯,=@ù²ğ=Ã7d{¶ö	[rÉ.Ñ“8³jFXãŸ‡,¡²p@ÈLoÆÙú£Ø˜N¼‚¿‚"¢¦öv€şy)ŒgTB¦çaRòˆ†Š(?$2T'tèğ^*Q`¬°r¨s·v¢y‡©Šc“ZdfÑ–B†54ïÇ_öæØI6âÅ…¥ªF™¦§Ë¢‘wm{‹­Ø?ÀOã?MãÔ$´yß~ğÖ,×
+ó.(éspİNJ^ Ë‘Ü\‰Š9*òCş¾š|ŸY°¿‰@^)`¸À—Âi¤Æ¾ :°óC­tœyŸC.3I¨šªw†.e$“O‰Ïiğ—j8è$œ}(Ó#âr}“6c4ZUè‚Óatá2Ğ!nH—rN@<?Bh”0j	‘?ÌUÃj¡!29}ñŸ´®Œ¯ìúW³*J“´rĞX,«T Ó&]ŒÚ8Ñ”ğ©o¶Ã‚|„²(ÇæW}Õ˜úÛ[Ñ¶”¢èµDuiÔ
+Tm
+H‡¾‚Ø`/6ÇØ#q5Ê8ø$cŒ9VäEzˆÜNû
+šß,~±a¸r
+f™sıŸh<¸äÔŠ3ÎéË€² ¤O'c¥>ÿú­]Ù¿^&>şø÷ÓÇ¡Ş€tz…QÒ
+=oÂàeFºlnQÀZÛ+‡Ş/Ûsd¹²‹\d,886ô8KiÈ*Øğ±ÈE/Rl¶o€ßY§ »€¢ŞÒQh—Ş lÌQnÙËw¨CÄQ®Òkƒ4Çâ²H¿B†lœ[.Hë-Tˆl&¤CÁë´:ĞBp@Œk9ÂóĞæ8ŸR pŒ„ŒéÙfºÒyŠpÕM¶Ğ	¥vaJe/&P'@TÙÔZs¨­4ÇÅ•µà¨µ;¢3ğ6§âd¦¯œ“^ ¾*æô§)­Bé×Ö@¥Ú$“ĞÒÀ&ìgÀâÖn'»`µÑÜnÂ‚ãÆèÌŒ¿s aÿö‘„æí³àü#|ÔÂC?p•&nåˆ„‡
+ÿùtŒÊgë(Q€ğÁ?‘o•Ôİ5ÑrŸNÈĞI=ş0=¡’=Âté§Ù3½Aé[¹fö0¬*=lÌ!çHsäÜ©Y/ºæç'ºà×[Ç¡*ŠµŞšÉq`îT ¤RwŒe§lIØ×1fMq,*‡.lO“"vš‹2”Ã_:ÉÉAfäĞ6"(„ºGì	-)Fº_VŠa‹©B±¸üŒ¦®+Oú"¿5ÙpOÊüUZãíU¬½ŞşûxV¥%û¢mâÄm5á-nSŸ!yÊ’Rî-»òHH	åÎ(ÜĞ‘#\›tÒ8°¡àØÔ.ˆ¢Å°¹ä,9!—Ù¥9äMÉåÇŞ,‘ä 2†ØÌdCÜ_õæ5‡éJ.oÔW·¨@¦zÉæS	KE7Ch9ŠÜ.¥ªDŒEÄí(€ Ls-eÈÁ-è®8Ş\@Ã‰ˆ±C¸ÌF©¿RVWâ?ªä=ÎÂ2´ÏÚ„R±ÖåW®m´ÓlÒF›ómğÖ˜µ÷|ãy¸†ØíÎZI7:ÈmÕFOFúqŞ¢U¿çG!£„£
+òy£çPx*´ña£È!Ùşjò¯}µT8A’1ÒÁf×¨PBæ@>"´$º+«¼d±/wZ-št”†$¸×ìœà-’ó“§Ş™ıñ¸úqb!}NƒôaøKe^5tYƒ6U„F$—_ùÆ]äÒ%>j÷–÷ñŒ¦`úh6Î–RrJÊü¬i¥†6zCW¨Ç~í‹˜ó¥¡s w X®Â3s¦SèdØˆm´½912oJ‚ŒyóUª¯¤…]ÊÈ×Œ»r\LZ@wo‰§¬‰ÏDÅ)PjJf÷'gşU³–6µ®2I—ñì+ôáHÆˆ•dÓvZ? œ‚ıQq³
+£JeÒö•@6µ:ki^Ñ˜Ùñ	D†4£\¯‚úè@"=­)«ùFîÒôş:MÌ¦“V7İØQ¥¼yÍ@ŠO+Mx<%B!HÇ÷Tbd|FPLãÒÍq¦nÔpêá= >÷÷€ú{˜qÕèOùS`&3.³rœN‰Z1úãÄ¾‹+ŞÚ	vªxó€ÍO'<°»ïxÍ0\€(Cï;^3ÄÓ	¶M[»ë€í0`RÇ}l†x:9-Ò¾ˆ6#Àp^DµóxÍO'o…KûŠh;…{íà°vç­yãcZ˜ºB´Ö‚/…óÍ5|ÊmlCäË{SWéX¤&‰Éå–/.¨T¾9Bëø>C>]Wˆ§<,çLÈbØÚşÀëÛU±2{³zƒ Á)Áä­Š*ÍÏ
+·!óÆ”»Ş©YøÓ	õê3sW¨Ú©ó1åÉi’Æí—#
+±pÚìsÅ°oA“‹¸c/‡"øLà×QI(à-
+MU0ÿâŠµ»ÜJõ¥K¬4ñT—åğ	qQg®Á¨ùJ0…¹j˜2iÆ±°ÜÔ•\¦¤qCÆé %»Z*«äR)÷8™7c-{ƒÂ‡«L_Â¼9Ç•SVÀj’³Bäg³A%5ñÜ'İ§ªëº€Wk°lÅW[‚QlÎ•ÑBñªÅ«i±Û‰8.¨¡ÂWÄ¸)&#YŒ—ãk«­éhĞñ{d¼g*•Oe\ÒÛÇË»ùUÓZu”C†;äÓ]•_—ƒ'»‘0¸íÆ!ê_Õ 7n`û¼¥Ã—[~ìü=§öãwk¿Ôş¸SÇ3~gö½„„‚;—Fèûä‚òÃUìd9JÍSªİÔµïrÂ‘t÷Èª‡ìµ¶Z|i~·Ù•Š¹¹iN‚/Gh8m˜N¦/ÒµÉìæs.×¨ëÑÜ —šı:üêWsÂ'”ÀmòÖ“ÑX£' Ë‘¦E²£*<L Õ»Ò0ËO'pî°ş}Y˜fˆ§SYíKû´CÀ€VD·/q×ñtŠÏåî:`;è…1íÏ^ÜÖ¬iÎÜj~Ñ—ÏÎƒçÕQ'~“a}Rœ³$ç}=qšmC›Ğ4¯ -/¯p~f©fC¤!I€YjM’›c<×°a1Ö,Vƒù1Î¡(PïèmÇí€\!÷iîéßq|õ-ä“CÙ²d±9TÊ§÷5Àİ0¤¶ÂìöF+ÙCF¡Ò¾åŒòù?â¹­4
+endstream
+endobj
+301 0 obj
+<<
+/Length 3295
+/Filter /FlateDecode
+>>
+stream
+xœí\Í#·¾ë)ô¦ùÏ&°ØƒíÄ@œİ[C¶G
+dÄ¯Ÿú!»ÉIÍØnI“ŒÇ;»-‘,6Yd}õU‘ê(áç¿&«Ä¥Tî8?ş~PG#ñÿôEşPAU„æÏó§ò¢˜ğ³o8ıçŸóé/?~wœ¿$}ÿuşùğí_Õñ_¡ÎOK½F¾û\´Y|õZş#H·ÇÏçÃ_?øèOŞÄş}ğç ?¿ÑşùôñˆŸ¨`¡ÄÙŸàñoÇÏ:üá3ˆÍû( ÀQ6º+Ô$MÔÊùÉë`TV©àmnš´q:ÂG>ÖÅvxC÷¥ÙwÅõƒwİh#›WN€Øï½{zåÀï¤â”×ƒ2kK;ïì´DÕõv>|ÄÅø•_UJeÎŞÃoC×HˆAÂ×çF%	ÍFo4ös0ğ,&=C*¸@‚I(”+Åíê/¼º*,Q«Ûš`µZ%Uø©ÚHÊÍå—CZ«Ê
+|>#¤÷üô¯r¾ÿôëUèÓ÷>|Jø¥ñ|˜&áİU`)âùµpz¯7¬:zq»ö3çøïQ¡ûVMŠµ¼x\6rĞ!åÃ¢`¬‡£š ç,ê²Y´¹/Çƒ~ã"±Ø%Rt^ı
+•ÑIÕ¢÷ğÇe¥æÀ TMû…cÒË`q²ájÔ•Ñ¤>_ïUäb×§³8…+[KÔØËM`²—Ÿ)e„½¡ÂâäÙ¦Ñõ1À3áØ‡aãtWÇí>Ç}:À¦Ê­Ğd8Ü½ÎêOÛ§EeÅ‰zınsc4æ„ÚEBÓÖR}=ûY?ÑŠ8Qw‚n›9S«­mÍ‰’’!Şæc#yÃ¾Í´ Š§¡Ä÷µË;×Éø‚c›f‡ÆÓ“å¢õÙ‚%vÂw<¸ôÍ®¦‡õƒã~l÷ÊÀÆ1FÒğ„1”•Â½+ª©d ÈIµ/r«d€H§…–ÓnPŠáTå‡ T„ÿÂÖ9V-×øşZ¶ƒ´Ë‚õbÜÄPc5s¸Ïºä€à†Úô¹ÉÜòM’áq÷ßÕw†u²d´G³Éj+5(«.´º9Ô
+¦µ3Öú–°Öi2ûVñ¸€=oyEÍ¶JÆºÄ>Ïƒ@°_å`®±•ü.ågrıR‹íÉ*12	äb†û·"œ²¤3µ®á7üêÅ?ÓØÂ
+r‚-|*gªœo	×JUº…ˆ
+àN0Ä¤¬Ïˆ¬¾%$1“ŒYeX®Dx8¢3µHÙg§ s¥Ò'©Ş™PßŒS ';ÃÏ¢1ÏÊ2mªqÆ¾“Û-{ Mju{Ó÷-|fıMá™$…*h‚Šˆ´SÌ0d–”uĞø#“4 PÅ6d­„O§›yN,Bm¨¡oB‡‘ ;k7ùA-Â!ãÃC7ü”é îw"ğ·¬ëm½BÚæaL‰
+³ş'Àd²Åi_ŒVÉ ‘Îçöå×* ÒC#ö6›77ˆ¼|<Âëû•ĞYŸVäÒ+á=í¾ƒ— (ŒD¥á
+’CãŸÁ ¥eÁøô \FVÜä4hP!O²dÃWp¸[*ÃÄCéÆ'
+o!ô{k|LŸ9)ÚmCtø² L’1 “/6œâİ‹Ç•–²ëà¤òin“•T¥h`ÿû„…]ÂÉ:c¾yĞî¼ğ3™@Tw¿"ò‚LLÅ^™™Ç½ú:u«âÂ"WaØ~,°¯7WŞ‚‰ö=DSW>ù5äºA±æ8Ï=ƒ™'§€£kÃ½ˆ‘9ï°´\§äe0;Ì[gšIŒÂağŒyâA°:“™rŸ®Êßº+¸îúhF5ÁÀ£pìË˜¯Â™ì"À âD1Í@>œŞ:g—wÎı(Q€›lÀ}ç…÷Ìxç…ßàU¼pá06Î*°±F·¯PÉx>©„Ú×(E @'änäw“«Ô0}!Æ8-#ÿFxag2ç½Rû˜ N]Œ/*ÎĞ&XÃ%LşîàáMk£ÕRÈŠFlb˜zƒx_ÂşVBÁñâ±ÌïgrX¢pyĞ…[Ä¥ƒ¶®È
+iöqâSîáãœŒ0zôdòµÄ,‹UÖ_âŞ[d}½*‹ *İÁæF	üX{’½+ÙU &B¨“8Vrg•#õBÀtI@EÌşR°¶Êš²±ÃJÒN‰s'':˜L´×ü78­@6’B„¡³k#x®S;)á8o"œM
+¹(LÁ ä£¸ºG•¦A¡@û¡k¦îe–{ã‘qºÔ‘¡ŞNûIş{6Û=h ‹»1+”ofëeFñÄ×Êƒ= ;i¬O¹Jë#©éR<¦ØD·ø¥‡>.½YPıóAyuEº-;:q¥x½ìÛ.QZÕ*><÷şîÕüŸ{5¡Öt¿>Rü#WC‰]ÖÈöxı\Ûhcwk<şÚjì35a&5ÕÚO3s›\—u½f÷°²ü÷JlI‚7bPp€Ùšö\‹Á½'¹Ÿà{’äO!å“í'Ó¡SæbŠuo8¬ÑÊgX©ÌÅ)àë/§R. Wï%Ÿä¤Ì”¢2"˜B“„xæ·?ôNkoÊ¹_,)½¦@[aMZhS1jòÂÆ&vÍlÃÛ5S³›ü…·ûğ”Á¹ğúI‰æ;9ÍŒƒèDdŞœËÚ-.há6mœ€½vLXí{y[Ú %Ò{‹¨ÊúD¯/9øÈ)à›İŠgTåŞ·¶¢W´ÉUt¥¢gb°³İÄøW½æU½\ÚÓä÷{Ag=PÒ`„Òù¥ˆıè¿|rÙ’Æ¾à"Æ·†ÕWgà$·¸çÏ®Îâ&wn“TŸÇdÕ„V9i#íbTÁšñĞÂr&Y¨çHòP±ë	›]€«İqS‘&ğSÓM}š€ŒEá²álÄBÿèÓ"eaN™µ£ß>/8IÓè*;v™ù”ê¼J©+ƒ=2ÿØTÄ:”ç{
+²ÈôOöH#¢ò­ix ¶€ÀäÓ!ô2§òÌÌï©Èr´f±Z—kd« Äjóîuï™jø~æx§TÃl ’?,ætêïÉ£¨sªógHñN™"ÖÎ‚QnîáµkœWT]'”Ù7rYˆ *ì+±”"-`ÙÿE/øÈç%İ0|Ro ®!½u³í¤ÄíZÕäs™˜ø_´ø0¥)œ:Â‘È[—Ï)Ë•n¯Âa%ÛÎ6vµÆàºwYjğ	‡§ßïê7Óî	{H6‹yÅ0i®
+e¬„ãÀåÀC‘¶<¼8 †\±•Óº¤5‚UK/fÚ€‡BúÌœ“Qÿ¨¹R/‚Ü·ŠNõğğ#°DïÈã÷@¿!‘))y¾Dü@µ«e.$<Ì´
+ûBJŠŒB†[&19Ç.¡µ7ÆH‚u˜Ò‘Ç`Jjq^qKY½uZ“7‹Q„õÌèÄâxø5éù~ÆH®guQõ†÷<e<(F­8 JÖÿÅ¼NŒOÌUxvtyŒÎù$–ïnà¼ÂT/†4—õº:ÌÑf.VœòÉ=4+"*é'œ[=UßY=Õ%İ¶ã&?è)%D­—×ÂçªY=ªÊúÒë0+äIUŸj1U)«/ô¢lï½YG–GJ_ë7kúòµi8œêå¯²™¦ÓVJoê7%ëŞÅAÉ0ìMİÎ<P=3˜‚Z¾|gì Şyû†/ÍhŒ—ÅhAm–Ì`/õs ‚#‘*Ø}­j°B=¬®/áŠªnÔêWşyBŒ²pÎ×itÉĞ¥DiÂÆö¦CÊWáæ–áÌa€òÖ¢‚¼W™9«2Ëó)‹`Ü§ûûLw~&áåğ˜ğıhúúæ*}°&¤ÃhË'Ñõ¿%èĞû6_¤8‘r¤µ[şœc¹‹sJ&ë×ÃÙï~;¼flønæ2~3(_]ÍF:şe<vıïÚéÇÃ¾ÚòD%]Ó£ÆœĞ“|às­ö\È­åHàEØí›ÌÒ¢
+	öV9¾­;
+	/ñ¼‰S½ÃßkB2QuO)›ÉQ"&——áëêúI<Òi—¨ä]°Çûrç6ığ4Ìæ¿Şow»5ù5q°¤Ş‰rx9Ğ®DT!áùà¥rßÓ{¥hÉ?¿ånR	¼gÌÄ-1£Us¯»¿zë1à|;¼à)ÁÑñÅè`¦ñ”ÿqLU¼gF„ñàbí¹-wƒ&ó›o”ÈüV¿l«A,iAhÕºòšV,ºŞOqq=i{µ;Õ 	óÏiD
+endstream
+endobj
+211 0 obj
+<<
+/Length 3167
+/Filter /FlateDecode
+>>
+stream
+xœí\ÍÜ¸¾ÏSô˜+ş“€áÃn’ràxnA;šî @ 0}ıÔ)’¥îÙ¬fÔ¶=»K¢TäG²XõU‘ò4ÀÏ;	#EˆÃ íiüüğŸô#©€<éÿKòM9àt3ß‚ÿPxï‡?œÿûÏñü×Ÿ<_!Ã £’Ö§¼±PT)½3~°!(mU„[.¶ÅN_Æ?üğóyúÇóqÕ©óU5ªGP™?AmÃéñòğ·÷æù<ï"ıò&ıÃy'ËÅÅÕ`u*âÕlé{*a¡d*e=–øûéñÏ|„ÊMÀ8% M'ç#Õû#ın°3Føˆ*á:ÒóßÃxXSÔh5¸B‘ ±j€¿¶–ş`¼ƒÏ`!í¼R#¼…œt#×ğ²ÂÜ~Ã§ÜŞø…QF€½fyˆ¬‡{×1ÕÀn„¥êX(mP4¼âUı†¡/B@Æ…ëâ”Á:=w»ÇNhçêî©áWQ˜×ƒ`E@±º ‚D(;Wİ„Bj¹O.¥+L‚](˜ˆ¸4ÀVÁ‹üVîï@ Ãğö
+5İ„ß‚ Ü‡kè5í‘|‡•øÈˆ’ú=C]™Ò	Ë»¦¯]öêGš‘Ö8ª¡ zD|ºÅãqÖ7†5L òX@Óİ’ñŠéúE×°§yuşpr)bmY9qÙˆŸìûvL¥º–‰‚U…!àilÌ&`·› –Â(Õë&­YWµw~ÅNÊcõ…Ä†#H¤p˜›* 	8] CLQ†øÙ4™Ò4MéIÑz_D‘&ê*‹ÓŞÂî¿ÔJóî,xqo;Xámn;°njïúÈså• — ¶†s¹èaêVIıåÑÀp·ïxvB^Ÿº•×P\¼êºo–xáƒ9xÕmÉ¾ÔïyÀHmúSÕ
+{ğÚ¿xÌì¤q©Ş®Çl•ôlÌà½_²V”VÔÏp	F*_ü«®ÿOŸ~;ôŸ~úËÃ§T‰_k	 Î1€vØU`-Ez½ÛYd%D:è;öYË ‘Ş£wne-D)´Ú«•]_Vê Â ôÂ™íY&o¯;ÀgIl@væÇ-@¦ä;4ÿ}D{ôºP6×'Ê`€îÑ§m2  Yğè„ÊD TkÂä\şá‹©h&SÑ¾7ÃJwT€ØÕW „Æ
+‡Pº·%V9z£‚NÛbX‘k~F/‚=MÀ‡¬«&·¿î.Òö…Ğ‹Ï^Ÿ­=ÿK’™I`$ù3èáà‡kÏ•|§İÉ‰ ›ä­øŠ”ü!ÈrÙÀ	ä®{iºä&Od¯×Š3ßéºOÔàsîUps&¤º‰)ó‡ä“¢ëˆ¯9t×S\çŠX˜õüÅŒpqüÙ£µÄÁ­zŒNXzVÆˆ”šB¥ögÌ.Î•)r!œGò±k^ŠÂ¶pZà^':Ìaï"b[XÏ¢9}…•ğ
+zÑ§ÉÄó@cÏ“GŸ¦LMmÂÀà	DD‹OVy-°›}·;@˜4ƒOƒÑ‰î<´rÅ”ïúsb:ˆOÊBEl¼{¡:¬=íL›Òi1ÙhI3–.HÉl|®(bÔ}šGê[_CÕºñ®¢q‹Œ“İê
+âçÔb¡}KÑ6v0•Ğ8¦ñU8ÏörTõ»3î3;­dµ‰Ô©ÑtcK™Egï¹Ò‘É†uÓÜö¹ŒˆÁì.x&ƒÿî÷oñLJxv<óùÁAh½{‹çb@0x¡JíØâ·Œ¥Àpm'Ë¡²ªš %Çé> Q$Ïäê2¡%†„;“Ù)İæ÷ZÓwã«š#èœQj½ùíıº+í½lÊP7ÔìÉY 8…¡¤½ÿ*P”“Ü¬ÜŒ÷‘¾!Øøet|Å5ŠBÂÃl‘ö)ñönt¯ÉÛÌÜÑ6^^û±^§ <‘8-a÷äg*v8Ö‰²µs[âÄ	¢şB‹˜>|(ï»yöİ<{I<,TFYâiÑÔÖ­ö¢42@$Xg!îkd€H¯…{µ²K–Cƒ…†AMØßMÜÁt4êŠaK€|SÙØ&<qSB]_D.\AÀr! *ÕÕ×A˜ÌˆæµœÍËœv˜Ñ§ÌÎ²Ù@k I1Œ)‰(SS/ûóŒL3%æÔ¨ŠTÇõó’2™¿Îé®ÒßRX{:FÌÁÔ‰´Sğ%‰¶“@Ë´4¡|ã„Ç,9ó± Eê`ÊdÎ,x?±ì6¢uf5Ò`B¾«¾h 25t35)È•º`š~H¹d"·ùÆXD1ù0ÉlIëª?ªdÁÙŠc;ÖS¯XÒ¼øƒfešiüëœş
+àîÊ(îri¦äÍ&kuë•4¦»vó¦¨ÕˆæÖ[*¤™±Œß‚¾Ü”çkŸA“4Í;6Şá¸ÁêóV©ş½ù‚Ü×º‹iŞ8ò§Sºıf÷–GwˆŒUƒ’Ãˆ<§‰Û¬h–âİ¶IcTùÚ¨n‹*Ğ>ròñ
+<Ê`jÌá}†»vÖúé"_§³v ªßõ˜ùğú»Æ_¦ÎœœçÑæ"“Öúf{ôŒÆ§Í ?¹¦I‡AÛÍªhSi³ÊMnµ²Jø]ıøJˆsA¨“L Ò+!÷eGj(Ğ	pHv–XÉ ‘Q
+·³ÄJ
+] ÷’ø¦7zI&1ı‰Ä.Î3Ü8á=™¾ËZöarîÜˆlJ”Â­£çEzø”`U[•øÁ°VHğ—o†,‰[+IŠACW“„µ*ÁÓzÕ-¡ CÚ¤Yü×À›i{[ı4#…PÍò&O•³N	D2|;$B'ï-ïR¼’¼úâÜP-:úêz×fÍ·d
+ïhÖ¼$n!Ñ.©òIÒ(Ïèhë}ÍFˆ´H?ïk42P¤C|Õ='”L‚$û„ıÔ!ßsâpÑÌ™Ì&‡-Hqë›6”€¹©®Å ¬²yóó%ÒÊÕ´:­F-‡‡ÒE¯5O Á¨ùs^Åˆ²ixS²'Œ§•´³B©A…åJ§e¯Ÿ¸ß	O¬0…m¶ü¼]<Ó¬,Ÿò›««s}…™ÌÕ2”Nø –¿I”a¹ôCSV5_½4W­ü8—±V·+òõúW‘7^kã¬¤ÛxÖJÛ¸­×töf‹1Ê÷7	qPíÓÅ›µÙnrÜxó<*Òß†G[÷™ŒË\ÆÍíjpİÈí»2<7BzM‰à´ìÀÕ
+}Áœp[ İ>D¶fÖæö½ª+¯äænJLñt°Gp)‚Š|FÎoöğQ†©O
+Y¬] ¬S
+§]Jı4ÉìÜÁ—2—–Ö¡˜7ıñ¾¦z»-²°àUÉ‘ŠlÃÓ>¸¸±ˆ)ízıóöñÅrPU•@®®¦•Ú5š&‰³:Š§„`¯ìeêîH»â§¯³[{?û.ZÙÆugëØ‚nĞ‚vÄÊûËò±yOpfDì2Q%ïÆÅ>â¾ª	k~bj;»²±Çæ×ü ¸ÄN‡ø8³bkë…®Y¿´?„=>Ñ*1PÎ<!%#³‘[&LQkhÇ—ç¹UÏ”"‡òµ‹ÑÜSzU4q)Y ›‰áÂ”«TwqÚ¢Ë$V¤}šÕÄ]! Pö GÀUËJ$õm—<†½ÔÈ×±[ƒ'úœR@ôß¤W|ªÙm;R¿ğ¹_#Í&<ë­:	¬I{VÁŒğÃ·Á9z®w8Ó–Úôhmù c ¿öË{Yë£¹V5~ÎáY.Tôù\6„{\Nì³¼ÿ¸¼Æ2/ºILHùt¹c¦9¶<1ĞapeÙR«ªı°'¹qª¾’ïĞşj6bSâ”Iã8ÒåZ)oD6\üR[b"­¸‚¿ªŸ>wˆDNQ×Ø——d°+âáN§Å=ç~L'%V8s•çx)ès;ùœ]m¯¸!ƒ	zÅõUÕ!6¤DŞ‹„yIÙàY§©hì›ŒÆê‘4Vÿ,¸;Ä¨nÕ¿ÊøvõÿÏî‘4¼§#¸¢€Y³ó\•<‚Ë»sFF#DFYÎ{Œ7NZÒşşÜÊçœÏ¾ßäù™Ûì{ÌÁ;_§4„y\"Ùu¿ùôp0…3‹ğNşù\ ³¾
+endstream
+endobj
+352 0 obj
+<<
+/Length 3942
+/Filter /FlateDecode
+>>
+stream
+xœí]K·¾ï¯˜?`šo6A;‰8Ö-ÈÁšG  ÿıÔƒd“=$g¤ wg“õZÒ²›ì"‹ìªõ`«ƒ„ŸïüµX%–(¥r‡ãóÓ¿Ò¢
+ê`$şŸnä‹JRå|şháñÚ÷¿;ÿûïÇóŸúápüò$éş—ã?Ÿ¾ÿé‹:üí´ù¹´ëĞÿáSõÌêÖ'xò€²=|º<ıåƒ³~ñNKıé#Ôü¤?z—
+ğË9X¯àOô†zïµt&ß6Áp:]
+6À¯ß©ĞÈ}ÄaşãAãåúdUºê|h)9oµ´Kğ$xÂ{}½$Bù@-R÷±sú®‚	Ê©ãã ú_ŸşøôûOÀ±Ì§‚°ÚhJ~n˜‰ë(ìËMøC|òø	Cmø€ß*
+%Í"Õá©*B“ùı Œ¸;­§S'â´–šİæ¯óp}X^!7HŸÊêõx¾^`*/Ğó})ëö&XD7e½Å¦õsöaÎ,ÁÎN™,7~Ñ§ÁtB/Rê¸.ÃJx±\_µ^è\˜°,¥FO¯sS2MI5¥#¼œ^ÈE‡˜-UqS·¥ag-qeUu]S
+u)¸mF}ÅeQİ»4÷p%ƒ,Ğ §Œã7c2®–#Ëœ?Ã’›p'Œk’p¥¨¡al»º¬Eg']ÛÇN†ì·ìRÃ1Ÿ¶}×UËĞ¶¼eË,øÏÓ.¹1Õ ï¡`&,ùµáôõ4LğŒïn:¬ód‘´¥é+„3ffœ¾{}_îæóqÌË©,hé¹¡*‰ô@ŒÃpª½êÍË	Q\Û’´4p@
+ã)¥eRª’	€hHg¢â>®ğX!A;±N‘ˆt ,-‡¢Cİ£2ZÿÁz ËVYK—°&şÃ@Já¡©‹Ğ9D ¦2 €k¤éº'de]4LŠÙã½íÍˆ“Œ­Ú«!²º{!Åvbh‰üEîêÁNSp™ã„WW"9"G@ëw`)ãOÀÈCS½Î(ò“ÑèÌñósâ-Ş”üx®¦7úš«&ïlB­N	µHµrğ¬ƒ6Â*€¤tË¢ÃDøØVÛcOñ¹ßy¨®¼ëFÓí<È{ ûà½w}œ9füNob/Y8”4y“àmá7*’,˜?Ñ‚L_zâÃFÀxí·§üF <ğ‡g(ZaÌÂÅÔÃıñ—oŸ©_~üÓÓ/©¿µ4Ÿ¬Œ"J¿+É†TF„¸×([v£A¹|	²·ñÇUk†€ã¥„Ê(v]k‘ì[Ìj5Ê Ğ&ÓáèñÃ#Ù).ÓG§m<å­²Ï&S«{®¶g•\;œp£ƒKÚëdoô=’ÒÌ#|«¿¤-@ `‘¿¤÷ÿ‹OÖ,–Ld°-
+†´µ½ß¸á™Ğö¶Ìå¹Ë ((İã’2øİlÌ‡Êhá%üç¯ìˆ=8õúº
+øÈºJW<i‘IÈÙÈËˆŞ l:ª lÁÎöD×”G[á‰¡h_ùÕ ´ÏBG,|QSì
+Ø—dÀüê­¶„ùŸ®XDÍ³tçLX½2é^ò33ì„Çm?í*öm¤mÂ¬fH…DÖYŸàm¸PõáHıùw¬Ñ—rPíğÖWÜe©ÔëdL¼µôˆ×‹=ÂO‘o±H‡TW% ªM@+a–âºˆi7QÍL¤fù½R=:n~Ë¿/7‚‹}ğ®?Ş·Åî’yW\¡a9²
+œ$¸úÛ-ã…u]üŸíâ	Œ§×#ãï (Û}ñMH#ü²ó–£¦$ƒp/ÿ_ÖßÀVW£'‹e¾”’Ø/ÊÆbGÌwÙrXJ¡)¹qM¤aœX‚q&[<×"[.KËKSjúÊvÌR:ÎÚrÓ»–î~l¸§ãj[šiİó˜sî±·¦?Î ÆãÜônòßŒYO¹¾™¯v.O“ÒÕ×@üÖa›u¶)¶s¥ÜC“Å´éú2eº¹ØvÈ{_DÛĞ°+£F;Ò½ëµY¿-™ÙÔ~›€¹š”7ê© |;Şwv„_s¬Úe~è)0«%|ãí¸ÖHè™Èîp4;8åì+ >ØüZ¶fwr×ßŒ7iûD–aXˆ4@yozÂmq&KQ
+Q(‘9dîÑV9&òQSŞRÛâœ˜µdŞª²ËÉ´zˆ-j¡õÁ<:h~ßªüŸoU–v½‡µÈŠé»SœZHÄ+Sõ´õåÚäşÆ-Éé;ßíd8ÿÎJfs2•cµ3ÏdÉ€#JäI`QJ€|1®+D[çM%3ÒÎFE/”öåÊNû©-™ç'‚?*¹7á-$Ä"õ~„_ÕÓ˜V¥\klTÇ†Tù…İ/¥}9ªRBçbiÜjúf!§†¥±<$/ä•ÓB"Š$m²Ánkæ;g+áĞ¦itwÕ?‚{£{?ÒâÀTÓ1àkX¨à=Xá<6˜÷càŒ+zdÕ\‘í«¶*¬:Ğ‹²¯Âªh IĞî³—ªê¸çtÌ %yß–‡ÓÚpöŒ¹BrræĞ 6œGB´ÇwŠK“EpnyÆÌT\A†~˜’1 U*³y—£ÆØG_!÷tŠ°Ò’)§”îËI™´/š‚÷.’1€ŒH£†jr¯öŞ^z{êQs‚9jPT,Y¯’%oD“bAIY—-ø@më˜T»Å{ÛXèøıŠd†WõêÖ«%ç-QÔío£:Æ­ÏÀŞv¥ĞÚ³É?¬DÑo7r%ô¤>•ØÛd@ãæÕ[ˆÖôÆ®á¾Ğ	ã_º ó!òGT¼‹Ğ4ñÇÒ®»lSœŠ¼T"¢*{Bøµ-ÎPÄé-¡"‰$Z®%Y¥D%³ãH 'â£ƒ©7aßãm÷Œ·½{{×ŸÀ~Fwcø³¯"»§ñ%)Îé(ÂÎ@¸¡Q¿N˜}qpM	F¡İ^c|EP
+"£ .¤×O²Š &å–B$yQL+™Sº(|CA¦Ë4]ík@<5n±íK†d˜ôÉ%BªÇå\NÒv^ w7|àõ©œYdÌòlÜP`µ)vÚ\ìw'•›L”YM›bşJ\0ZÍf‚­ıNú4˜%}2n–ÈÁÆ=ê5éøiH¡·¥Åp5oÕ,¹I½’û;¾Y¬h¥FÿmÁÑÙfşª†\öÎí\,¾ğ\â hç(ñT6E^]ke×C¬Ÿ”²@KİKsSo‰®%}jîµ5›®§ˆª7÷dC¿iì¶§H RİªHPµ4Uez¹½MñGy”˜ÒÛöoY‹®é§––RÜò`2Î	‡6ãlïÉé2˜ŒkSºp0Eµ&îîúŒîşA‡+vX°Y@§¯èİåÛœ'“>l¦ìk–ôy;–É¢1[Í3îÏÒV}³)*¾BHíÁ)¸F±Ø(“ã¶®3vÙY£¤d5;hk#W6ˆøl}42i7]ÒõĞÉ–BäÓpöiP»:–dô¼ s?Yß¯Ç‚¨`³ªßØ8£ôÙXí&İ%¸Ñ¿p¨Å3ÆÃoX_UšOsÖñKl'±mä:¸¶e>´Ä;`ÓW1•£FO†³*Êë§vÚÈèG7c¼[`Ş-0_çGT¡1 ¤UÍV‹`vÎb¨i I·#w¶ÚÔ4)uCÅ½FÙõ|Ù°¼ÍlIK²uuÆ5&Å4	’aÕÕÙ¹°šOÎÓL3Ós×!zy\Œ1¼r®$nvè°.ì'­·jIpUÅ57:í;õ6‡­°ÅiM—>~œÉWŒãÆ•­Íú´R·ÆBOÉ›T¡E6}Œ9`oq²Ÿ
+}ƒ=%|k\k5(İ›^7]ô®WóÃÉñœwq„©°/ûa¤.EÃeœåØÕU4J1eŒsÉGÖŒ@U„·X=|ŒĞUÚèwPµ‹[‹=|bÇ18Ú¦ŒìªÜÈÜ$‘¦÷¡òîØOtihà‰.VÀ;¼ï!25$	˜Óï5ÊWÍ"Í¾.…j4gÖ.ëÖt=³Ö°æ¯NIO$Qív—ÚHqâ0mÒ*´mf†µq:# y:>Pb›ìw8¨lÄĞœîVâÒÆ:(&p}>ê·œ;tßR]©Í
+¬ÇŠ… '9Õ/~p…Ì»VÊ4Á/4W	!7POó™Tw©óaĞ·2½iyÇ¡^ƒ¸87NË& ®·Ò¼ï'Ì½Cƒ·Òöá:nasl&K”·9‡’åI`°\V‘Î‚†ÇjHî!nŞ|È£6ú/õm˜+eAv›xÇ)wé¥LšD‹ßùŒ»šÄó“õ½3ªI<?)äÿäùvé´VÜŸÕ=B¶œÛIäêØ;M>1äß¢d'Cã©¤ó Ô{Ù€g¥bXç‰¶˜v¨mÂôp|_ZqB[8 TGÓ:…CWÅõÈ¼qì{i\OÓcûÑ´Fœ›„§>Ïû]BeÆ5¦¦ˆ)O¦V³i3
+‹ô€Öù–}gk@Ú0x~ûZå¹*<ü³÷İd…dJHóğ˜á¬½ƒµÿÂ9–WyN´VÄÓÃ+˜ÙÏØäÌ¾Š’´ _Ò3æ½|{.±¥$Ğ­‰sgÆâhøÒùŞäº¾SÌ,¹u‚(h²×u‡¥ƒı“!+&B6ƒ5Æ”XDkşÎ†±îM–²«3{CM:…”“–Ğ¾r^.NÉVijH–	©ìfHtòm&	ë¾6v½¦»§„¯°1¯şF ›y‘Ì‘z6ƒĞÕ¹Œ9íéÏ{şD ‹Ä/œÁ–¿™µ9v©9›xhSÄÃ=úørÇ6'*Ÿ8ÛY»âLŸ—r}ävNK¸şVåâÚMW[±Ei³µÂ³AÖŸ ËßÜà¤2]íºzæ&û")Œìî‹À”{õ]å*ÇÊÕz¼€»G
+—ıP6“¸æE
+¦ot"Ë·5xò×Ó†O9Víêª±d±Ñ	÷«$÷|®3¬Åˆ`¾ámÀ{ŒÜ6[Nj>ñP‡&WIcî*••^ïóåÃÜX¥)¬jŠjĞ>Û-ê(ÕU²”¦‰~”pİšlÓ;™ ı;š}½»Ø?H#´ÜyËRÓ@’A¨]w,ùç?|—`
+endstream
+endobj
+52 0 obj
+<<
+/Length 3940
+/Filter /FlateDecode
+>>
+stream
+xœí]Í·¾ïSÌ˜nş“€°;‰8Ö-ÈA;;ˆâ×Oıl²‡ä¬ôÎ¬½^k¥f³È"›¬úêc<,ğó„_ÁHâ²H{8~~øOú‘T@ô‚ÿ§ùC¹Ráü	üQÂágßÿáôßOıé‡ÃñËÃB÷¿ÿığıO_äá_à™ŸËsù?|¬ê¬n}„šÿ’ÍáãùáoŒy„ûœõÚ/.zã¬Zàw ¿¯ÜÙ=s‘èµ‹îä¼ZœvŠK§à“#=±
+¸svÔÎ:í-<ÕXEùˆ*ø`<ğPJKµ{ıx€Ö}PG~š‹z÷xP–šuHl…tG’ğ_ğc±E,ZåVø÷ÃÇ??üñ#¨(+ÁJ)´=ĞüÜ(«(Ìë)‰½§Î‚±sßì/êôıâQ%îè#uù]Õ¬ŠïH+§2ÊÃ²ü\,ê“PiD.¬aª,)~aâÇ#I`Ÿy8êÀ9w©Õğ÷	şUfJUá@ÿ&ôªÿjÂ;.?5N¨W‘§RštárBÃUVÍ¹ôJÀä«uGåà7N{ã3½ 0bê™GÇ¼šÈ8xµˆõ€iÂƒlEãP‹(os¨ãÅàÂ™Â3ÿï^÷ß€Å
+îÖ¼æ´Ÿ:ız°Î`Ò¯tOğÇÓÔÚL5P¬¦w¿Z}èá•g<ÿÕ³Ï#ÃïN
+çwˆ#\Wà­ò²hV­£-yt¡®J½±üÒæ½Ú„ÖíÂ‹Nû©ü:¼’Ş{Ë
+uÕCı=‘bp‡ĞÔaÉ»=èáwV`Ò-.]y2òĞÁà^,è0pgx™êY³»£A¬°¸QŠaÑQImUŞXx¦¸ôÎøÅ† ´U>r±-¶ƒíS¿íP\İyÓµë6İÌ7İö÷š· õ·<aüïgÂì´ìÂî¼­í¾P¯ÀiU<ã’ºÚÅİ¦‡(tìí.Î³…ŸıúQi`£ÿW`ïZÅ—ÿªûüã/ß>\¿üø—‡_R+~me€ÈíÑn_‘µŒÏf‘Bª°«ÈFŠ´bÙW¯µîbXÌ¾k(ÒÁ{d;‰£{Mg¸x3‘ìzë<Ûê«Í^YúìXz¦˜€ÅâÁW×ÓUôŸ.¼+WyÙJ@‰d#ó‰üH¿Ù
+c¿#rmğ¯3û¾¸Ü«õ6p¢Xl×“TJıªî1Ãã!@ƒ6ıú
+ÍIòÃÎÉ¨Œ9yÆl|ñ	„'â¸Hå#œQ>1¹‰‘è©D(wš•ÂQ_’;&•Ú™4©° 0•§âg=C0†&/™ïæJŸ Ü¤®¼'Åó™z?ôHe mQİL.KzyUdÀzK ÍÀK‘Bë{·ÜŞ²Ñ~ÃFçv¹õ¼ë%«†gV¶£¬Pjßı¾Û½Ë²³U‰ NÄİŒ60^&4ügnÅÛà:;M‹IöB…>"”e^³_lX•Eyc‚ß.Y0'ŸĞİdq  ÇµABx½WtOÒó²ÜEà}€9á«y~KàıŠåÕZ,n >LÛu ü‘1JsPe,bhš±VmÈ:Yv¸E>¥íÒZ–C-«î·®am‰&›s`éa×]fîwÃµa³gŠ…¤Îvppó<«×†Z+¾»ÙÈ7¦vñÃ	–ÇqÌp~50ìåyÄt§YÇdy³­ş•VşdµïÈw ÛŸpŠ?¢õ¤‘A²-X]’­zDÓsRƒxæ±fszV‡ù¶ÛÃS.­s‘äé+mŠ“ßO^#âëÔµ×úy5Î3y<ÙÔ°›–Uà&2m~Ú¥ej8ššéwÅPÔIë»*K¨öy=>sPƒÌâæo÷&È·yÃ;{C
+öUÛõd…2œXîŞÔ~Ë^‚ú{	÷Ûô7<aôû„yŸ0ïÑÒŞÎ¾ ñŞU…bØˆ¨epÉ»}¡ˆF‡Ü¾A«ZìÎ‘¹FÆs´Ğ;Gæ(¦ÖŞ‘¹ZˆT¨ÛWb%÷ÌÕ2ªSÂï™ë€gJ‡xÊèg·_U¦¾ªLëÒ	|yZ~HŞã(GgÅ”ÊmªğY_5àyĞL7ÆU¦øš
+l¹`d¡ôœ±Cè¼oIDT4\çûŞa¸ÄÖˆ¾=;Lˆl¸¥²õ ¿9!Ç/ã™6ÑÏJtîpdƒ}4ŒÚ)Åš'ç½-DÉìÌ£2€2b¯µ™G\(°õ®DcvŸªÑK(²57` l)|Å»¾3üQ½äµXšø,è¡ûÔ3Ø›Z•…Io¦[^™b>,ümWäPÆi0“2&‚û‹¸â![Ë
+ÀM˜Å h\Dt]Kğ€ÆëĞYËgD?^‘Šgø3EÂm‰µ ZTğ2ÂôÈ³|‚¡åcÃ¿q”‹r@{Ø¼éR3îi#ò´É+FÇ{›¶ñ	j”åÊ*w/öŒqÑÉ™‘ñCN¸&Õ¾d	˜Hdˆáıá–9i’¤Uı˜IcÙ‰ 8º¯«a”ó®t:Y÷øo€‡³yc^—$>–mRÀÖ¤ÁµIa½´‰‚¤ÛÕåvŒÆ%™u4©éª¬tz¤ÙS¦5^ÒÖM+à`ğ´„ºÒd^í2]mŞ\›c¦ÓŸ»f¬N1“™êÒ“Å>:ñ6ù³ùØq–J)¬·FiUŒ¯è]_¯bse›+'ì"côI‡ëåæÉÓ´ìÓ¶lu…¦£[ë'½h^uåÇ%ñğÙ°ËMc¼™ÈkKêqôB¹¦š‰nÌ…6Ö«¶áòÅİĞNq+7 í‰oûÜö2L;"·M—5—S`}’¬&x{”±Ş_QÂd2ûO¾fn3©VOt¨òåmŞ¶Ùp¡ª†7c=úY‡·³ùó6ÏçõTÀ9¸òYgTë
+O$GÀ„âá"t«¨[ÚOñÕ{6Ÿì,;wr¿tBBØ±\ütÅÿ¹×>Àxõù=™F¸ùØø×õ¯«“µk?ÉkZUKlõ-ÇÉ‘s›È8UÙÌ±Gß89w	+b·M¡ñ‘4ÈÿÊ/L'm6G—ë!Š‰”…Ğ‹e|ƒ	ıC¿Ù	İåçHmz´óUÉ‰£Ó2£0ï'+÷‹Êßp¬ğ•Êˆ4Cî´•uĞ’'x
+€¥¡w­Õ">#s[î}ä­Aäğe·°Z7Èa¬º‹ £L ²¢»­Wmú…ˆdkò ±3Ç™Ÿ¨¹~£ç:°Ö¨èÖ¶KNîUÖHñ’gUñq}Nş‚]d>ùä‰è'õ!‚©dR–¢~Ëâ[QÈ™˜9EG/-Ï›frIgïÒñ©êĞ“OğocÅÙtÀª9˜>%f}9„•2=“©‚°÷&uURàï*SÆ9]¡AÉ=Zal×/°|….ö|ÁšŸ~„ğ÷ˆöŒI1[³Ù›ØN29×{5{»¬ÂKx7¤Şi÷mH£İ ¸F)[Õ.]‹ï­9n˜l•ôšdc¼£èw¦sÕ2@¤kÅíœ÷ –"pv/Ğ²ÌB¨ö6Ú¶©’›UT¡-óâô'’)ŠJé…hÒÚ,w‡£®ğln’dBE¢p}iq>–ÓA6s—9íıæpj §-aä–É%,J¥sÚëU]ïÏ’%Ãyøìóº«"+§„kôt‚èê$uh†rä¦2Á‡-¸Íœj†Bv£»«‰0)si~¼Ñà)Yñgö—·q4ºôšês)ßÒ"Åİ.±`o®:«”ÀÅõ%æiÊ7lÙÇf'$‘feA½‡h¾g&X,IëbÊ¶¶4g´—^(1ğÆ§J³×ÁY?¦ «œìÎ®G#;G_–*±?Æ¬¤ûµèŞ°ı;:í²£ıU€d†%Ævšâ™±m‚»Y‡Yd%DZØ>ôÎÜûZftX„Õ¯	KZo‰–Îñ¹×‰Ûã…q+ ¶^Õ	Æ¥FggO°Ó¿ÛA'Çì@ C©qÚ¦	rRú%g¥gİg¤hR¦›Öô«µ#œ-$aU…~.Ç™iÖÀ.ıÜä"^˜0œ8ã/a‘«`ğSò_Ä&;lhãáë•x;aßc^@×—ŞÈ¨[~Ù‰át2†ÆX#ôù€±N<ÌÜœNSš»‘WÜa1×ƒ:f47ñöìÏ9µË$;´]3øöìoSü°†'4)“0Õqf½LŒËá}cy*‡Q˜LãZÛ7cZ4Î«¢irÉLL L±>­æM“a¹“cy†™#g%ÖÑ¤ì&EùÕÚ[‡bRózà§™óöª²0	ÌÛÎO±¥¤¬XVÑõ©,ÏdÙƒÈƒË*š»·İß°ÇÔ'Î¼{Lßy0[(öT"-,’-CvEezŒÒ/ñ®X¥ô/ßY¡Ù‘|¢ñHÑû…¹{}İ(pTú›`{>¿wÉÁÛG„™éÁ‘Ù7’Q‹@NØİNPßátBuÒyUG.¶¶[j2XGZÜ“õÛı–vöÛ|¶/ïoµĞœË·±C· é‘‚àùÜè&Œ=²;hFßm>`RºÔÚ ‹[Ãt$ka½Ê1áı
+éŒ+Œı)[9£ç.ğü‰²>‡±ÑÏDÔs]maiLÛO¤×L‰
+1AŞ¦.J}a2ÂÃ·eWóì~7Ìw3å-˜)wÔô7<aìïgÂìh×ş?‘€uYÌ0y0BS>ÙœßˆÁQŠ¨Âî‚7bP°`¬ì/¸ƒ‚£ğRí/¸óùÁ.^˜èö¼‚ñûÃcÜÃ€y!0;7¦‡×ß¨ÓûrC&Å¡ñİi_=_Pğ¸F-RY4Xk¶ƒlÌxbëœšªÈ/DªSñ_Ûoaò\Û`cŞ´‰J„Ğd,º]è¢:É6°ë€ä`|"Gñ2Ïöe§™ıq•ì“x05ª&DkŠ’ä˜”^Uß;h^<´ñğTçŞ·ùI¾—ßënã!¥§9c:¹§•z®oÌÓ}]à©ânÒ©o*lñ0+Îõ¬*ß…Ó§Ö.3öÆF	eî4(r™À©“âx|2qwÃßşºÍ_î9«3S­_’R´Q¹Oë‰˜Í—p–Ëß–Pd­»+)pêŸÿ·Œ.
+endstream
+endobj
+460 0 obj
+<<
+/Length 3405
+/Filter /FlateDecode
+>>
+stream
+xœí][Ü¶~ß_1 Šxc’¶úPÀßŠ>ìÎÎêúï÷\H‘Ô\y“Éödc{$rDêğ\¾s!WFøù“€¿&-†É£0‡ãÇ‡ßÂ â Fü?4Ä›¾ªÔ`ù~¼;´$ŞûáÏ§ÿıûxúÇÏ?ŸFjÿtüïÃ?‡_?ÁwŞÏß«ÌáÇÙ3³¦ğä¿ÂèúğáüğÏwöåÚßYï”SÖÛ³=Éø<ZcñÚÂ%G+­€vŸÂÎVC—£Sxê;yz<X¸/G­¨ƒ3N:	]NNË¾{†ÎÆiÃ©ô$ñˆÔyç<Ü:Ù3v·Ÿî„30,ãÃ]ÅÉÂCµpJğ˜>üíá/€$ñ¥Í(áäèş¾ p¤zy×ªRÉÁ¯”>ZH0Á: …ÑÇ[ ªÄûş5DôãüÙXÍ}€Hga°rîz:ùÄGê(ÜHCÁrMÃ2„Õ;Jlô%#bä?†›ü$Zræ|$ôæ^ó:Âğô7­~FæAÖª¯•ƒöSm­Ì8èË»ÎÓíV	’Hï¦ˆ~:-ÓÄ“éB¯M5‘[à,VSõÈV b`ò-XÎ"$8óªÑR,@cH–aP\çY²Q€t•ğz)áÄÄ4*/…w‘NøÎ …p £™&©ŒôpËú²Ûèo«“WĞ]î|êJ¨©:yavç³7uqmşJ˜ŒKu>vğZ×”‡ulJñŞç‡ÈìBƒúÿ—z’¯ş“¿ÈO¿¼}~ùéï¿„Y|.†€½ì4]wÄ|ŒfTƒ¹Öˆ%­½e£zĞÕ^2V¤ná’ôjD(¨£}-­#´˜óQv™t¶¶¸İ5iå~GBG–m õÚƒAıË`¼ó8İQ¦£ÒŸƒ°¢3´,g‡Ö[±áèôÕöÜ/³A^HƒÙ£¯AÜ‘0G0‹ÜàãÈ§—Ò?U€ƒŠñÄqŞ‰¬óÌèÂ¡½4–)‘]2S‡Åõ½0„%†9u{!ÒPü<ûÜíéØ$DÇXC—P¥û1İÄ9vò^{í$a$;í¾±ßùBK –ê.C!»ƒ9r[fafj²(G°ıvãÈ wq[7õèjDƒ¬b¢{‡$¾f€¬…-ù§°8L8ğˆ0ÕGpëĞ=YBl¸Ÿ®Á›T¹/tcÀZh¿whõUcÚ:ÿŞ1íbÚş<––Ë¥XÑç‡Àäç)Ğjº.˜-Æ€!Áj{sİ³!pÀi˜ôµŞñ} ´E|NP¹#ü§–A:Q?lÏä Z£^¶è’T§Cƒ¦]ˆOhB´J¨6„¢X““µ«pª”bpYÌ¦NAíZ”7õtx;ŠcÄ1Ú¯9è2ƒÆ@ôoìd$5ê¯Ô-»‡ıŠı˜ôHÌ¢"(|ŠÁUd1ä:Q‹âO]mrxša4 ÒZæK’S\ú[B_o Ş{‡Ö:» ³=·àšaZºè¤KD©ë)¿Ğ½ï!¥Š!ƒŸó–¢[ñ€å„‹§!òã+Té¾œÓ”.¢YYNù/‹:ôyA	¯¿A>i×¥–mÒ¤ y{EÉó¨O£CâbÔcŞâÿ€Ù–¦µœ¯Pfù´~4è|Q·V×-[:\|M^=®Ù-—º1ØÔœS{‘
+½ğ”O°Øé{I¶æ$İ8§öŒŞ+;{1¶„n“µ<$mSô#»ŒY¶<BĞéœìNÌöˆW_‹zá€Pg
+…­xNaX»ı.Â¿‡bmwEÚTYst“5·O;Œ)yÂ(ç(æ€c–Zê¦'9¿CNr|î¦ÏAY;À92¬Ò‰F	À1±œ±9µC<¡šÛ
+QÇÂ‘ç`9(gkK±‡¬"ÊÚLæ2Y
+˜ó_Âƒ›µO–Å1ÏŞf1l ‘´†‚–Ç§•D„•¨›ŠUš#-ÆÎ‰‹wOìaòÈÎ$ç 
+ø`~¾RG3À;ÕV%¦kV%¶w¶¾…PTõÚ=”óÆô¤¬f9F%Gê/ùtèã‘œ%ÈÚ4*;ŒuuµóÉÕnB&I³ÂMQ[Ò"§9‘…š¿Ü¨@LV-ÎàkÆ9NCä¿j\(ğñĞ ¶W.áãƒT|ë&Õ[çªê)UóÍsuér‰be‘é})<Xõ{q9š3%î<U†j1¿€¯L…+p(QL…f_Íï©€ùäí¹g:KÏĞeQõÜZÈ°¶G+ u§ß\†ôÕ¦P¥]  …ÓÊê©fy‘ëÏC~ì#EŠz˜iĞgxp5©5—Áµ³R¼©íŞMêWŒe„ªªïXævi©Èå±äIvPW.yÊÇ€!õ8€è^wÈ|RÆ_¯Ìª’W‘øJ#,à\ß¶M^ÅÌæ¼l~Ö!¯ØÖ¦ÒíPZÂµçœŠ¡ˆ AÖ¬hcQ ¸¨æÀ2ú­aå\i8¥Ú»&zØEæƒ‡ì:ÁBJ	J9¸9/B=•’£	;8Û3\¼e	2•«P·vYûüzğè¢2:í¨’ßõ@
+çV„@)NÏr2¶X0±Ó˜Œr##çfL$6ª‰ ¼•÷Ez¯F'ÍP4k‹g%Ì‹zb7ĞfŒJ;˜¼ ÷ò=öPŞûøF¿­y«í—_,—?±#v“ÔÈSTc+Bs…ÇZ”¢)áhG ït©
+ıR±‚OsÔ1€P7ş£ÂÌPZ¥ÇÚ¯iÿv¾1X¬/°»ävyçö‚Ûí)2‰&  o©TÛ*Á9îİ•Ş=c¦X±lë²€ÀKfHa)¡}YĞBíRÔ]%{.^z:Qï²‚±İçù>agFĞ¹L$„§+5øé5ğ¸6œ­_°Z/,èšI™!–…°Äö-„E©¹Éë]ÊŒ¾ËVíÍ¬„ÇYé$’|OŞé˜Õ6.€á‡\nnH¾9²š6½¢ËŸQD±¤?Ü)7@Ãòœğ'¦€ÖË†lÛ„æ-$Ã¨ÁÏLÓ.%ÃÜ%%#ò2…\NvŸè”—×e^ÚBlH´,R HªHõ„L
+¨{8|	 ‹‚S“¡†QfIÇ¥x„ö-äÃiªQ›öé`Û»|$ËA '|tÁY ó,*!Bû#9Øì«ós×:RUÜ|,F¥æxš¤ş¹<ISJº‰ñWÛ1˜©‡Ÿ¸})ğóö0ó]J»KJs9æÅñ¢ºîuõlEÃÓ¶_rjm” ™™LÃÑ¶ƒ2mÛ7à}#Ì.™~º3}Š6åª½‡t.cQä__d“ÖˆÌËïˆÕ†9^ˆIİ0Œf°¦m¸yÑP†Üj»ÏP”¿KÈ]B6–cöì^5®¥%»{?5öp_±ŒŒ1²´¬9ËÎ0@?¹’v¸‘<¬NY5€¿ßFR¡}apv×ÉêUéêï@¾ŞªÀ Ç!ôRõRÏ¾1RF˜o)øŞ>Q”‹ªê¦8D'SyÛ:}­Ü0^±r¾§epAàvªeÖ”	|ûZF;Vîœ­Åê^Â­´á†¶Öó¡³Ù9[‹â¸äcÎyV4;÷6Uea±¡Os:wî7‡=Ÿè “N	-Úë,õ€;Û¥4±})m2P%Ø©”¬©#øö¥d¦ÉGKvEÓª¸Åár—YˆR›9©³<“¹Q@ûr™pb3UÊ×[S¡ğ²®—åö-„¬–¡˜öñ«
+¾¡åä³V¯J=+gàğÀÎGbş¸+æÙÙ^N*¿ÖO	b±.ÅŒŒäamA-SÖ÷ô²£Ò®+0Ü¾…À:ğIìÕˆ¬)øöå¥‘Êªæ_  H”æÍì›#„¸E"+Vã#!`©„ÉÒZs±¨Ï	UfYiÄ,PÁ¥¥ Óo#nÂè(é
+ÃšZo_¢ñ0Aå7Ë½Îq3}¾OôyÎ£t¨î©ÂÊÉÒ”»¤éD°1ŠüüÔç°wŸ]V¼&Zyğö;6!´o!~Bÿ[¿S9XS-ğÈA
+y[íÂ¹.ìk—q©Î*/õe¼‘;ÒÇP¥=òø}šñY4X>£AF¤‘€ª„Ö—ËeM'èÚ7'ü@»Öö™#«ê¾}qàl®Éy[ä
+W#QoŸâ=~:÷ÅéD‰²bŒ!S÷89ñ/zhñwlß‚¿ÁÒ€Ï,Ç½f8×T|üM»xsw"m£ğ¹ò}y
+G¦åûçì.ñ¿/¢©€œÀÒ„ßTUŒX÷ç»òpqóÂa<úÇRí3ã)ïéÿ/İ ûöLŞÅ¯ü×ÛÍ;ÃºUú‹Šœúj9ú¸SIÚ·ü•L ¦ZE<LZO.	xñİ™±–càÏÿ3¥Á[
+endstream
+endobj
+xref
+0 542
+0000000000 65535 f 
+0000061098 00000 n 
+0000061242 00000 n 
+0000061011 00000 n 
+0000060990 00000 n 
+0000061289 00000 n 
+0000061941 00000 n 
+0000000189 00000 n 
+0000000059 00000 n 
+0000000015 00000 n 
+0000060892 00000 n 
+0000076142 00000 n 
+0000004348 00000 n 
+0000004072 00000 n 
+0000000307 00000 n 
+0000000393 00000 n 
+0000000518 00000 n 
+0000000598 00000 n 
+0000000723 00000 n 
+0000000803 00000 n 
+0000000927 00000 n 
+0000001007 00000 n 
+0000001131 00000 n 
+0000001204 00000 n 
+0000001329 00000 n 
+0000001402 00000 n 
+0000001527 00000 n 
+0000001600 00000 n 
+0000001724 00000 n 
+0000001797 00000 n 
+0000001921 00000 n 
+0000001994 00000 n 
+0000002120 00000 n 
+0000002193 00000 n 
+0000002320 00000 n 
+0000002391 00000 n 
+0000002513 00000 n 
+0000002584 00000 n 
+0000002707 00000 n 
+0000002778 00000 n 
+0000002903 00000 n 
+0000002971 00000 n 
+0000003096 00000 n 
+0000003164 00000 n 
+0000003289 00000 n 
+0000003357 00000 n 
+0000003485 00000 n 
+0000003556 00000 n 
+0000003680 00000 n 
+0000003751 00000 n 
+0000003876 00000 n 
+0000003947 00000 n 
+0000089725 00000 n 
+0000012607 00000 n 
+0000012198 00000 n 
+0000004467 00000 n 
+0000004540 00000 n 
+0000004666 00000 n 
+0000004739 00000 n 
+0000004866 00000 n 
+0000004939 00000 n 
+0000005066 00000 n 
+0000005182 00000 n 
+0000005308 00000 n 
+0000005424 00000 n 
+0000005550 00000 n 
+0000005666 00000 n 
+0000005793 00000 n 
+0000005985 00000 n 
+0000006110 00000 n 
+0000006302 00000 n 
+0000006427 00000 n 
+0000006619 00000 n 
+0000006742 00000 n 
+0000006815 00000 n 
+0000006942 00000 n 
+0000007015 00000 n 
+0000007142 00000 n 
+0000007215 00000 n 
+0000007341 00000 n 
+0000007414 00000 n 
+0000007540 00000 n 
+0000007613 00000 n 
+0000007740 00000 n 
+0000007813 00000 n 
+0000007940 00000 n 
+0000008013 00000 n 
+0000008139 00000 n 
+0000008212 00000 n 
+0000008338 00000 n 
+0000008411 00000 n 
+0000008538 00000 n 
+0000008618 00000 n 
+0000008742 00000 n 
+0000008822 00000 n 
+0000008947 00000 n 
+0000009027 00000 n 
+0000009152 00000 n 
+0000009225 00000 n 
+0000009352 00000 n 
+0000009425 00000 n 
+0000009553 00000 n 
+0000009627 00000 n 
+0000009756 00000 n 
+0000009830 00000 n 
+0000009959 00000 n 
+0000010033 00000 n 
+0000010162 00000 n 
+0000010236 00000 n 
+0000010364 00000 n 
+0000010436 00000 n 
+0000010565 00000 n 
+0000010637 00000 n 
+0000010765 00000 n 
+0000010837 00000 n 
+0000010965 00000 n 
+0000011037 00000 n 
+0000011172 00000 n 
+0000011244 00000 n 
+0000011379 00000 n 
+0000011451 00000 n 
+0000011586 00000 n 
+0000011655 00000 n 
+0000011790 00000 n 
+0000011859 00000 n 
+0000011994 00000 n 
+0000012063 00000 n 
+0000069992 00000 n 
+0000018127 00000 n 
+0000017813 00000 n 
+0000012726 00000 n 
+0000012800 00000 n 
+0000012927 00000 n 
+0000013001 00000 n 
+0000013128 00000 n 
+0000013202 00000 n 
+0000013330 00000 n 
+0000013447 00000 n 
+0000013576 00000 n 
+0000013693 00000 n 
+0000013822 00000 n 
+0000013939 00000 n 
+0000014067 00000 n 
+0000014260 00000 n 
+0000014388 00000 n 
+0000014581 00000 n 
+0000014710 00000 n 
+0000014903 00000 n 
+0000015032 00000 n 
+0000015225 00000 n 
+0000015353 00000 n 
+0000015546 00000 n 
+0000015674 00000 n 
+0000015867 00000 n 
+0000015996 00000 n 
+0000016070 00000 n 
+0000016197 00000 n 
+0000016271 00000 n 
+0000016399 00000 n 
+0000016473 00000 n 
+0000016601 00000 n 
+0000016675 00000 n 
+0000016804 00000 n 
+0000016878 00000 n 
+0000017007 00000 n 
+0000017081 00000 n 
+0000017210 00000 n 
+0000017284 00000 n 
+0000017411 00000 n 
+0000017485 00000 n 
+0000017612 00000 n 
+0000017686 00000 n 
+0000066678 00000 n 
+0000022366 00000 n 
+0000022076 00000 n 
+0000018247 00000 n 
+0000018321 00000 n 
+0000018449 00000 n 
+0000018523 00000 n 
+0000018651 00000 n 
+0000018725 00000 n 
+0000018854 00000 n 
+0000018928 00000 n 
+0000019057 00000 n 
+0000019131 00000 n 
+0000019260 00000 n 
+0000019334 00000 n 
+0000019463 00000 n 
+0000019571 00000 n 
+0000019699 00000 n 
+0000019807 00000 n 
+0000019935 00000 n 
+0000020043 00000 n 
+0000020171 00000 n 
+0000020274 00000 n 
+0000020402 00000 n 
+0000020505 00000 n 
+0000020633 00000 n 
+0000020736 00000 n 
+0000020864 00000 n 
+0000020938 00000 n 
+0000021067 00000 n 
+0000021141 00000 n 
+0000021270 00000 n 
+0000021344 00000 n 
+0000021473 00000 n 
+0000021547 00000 n 
+0000021674 00000 n 
+0000021748 00000 n 
+0000021875 00000 n 
+0000021949 00000 n 
+0000082466 00000 n 
+0000030044 00000 n 
+0000029682 00000 n 
+0000022486 00000 n 
+0000022560 00000 n 
+0000022687 00000 n 
+0000022761 00000 n 
+0000022888 00000 n 
+0000022962 00000 n 
+0000023091 00000 n 
+0000023226 00000 n 
+0000023355 00000 n 
+0000023490 00000 n 
+0000023619 00000 n 
+0000023754 00000 n 
+0000023883 00000 n 
+0000024033 00000 n 
+0000024168 00000 n 
+0000024318 00000 n 
+0000024453 00000 n 
+0000024603 00000 n 
+0000024738 00000 n 
+0000024921 00000 n 
+0000025056 00000 n 
+0000025239 00000 n 
+0000025374 00000 n 
+0000025557 00000 n 
+0000025692 00000 n 
+0000025875 00000 n 
+0000026004 00000 n 
+0000026187 00000 n 
+0000026316 00000 n 
+0000026499 00000 n 
+0000026628 00000 n 
+0000026777 00000 n 
+0000026904 00000 n 
+0000027053 00000 n 
+0000027180 00000 n 
+0000027329 00000 n 
+0000027457 00000 n 
+0000027592 00000 n 
+0000027720 00000 n 
+0000027855 00000 n 
+0000027983 00000 n 
+0000028118 00000 n 
+0000028246 00000 n 
+0000028395 00000 n 
+0000028524 00000 n 
+0000028673 00000 n 
+0000028802 00000 n 
+0000028951 00000 n 
+0000029080 00000 n 
+0000029154 00000 n 
+0000029280 00000 n 
+0000029354 00000 n 
+0000029481 00000 n 
+0000029555 00000 n 
+0000063421 00000 n 
+0000033855 00000 n 
+0000033589 00000 n 
+0000030164 00000 n 
+0000030245 00000 n 
+0000030374 00000 n 
+0000030455 00000 n 
+0000030584 00000 n 
+0000030665 00000 n 
+0000030794 00000 n 
+0000030875 00000 n 
+0000031004 00000 n 
+0000031085 00000 n 
+0000031214 00000 n 
+0000031295 00000 n 
+0000031424 00000 n 
+0000031570 00000 n 
+0000031698 00000 n 
+0000031844 00000 n 
+0000031972 00000 n 
+0000032118 00000 n 
+0000032246 00000 n 
+0000032363 00000 n 
+0000032491 00000 n 
+0000032608 00000 n 
+0000032736 00000 n 
+0000032853 00000 n 
+0000032982 00000 n 
+0000033056 00000 n 
+0000033184 00000 n 
+0000033258 00000 n 
+0000033386 00000 n 
+0000033460 00000 n 
+0000079096 00000 n 
+0000039522 00000 n 
+0000039184 00000 n 
+0000033975 00000 n 
+0000034125 00000 n 
+0000034254 00000 n 
+0000034404 00000 n 
+0000034533 00000 n 
+0000034683 00000 n 
+0000034812 00000 n 
+0000034886 00000 n 
+0000035014 00000 n 
+0000035088 00000 n 
+0000035217 00000 n 
+0000035291 00000 n 
+0000035420 00000 n 
+0000035494 00000 n 
+0000035623 00000 n 
+0000035697 00000 n 
+0000035826 00000 n 
+0000035900 00000 n 
+0000036029 00000 n 
+0000036103 00000 n 
+0000036232 00000 n 
+0000036306 00000 n 
+0000036434 00000 n 
+0000036508 00000 n 
+0000036636 00000 n 
+0000036710 00000 n 
+0000036845 00000 n 
+0000036919 00000 n 
+0000037054 00000 n 
+0000037128 00000 n 
+0000037263 00000 n 
+0000037337 00000 n 
+0000037465 00000 n 
+0000037539 00000 n 
+0000037667 00000 n 
+0000037741 00000 n 
+0000037869 00000 n 
+0000037978 00000 n 
+0000038106 00000 n 
+0000038215 00000 n 
+0000038343 00000 n 
+0000038452 00000 n 
+0000038580 00000 n 
+0000038654 00000 n 
+0000038780 00000 n 
+0000038854 00000 n 
+0000038981 00000 n 
+0000039055 00000 n 
+0000085708 00000 n 
+0000046372 00000 n 
+0000045986 00000 n 
+0000039642 00000 n 
+0000039716 00000 n 
+0000039845 00000 n 
+0000039919 00000 n 
+0000040048 00000 n 
+0000040122 00000 n 
+0000040251 00000 n 
+0000040323 00000 n 
+0000040452 00000 n 
+0000040524 00000 n 
+0000040653 00000 n 
+0000040725 00000 n 
+0000040853 00000 n 
+0000040925 00000 n 
+0000041060 00000 n 
+0000041132 00000 n 
+0000041267 00000 n 
+0000041339 00000 n 
+0000041474 00000 n 
+0000041546 00000 n 
+0000041671 00000 n 
+0000041743 00000 n 
+0000041872 00000 n 
+0000041944 00000 n 
+0000042073 00000 n 
+0000042147 00000 n 
+0000042274 00000 n 
+0000042348 00000 n 
+0000042476 00000 n 
+0000042550 00000 n 
+0000042678 00000 n 
+0000042752 00000 n 
+0000042881 00000 n 
+0000042955 00000 n 
+0000043084 00000 n 
+0000043158 00000 n 
+0000043287 00000 n 
+0000043392 00000 n 
+0000043521 00000 n 
+0000043626 00000 n 
+0000043755 00000 n 
+0000043860 00000 n 
+0000043989 00000 n 
+0000044094 00000 n 
+0000044221 00000 n 
+0000044326 00000 n 
+0000044454 00000 n 
+0000044559 00000 n 
+0000044688 00000 n 
+0000044793 00000 n 
+0000044921 00000 n 
+0000045026 00000 n 
+0000045154 00000 n 
+0000045259 00000 n 
+0000045387 00000 n 
+0000045461 00000 n 
+0000045587 00000 n 
+0000045661 00000 n 
+0000045787 00000 n 
+0000045861 00000 n 
+0000073087 00000 n 
+0000051057 00000 n 
+0000050743 00000 n 
+0000046492 00000 n 
+0000046566 00000 n 
+0000046695 00000 n 
+0000046769 00000 n 
+0000046898 00000 n 
+0000046972 00000 n 
+0000047101 00000 n 
+0000047175 00000 n 
+0000047298 00000 n 
+0000047372 00000 n 
+0000047498 00000 n 
+0000047572 00000 n 
+0000047698 00000 n 
+0000047772 00000 n 
+0000047901 00000 n 
+0000047975 00000 n 
+0000048104 00000 n 
+0000048178 00000 n 
+0000048307 00000 n 
+0000048381 00000 n 
+0000048510 00000 n 
+0000048584 00000 n 
+0000048713 00000 n 
+0000048787 00000 n 
+0000048916 00000 n 
+0000048990 00000 n 
+0000049119 00000 n 
+0000049193 00000 n 
+0000049322 00000 n 
+0000049396 00000 n 
+0000049525 00000 n 
+0000049599 00000 n 
+0000049728 00000 n 
+0000049802 00000 n 
+0000049931 00000 n 
+0000050005 00000 n 
+0000050134 00000 n 
+0000050208 00000 n 
+0000050337 00000 n 
+0000050411 00000 n 
+0000050540 00000 n 
+0000050614 00000 n 
+0000093739 00000 n 
+0000059571 00000 n 
+0000059161 00000 n 
+0000051177 00000 n 
+0000051258 00000 n 
+0000051386 00000 n 
+0000051467 00000 n 
+0000051595 00000 n 
+0000051676 00000 n 
+0000051804 00000 n 
+0000051878 00000 n 
+0000052006 00000 n 
+0000052080 00000 n 
+0000052208 00000 n 
+0000052282 00000 n 
+0000052410 00000 n 
+0000052530 00000 n 
+0000052653 00000 n 
+0000052773 00000 n 
+0000052899 00000 n 
+0000053019 00000 n 
+0000053145 00000 n 
+0000053291 00000 n 
+0000053420 00000 n 
+0000053566 00000 n 
+0000053695 00000 n 
+0000053841 00000 n 
+0000053970 00000 n 
+0000054051 00000 n 
+0000054185 00000 n 
+0000054259 00000 n 
+0000054393 00000 n 
+0000054467 00000 n 
+0000054601 00000 n 
+0000054673 00000 n 
+0000054807 00000 n 
+0000054876 00000 n 
+0000055010 00000 n 
+0000055084 00000 n 
+0000055218 00000 n 
+0000055335 00000 n 
+0000055466 00000 n 
+0000055659 00000 n 
+0000055793 00000 n 
+0000055986 00000 n 
+0000056120 00000 n 
+0000056194 00000 n 
+0000056328 00000 n 
+0000056436 00000 n 
+0000056570 00000 n 
+0000056673 00000 n 
+0000056807 00000 n 
+0000056881 00000 n 
+0000057015 00000 n 
+0000057150 00000 n 
+0000057280 00000 n 
+0000057430 00000 n 
+0000057564 00000 n 
+0000057747 00000 n 
+0000057880 00000 n 
+0000058029 00000 n 
+0000058162 00000 n 
+0000058243 00000 n 
+0000058375 00000 n 
+0000058521 00000 n 
+0000058653 00000 n 
+0000058803 00000 n 
+0000058935 00000 n 
+0000059044 00000 n 
+0000061332 00000 n 
+0000060597 00000 n 
+0000060427 00000 n 
+0000059691 00000 n 
+0000059800 00000 n 
+0000059934 00000 n 
+0000060039 00000 n 
+0000060173 00000 n 
+0000060293 00000 n 
+0000060812 00000 n 
+0000060717 00000 n 
+0000060746 00000 n 
+0000060775 00000 n 
+trailer
+<<
+/Size 542
+/Root 3 0 R
+/Info 538 0 R
+/ID [<b96e65ae7b46cd257adc54e23f503131> <b96e65ae7b46cd257adc54e23f503131>]
+>>
+startxref
+97219
+%%EOF

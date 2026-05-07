@@ -1,0 +1,42 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pandoc \"/Users/michael.soltys/Library/CloudStorage/Dropbox-OmniaInBonum/Michael Soltys/Docs/Writing/Papers/ITEA2026/RAG_DoD_TE_Research_Paper_Outline.docx\" -t plain --wrap=none)",
+      "Bash(make)",
+      "Bash(brew install:*)",
+      "Bash(rsvg-convert -f pdf -o naive-vs-advanced-rag.pdf naive-vs-advanced-rag.drawio.svg)",
+      "Bash(make all:*)",
+      "Bash(sed -i '' '/<switch>/{N;N;N;N;N;N;N;/<\\\\/switch>/{/Text is not SVG/d;}}' hybrid-search.drawio.svg)",
+      "Bash(python3 -c \":*)",
+      "Bash(rsvg-convert -f pdf -o hybrid-search.pdf hybrid-search.drawio.svg)",
+      "Bash(grep -v \"^--$\")",
+      "Bash(rsvg-convert -f pdf -o rag-pipeline.pdf rag-pipeline.drawio.svg)",
+      "WebSearch",
+      "Bash(UA=\"Mozilla/5.0 \\(Macintosh; Intel Mac OS X 10_15_7\\) AppleWebKit/537.36\")",
+      "Bash(curl -sL -o lewis2020.pdf --user-agent \"$UA\" \"https://arxiv.org/pdf/2005.11401.pdf\")",
+      "Bash(curl -sL -o brown2020.pdf --user-agent \"$UA\" \"https://arxiv.org/pdf/2005.14165.pdf\")",
+      "Bash(curl -sL -o gao2023.pdf --user-agent \"$UA\" \"https://arxiv.org/pdf/2312.10997.pdf\")",
+      "Bash(curl -sL -o wang2024rag.pdf --user-agent \"$UA\" \"https://arxiv.org/pdf/2407.01219.pdf\")",
+      "Bash(curl -sL -o dtea2025.pdf --user-agent \"$UA\" \"https://aaf.dau.edu/storage/2025/03/DTE_of_AIES_Guidebook_Final_26Feb25_signed.pdf\")",
+      "Bash(curl -sL -o cdao_rmf2024.pdf --user-agent \"$UA\" \"https://dodcio.defense.gov/Portals/0/Documents/Library/AI-CybersecurityRMTailoringGuide.pdf\")",
+      "Bash(curl -sL -o dod_zt2026.pdf --user-agent \"$UA\" \"https://media.defense.gov/2026/Jan/08/2003852320/-1/-1/0/CTR_ZERO_TRUST_IMPLEMENTATION_GUIDELINE_PRIMER.PDF\")",
+      "Bash(curl -sL -o dod_ai_strategy2026.pdf --user-agent \"$UA\" \"https://media.defense.gov/2026/Jan/12/2003855671/-1/-1/0/ARTIFICIAL-INTELLIGENCE-STRATEGY-FOR-THE-DEPARTMENT-OF-WAR.PDF\")",
+      "Bash(curl -sL -o ciso2025.pdf --user-agent \"$UA\" \"https://resources.data.gov/assets/documents/Zero-Trust-DataSecurityGuide_RevisedMay2025_CIO.govVersion.pdf\")",
+      "Bash(curl -sL -o aws2025.html --user-agent \"$UA\" \"https://aws.amazon.com/what-is/retrieval-augmented-generation\")",
+      "Bash(curl -sL -o ibm2025.html --user-agent \"$UA\" \"https://www.ibm.com/think/topics/retrieval-augmented-generation\")",
+      "Bash(curl -sL -o stackoverflow2023.html --user-agent \"$UA\" \"https://stackoverflow.blog/2023/10/18/retrieval-augmented-generation-keeping-llms-relevant-and-current\")",
+      "Bash(curl -sL -o promptingguide2024.html --user-agent \"$UA\" \"https://www.promptingguide.ai/research/rag\")",
+      "Bash(curl -sL -o gdit2024.html --user-agent \"$UA\" \"https://www.gdit.com/perspectives/latest/how-adaptive-rag-makes-generative-ai-more-reliable-for-defense-missions\")",
+      "Bash(curl -sL -o vanroo2025.html --user-agent \"$UA\" \"https://benvanroo.substack.com/p/niprgpt-success-criticism-and-future\")",
+      "Bash(curl -sL -o defensescoop_dec2025.html --user-agent \"$UA\" \"https://defensescoop.com/2025/12/09/genai-mil-platform-dod-commercial-ai-models-agentic-tools-google-gemini\")",
+      "Bash(curl -sL -o asksage2025.html --user-agent \"$UA\" \"https://www.asksage.ai/who-we-serve/defense-industrial-base\")",
+      "Bash(curl -sL -o grsee2025.html --user-agent \"$UA\" \"https://grsee.com/resources/fed-assess/dod-cloud-security-requirements-how-to-secure-cloud-adoption\")",
+      "Bash(curl -sL -o paragon2024.html --user-agent \"$UA\" \"https://www.useparagon.com/blog/comprehensive-guide-to-the-rag-tech-stack\")",
+      "Bash(echo \"OK: $f\")",
+      "Bash(echo \"NOT PDF: $f\")",
+      "Bash(done)",
+      "Bash(/Users/michael.soltys/DB/Docs/Workshop/bin/proc.sh \"/Users/michael.soltys/Library/CloudStorage/Dropbox-OmniaInBonum/Michael Soltys/Docs/Writing/Papers/ITEA2026/Sources/\")",
+      "Bash(ls /Users/michael.soltys/Library/CloudStorage/Dropbox-OmniaInBonum/Michael Soltys/Docs/Writing/Papers/ITEA2026/Sources/*.md)"
+    ]
+  }
+}
