@@ -92,11 +92,12 @@ Both papers (RAG and Vendor Lock-In) accepted for publication subject to minor e
 
 **Action items:**
 
-- [ ] RAG: weave in 4–6 of the new RAG references in §II ("How RAG works") background, the literature review subsection
-- [ ] RAG: in §IV (Security) and §VI (Few-shot report generation) discussion paragraphs, add 2–3 sentences connecting our themes (vendor independence, hallucination mitigation, enterprise corpora) to the listed surveys (Gao, Brown, Yu, Klesel, Karakurt)
-- [ ] RAG: generalize DoW-specific acronyms (RMF, CMMC, IL4–IL6, NIPRNet/SIPRNet, DISA, CDAO, ATO, STIG) into international/industry equivalents with DoW terms in brackets — first mentions only
-- [ ] Convert `rag.tex` → `rag.docx` (pandoc with citeproc) once edits are in
-- [ ] Send .docx to Keith
+- [x] RAG: weave in 4 new RAG references (Brown 2025, Yu 2025, Wampler 2026, Packowski 2024) — done May 6
+- [x] RAG: discussion connections to listed surveys — done May 6
+- [x] RAG: generalize DoW-specific acronyms — done May 6 (terminology paragraph + 3 inline parentheticals)
+- [x] Convert `rag.tex` → `rag.docx` (pandoc with citeproc) — done May 7
+- [x] Fix PDF figures not rendering in .docx (converted to PNG via `pdftoppm`, re-exported with sed-substituted temp .tex) — done May 7
+- [x] Send .docx to Keith — sent May 7, 2026 (with vendor-lockin.docx)
 
 ## See Also
 
