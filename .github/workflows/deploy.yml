@@ -23,7 +23,42 @@ jobs:
         with:
           node-version: 22
       - run: npm i -g @slidev/cli @slidev/theme-default
-      - run: slidev build slides_rag_itea2026.md --base /ITEA2026-RAG/ --out dist
+      - run: slidev build slides_rag_itea2026.md --base /ITEA2026-RAG/rag/ --out dist/rag
+      - run: slidev build slides_mdo_itea2026.md --base /ITEA2026-RAG/mdo/ --out dist/mdo
+      - name: Create index page
+        run: |
+          cat > dist/index.html << 'EOF'
+          <!DOCTYPE html>
+          <html lang="en">
+          <head>
+            <meta charset="utf-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1">
+            <title>ITEA 2026 Presentations</title>
+            <style>
+              body { font-family: sans-serif; max-width: 600px; margin: 4rem auto; padding: 0 1rem; }
+              h1 { font-size: 1.5rem; margin-bottom: 2rem; }
+              ul { list-style: none; padding: 0; }
+              li { margin: 1rem 0; }
+              a { color: #2563eb; font-size: 1.1rem; text-decoration: none; }
+              a:hover { text-decoration: underline; }
+              p { color: #6b7280; margin: 0.25rem 0 0; font-size: 0.9rem; }
+            </style>
+          </head>
+          <body>
+            <h1>ITEA 2026 Presentations</h1>
+            <ul>
+              <li>
+                <a href="rag/">Secure RAG for T&amp;E Report Automation</a>
+                <p>Track 6 &mdash; Taming the Beast</p>
+              </li>
+              <li>
+                <a href="mdo/">Vendor-Agnostic AI as an MDO Enabler</a>
+                <p>All/Multi-Domain Operations Forum</p>
+              </li>
+            </ul>
+          </body>
+          </html>
+          EOF
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist

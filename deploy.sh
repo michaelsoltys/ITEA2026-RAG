@@ -20,8 +20,8 @@ cd "$SCRIPT_DIR"
 case "${1:-deploy}" in
 
   deploy|--deploy)
-    if ! git diff --quiet HEAD -- slides_rag_itea2026.md public/ .github/ 2>/dev/null || [ -n "$(git ls-files --others --exclude-standard -- slides_rag_itea2026.md public/ .github/)" ]; then
-      git add slides_rag_itea2026.md public/ .github/
+    if ! git diff --quiet HEAD -- slides_rag_itea2026.md slides_mdo_itea2026.md public/ .github/ 2>/dev/null || [ -n "$(git ls-files --others --exclude-standard -- slides_rag_itea2026.md slides_mdo_itea2026.md public/ .github/)" ]; then
+      git add slides_rag_itea2026.md slides_mdo_itea2026.md public/ .github/
       git commit -m "Update slides — $(date '+%Y-%m-%d %H:%M')"
       git push
       echo ""
